@@ -86,4 +86,18 @@
 
 * secular adj.现世的，世俗的  n.牧师
 
-* 
+* be in want of 缺乏,需要
+
+* modification n.改变
+
+* do without n...  do的意思取决于n
+
+  * I can do without money
+
+* clique n.小团体，小圈子
+
+* in the sense that = because
+
+* disinterested adj.客观公正的
+
+* A is important to B = the importance of A to B
