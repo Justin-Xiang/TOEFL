@@ -14,9 +14,9 @@
 
 Perhaps it's easier to get accustomed to expensive petrol than it is **to doing without **the car.
 
-to  do without
+ do without
 
-这里的do可以指不被引起歧义的意思
+do的理解取决于宾语
 
 ## 连接省略
 
