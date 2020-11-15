@@ -1,0 +1,5 @@
+Groupthink refers to the phenomenon that individual members of a group attempt to conform their opinions to what they believe to be the group consensus even though the result may be negative,just like the example from the professor about the computer company he once worked for.
+
+In the beginning he suggested the company should design a new look for their products and half of the group supported him,however,when a senior manager said it's an unnecessary cost,nearly all of them changed their minds and sided with the senior manager,including the professor himself because they don't want to leave a bad impression on the senior manager. So in the end they stayed with the old design while their competitors designed a new look for their computers which attracted a lot of their potential customers and cause them a huge loss.
+
+So this example proves that groupthink can lead to very negative results. 

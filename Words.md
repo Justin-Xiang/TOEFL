@@ -101,3 +101,49 @@
 * disinterested adj.客观公正的
 
 * A is important to B = the importance of A to B
+
+* delivery:语音语调，表达能力
+
+* enable somebody to do sth 使某人能做某事
+
+* excel in studies 在学业方面表现卓越
+
+* forage n.饲料 v.觅食
+
+* nomadism n.游牧业
+
+* nomadic adj.游牧的
+
+* sedentary adj.稳定的
+
+* Sed- 静止的
+
+* sedative adj.镇定的
+
+* fort n.堡垒
+
+* fortify v.加强,建造堡垒
+
+* disaffection n.不满
+
+* Bel- 战争 美丽
+
+* rebel v.叛乱
+
+* belligerent adj.好斗的
+
+* advance v.前进，提出
+
+* supplement v.补充
+
+* lumin n.光
+
+* illuminate v.点亮 阐明
+
+* lucid adj.清晰的
+
+* elucidate v.阐明
+
+* cereal  n.麦片
+
+* omelet n.蛋饼
