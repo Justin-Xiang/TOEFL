@@ -1,0 +1,57 @@
+﻿ get information about a class requirement
+第1题
+Why does the student go to see the professor?
+A To ask about an upcoming meeting of the psychology club 
+B To find out the process for changing his major field study 
+C To get information about a class requirement 
+D To learn about possible internship opportunities
+
+
+第2题
+What does the professor say about her experience as a student in the psychology club?
+A It helped her to obtain a summer internship.
+B It helped her to narrow down her interest in psychology.
+C It prepared her to better understand her future students.
+D It helped her to see the connection between psychology and other fields of study.
+
+
+第3题
+Why does the professor mention experts and novices?
+A To clarify the purpose of the research paper 
+B To point out the flaws in a research paper 
+C To describe the progression of classes for a psychology major
+D To explain a case study that was not discussed in class
+
+
+第4题
+What point does the student make when he talks about an experiment concerning Newton's laws of motion?
+A Novices	are sometimes better than experts at recognizing fundamental principles.
+B Novices’	difficulty in solving equations affects their understanding of abstract concepts.
+C Experts begin problem solving by making use of broad principles.
+D Experts tend to employ create methods to recall details.
+
+
+
+
+get information about a class requirement
+Listen to a coversation between a student and his psychology professor
+
+1: Thanks for meeting with me Professor Davis and you know, your class is great. It even got me thinking of changing my major to psychology.
+2:I think you'd be a good fit. You're always full of insightful questions and actually, I didn't see you at the informational meeting for the psychology club, but I think it's something you'd enjoy.
+1: Yea, I wanted to go, but I had a study group for another class. The club sounds great; lectures from people in the fields, volunteering opportunities, seems really useful.
+2: Yes, it’s a valuable experience and fun! When I was a student, unlike some other fields, psychology's such a broad field. What clubs like these offer, the events, lectures, internship opportunities, they helped me find a focus when I was in school and that's why I offered to be the club advisor. You know, we're meeting tonight. A few students will be talking about their summer internships.
+1: I’d love to go, especially if I decide to major in psych, but I have another study group tonight for our class actually. We're going over the nerve pathways of the brain and we're going to talk about the research essay.
+2: Good idea. The first paper is always a little daunting.
+1: Yea, especially since, well that's why I’m here actually. We've covered so much like the background on brain anatomy, the case studies, and articles on decision-making and problem solving. So, I'm wondering how to approach this.
+2: Well, look to the central task: a case study, an analysis of a particular psychological process. Use that as a basis to organize what you've learned about the biological basis of behavior. I want to see that you can connect all the information we've covered in class. Use it to draw conclusions about that psychological process.
+1: But, I mean, couldn't different people come to different conclusions?
+2: Yes, but if your analysis makes sense and incorporates what we've learned in class, you'll get credit. I know it's tough, but do you remember what we were saying in class, about experts and novices?
+1: Well, experts recognize patterns in information, right, where novices might just see random details, so experts can solve problems faster.
+2: Yes and to be able to do that experts have to go through a lot of trial and error to hone their skills.
+1: They couldn't see those patterns without all of the experience of connecting the information.
+2: You said it’ so consider this an exercise.
+1: It’s like in that article you had us read about that experiment, about the physics problem in Newton's Laws of Motion. 2: Right, the difference in how experts and novices approach the problem.
+1: Yea. it was interesting to see that novices tried to solve it by recalling equations, like plugging numbers into equations, formulas, etcetera. Whereas experts, they would first think about the major principles like Newton's Laws and how and why those laws applied to the physics problem.
+
+
+{"1": ["C"], "2": ["B"], "3": ["A"], "4": ["C"]}

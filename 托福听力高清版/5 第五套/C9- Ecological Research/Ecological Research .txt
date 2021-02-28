@@ -1,0 +1,51 @@
+﻿Ecological Research 
+
+Listen to a conversation between a student and her biology professor.
+
+Professor
+So I heard that your field work ended up camping a few days longer than expected.
+Student
+Yeah, the bus broke down. It gave us time to gather more specimens from the lake to study in the lab but unfortunately 1 admit missing a day of classes, including the class when you describe the requirements for the paper.
+Professor
+Ur, that brings back memories from my undergraduate days. 
+
+
+So anyway what I'm looking for is an ecological situation in which the solution causes a much greater problem than the original problem it was intended to solve. The example I gave in class was about cane toad in Australia. They were imported there in 1935 to control the grayback cane beetles that were destroying the sugar cane crops.
+Student
+And what? The plant backfired?
+Professor
+Yep. It’s a classic case of biological control done awry. The toads ate some beetles but they also ate many other animals and they're poisonous and being an imported species they had no natural predators.
+Student 
+Not good.
+Professor
+Definitely not. Even worse, the toads had no effect on grayback cane beetle populations either. Hum, so tell me what do you have in mind for, your paper. 
+
+
+
+Student
+Well, I got the idea from a radio interview I heard. It was Winstly ecologist to claim that the greatest threat to the greatest number of species in the next 25 years is not global warming as one would expect but the cultivation of oil palm trees.
+Professor
+Ah, yes. There's been a lot of talk recently about whether oil palm plantations are harmful to biodiversity. Some areas report losing as much as 80% of the native bird and butterfly populations and the oil palm is being cultivated in so many places in the world now.
+Student
+Everybody thought it was a short winner, and made a lot of sense both economically and environmentally. Here's a crop that's in high demand, easy to grow and won't disrupt the ecosystem.
+Professor
+Or so they thought. It's a good topic.
+
+
+
+Student
+So in my write the paper should be divided into two sections?
+Professor
+Yes. In the first section, you describe the practice, the history of where and how it was implemented, the degree to which it has been successful, and why and how it has become a conservation problem or a potential problem.
+Student
+Right. And the second part is about how to develop a suitable policy to deal with the problem?
+Professor
+Exactly. The second section should also include the pros and cons associated with oil palm cultivation. I'm interested to see what you come up with.
+Student
+You mean, because it's not all bad.
+Professor
+Right. Oil from the oil palm happens to be very useful. It's in so many products, from food to alternative fuel and some of the communities in the regions where the crop was introduced have really flourished. There is a lot to consider. It’s definitely not a clear-cut situation.
+
+
+
+{"1": ["C"], "2": ["D"], "3": ["B"], "4": ["A"], "5": ["B", "D", "E"]}

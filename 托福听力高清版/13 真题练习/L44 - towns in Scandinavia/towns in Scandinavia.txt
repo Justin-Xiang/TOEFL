@@ -1,0 +1,69 @@
+﻿ towns in Scandinavia
+
+第1题
+What is the lecture mainly about?
+A Recently discovered archaeological sites from Viking Age Scandinavia 
+B A new theory about the production of goods in Viking Age Scandinavia
+C A new way of thinking about the development of towns in Viking Age Scandinavia 
+D The rise and fall of trade networks in Viking Age Scandinavia
+
+
+第2题
+Why does the professor mention airports?
+A To illustrate the concept of a nodal point 
+B To explain the original application of network 
+C To contrast modern commerce with medieval trading 
+D To emphasize the role of technology in trading networks
+
+
+第3题
+According to the professor, what artifacts were found at only seven Viking trading sites?
+A A large quantity of copper coins from Germany
+B Several pieces of jewelry made from silver
+C A large quantity of imported ceramics
+D Evidence of the production of bronze castings
+
+
+第4题
+According to the professor, in what way were early Scandinavian towns different from later settlement?
+A Early Scandinavian towns were less likely to be fortified.	
+B Early Scandinavian towns had more contact with The surrounding countryside.
+C Early Scandinavian towns were farther apart from one another.	
+D Early Scandinavian towns were less likely to be involved in international trade.
+
+
+第5题
+What does the professor imply is a problem with the central-place theory?
+A It assumes that all early Viking towns were long-distance trading centers.
+B It assumes that all early Viking towns had military power.	
+C It assumes that all of the early Viking towns were about the same size.
+D It assumes that all centra places grew into large towns.
+
+
+第6题
+What does the professor imply when she says this:
+A The theory is often misunderstood.
+B The theory applies mainly to Scandinavia. 
+C The theory has evolved over time.
+D The theory is known by another name.
+
+
+Listen to part of a lecture in an archaeology class.
+We were talking last time about the Viking age of Scandinavia which lasted from about 700 CE to roughly 1100 CE. And in the early part of the Viking age, it certainly wasn't what you call an urban society, but there is evidence that quite a few towns emerged around that time. And scholars have been trying to figure out why. What were the dynamics that led to their existence? 
+
+
+One theory, for simplicity's sake, we call it the Central Place Theory, says that these fawns began as central places within different regions across the Scandinavian landscape. In this view, the first towns were regional centers each one time economically to the local surrounding countryside. As a local market really, it is exercising political control over the area. 
+
+Well, recently an archaeologist named Smith decided that there was another way to look at the process of urbanization, how these towns developed in the Viking age. He says that we shouldn't look at all these early towns in the same way, that not all of them had their primary relation with the surrounding countryside. He says that some of these early towns, what caused them to grow was their economic connections with other towns, some of which were quite far away, in other words, long-distance trade. He thinks we should look at some early Scandinavian towns as a network. 
+
+
+Now, his notion of network comes from network theory. Network theory is a mathematical concept that's been used to explain a lot of different processes in many different fields. Um, basically it's the study of the structure of the relationships between the elements of a system. Now a key aspect of network theory is the concept of nodal points or notes. Nodal points are those viewpoints in a network that get the most traffic. They are the most highly connected, like, like, like the largest airports that have the most connection flights .
+
+
+So Smith decided to figure out which towns in medieval Scandinavia could be classified as nodal points for long-distance traffic in the network of early Viking towns. He did this by analyzing artifacts that had been gathered from archaeological-sites from the early Viking era. So what he did was to look not just at the quantify of artifacts that were found in different sites, but also to classify them according to the types of artifacts that were found. To determine whether a town had long-distance connections, he looked at the quantity of imported goods found at the site, as opposed to look, at available goods. One example of an important goods he found Is a type of ceramics that wasn't produced in Scandinavia, but in Deutschland, um, in what is now Germany. These German ceramics are found in abundance in only seven sites in early Viking age Scandinavia. Those same seven sites are also the only sites that contain evidence of the production of  bronzes. New making bronze required raw materials, like copper alloy, which wasn't available locally. It would have had to have come from d long distance away and passed to the hands of traders. Because of this, Smith called these sites trading sites. It's that long-distance connection that distinguishes a trading site from other kinds of towns and makes it a nodal point in the network. 
+
+
+Why is network theory a more useful approach to the study of Scandinavian urbanization than the Central Place Theory? Well, unlike the Central Place Theory, Network Theory doesn’t make uniform assumptions about the towns, assumptions that may not be true. According to the Central Place Theory, towns exerted political control over the surrounding region and that would have required military force. But in fact, until 900s, few Scandinavian towns were fortified. Network theory makes no assumptions about political control. The only characteristic that a town needs in order to qualify as a node in the network is that it would be a suitable starting off point in the long-distance trade and shipment of goods.
+
+
+{"1": ["C"], "2": ["A"], "3": ["C", "D"], "4": ["A"], "5": ["B"], "6": ["C"]}

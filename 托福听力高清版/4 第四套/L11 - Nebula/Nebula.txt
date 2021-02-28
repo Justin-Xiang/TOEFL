@@ -1,0 +1,49 @@
+﻿ Nebula
+
+第1题
+what does the professor main discuss?
+A ways that stars become nebulae
+B reasons that nebulae appear to give off blue light
+C difference between nebulae and stars
+D a basis for classifying types of nebulae
+
+
+第2题
+What point does the professor make about Orion’s sword?
+A it points toward a nebula in the constellation Taurus.
+B it contains a nebula that looks like a star to the naked eye.
+C it contain stars whose light is a reflection of other nearby stars.
+D it contains two stars that are remnants of a supernova.
+
+
+第3题
+What does the professor say about the origin of the crab nebula?
+A It was formed when interstellar gas clouds combined.
+B It was created by an exploding star. 
+C It did not emit when it was first formed.
+D It was formed in the same way as many reflection nebulae.
+
+
+第4题
+What is a typical characteristic of dark nebulae?
+A They are obscured from view by nearby stars.
+B They are located in parts of the sky that do not contain bright stars. 
+C The dust and gas they contain are too dense to let light through.
+D They are too hot to emit radiation in the visible range.
+
+
+第5题
+Why does the professor say this:
+A To clarify his previous statement 
+B To call attention to an unusual phenomenon 
+C To emphasize a feature of all types of nebulae 
+D To repeat a point he made earlier
+
+
+
+
+Listen to part of a lecture in an astronomy class.
+Okay. Let's get started. Last time we talked about the types of stars that make up the galaxy and how they evolved. Today let’s .talk about nebula. The singular nebula, plural nebulae. Nebulae are clouds of gas and that occur here end there out in the galaxy and interstellar space. I am gonna talk about three kinds of nebulae and will start with Emission Nebulae. They are called Emission Nebulae because they emit their own light. The cloud of gas and dust in the Emission Nebula is hot and glowing. Um. two famous examples of Emission Nebulae are the Orion Nebula and the Crab Nebula. The Orion Nebula looks like a star to the naked eye. If you know what the constellation Orion looks like, it's the middle star of Orion sword. Even with a small telescope, you can see that if looks a little fuzzy, and with really good telescopes we can tell them that it’s a cloud of glowing gases. Inside that cloud there are hundreds of bright young stars and new stars being formed. Those young slurs keep the gas in the nebula hot enough to glow and the Crab Nebula is in the constellation Taurus, it's not an area of star formation. It's the remains of a supernova and an exploding stars 1,000 years ago the supernova was so bright that it was visible in the daytime for 23 days. The gas that exploded in the space is still glowing and is still expanding outwards from the explosion site. And we see it now as the Crab Nebula. So star formation is not necessarily the source of the right in Emission Nebulae. Reflection Nebulae also give off light, but it’s not their own. Reflection Nebulae reflect light from the stars around them. A good example of this is in the Pleiades constellation where the stars are surrounded by clouds of gas. The light you see from these clouds of gas is light reflected from the bright stars they are surrounding rather than light which originates in the gas clouds themselves. And Emission Nebula like the Orion or Crab nebula tends to give up red light, but you find that reflection nebulae fend to be blue because the stars that are hot enough and bright enough to illuminate such nebulae are usually blue in color. Remember that from last time, the blue stars of the really hot ones. But it’s the stars that are hot. not the gas in the nebula. That's one difference. In the reflection nebula the gas doesn't get hot enough to glow on its own, while in emission nebulae it's the gas that glows. So a crude first cut in distinguishing nebulae is simply on the basis of color. Okay. The third type of nebulae ! am going to talk about are Dark Nebulae .And they don't give off light at all. That’s because the dust and gas within them is so concentrated it blocks the light of the stars that are beyond them from view. A good example of the Dark Nebula would be the cold fat nebula. The cold fat nebula is in the Southern Cross constellation. It's the most visible Dark Nebula.
+It can be seen with the naked eye. Not from here. You can see from here so far north. You gotta be closer to the equator, or south of the equator. So when you look at Dark Nebula, what you see is what looks like a dark hole in the region where you have a very bright background. It's an absence of brightness where you would expect to see bright material, for example a region where you have a high density of stars or a bright  emission nebula, and suddenly it looks like there’s a dark gap or a hole in it. That’s the dark nebula.
+
+{"1": ["D"], "2": ["B"], "3": ["B"], "4": ["C"], "5": ["D"]}

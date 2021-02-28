@@ -1,0 +1,71 @@
+﻿ passage5
+第1题
+Why does the man go to see the professor?
+A To explain an answer he gave on a recent exam.
+B To discuss a paper he is preparing to write.
+C To ask about a theory the professor mentioned in class.
+D To discuss recent events in Europe.
+
+
+第2题
+What can be inferred about the phlogiston theory?
+A  It did not originate in Europe.
+B It was the first theory proposed by modern chemists.
+C It was based on data collected over a long period of time.
+D It was widely accepted in Europe at one time.
+
+
+第3题
+According to the professor, what questions about fire did the phlogiston theory try to answer?
+A Why fires radiate heat and light.
+B Why fires cannot survive in an enclosed space.
+C Why substances lose mass when they burn.
+D Why some substances burn faster than others.
+
+
+第4题
+What does the professor suggest the man include in his paper?
+A A comparison of the alchemy practiced in different regions of the world.
+B A biography of the scientist who first proposed the phlogiston theory.
+C  A discussion of various developments in eighteenth-century European history.
+D Details about the applications of the phlogiston theory.
+
+
+第5题
+What does the professor imply when she says this:
+A She thinks the man is an excellent writer.
+B She thinks the man’s topic maybe too limited.
+C She wants to know if the man has taken a writing course.
+D She thinks the man wants to include too much information in his paper.
+
+
+
+
+
+[al:佳文]
+[ar:佳音]
+[ti:P264]
+[by:Linsena]
+[00:00.00][ppp]Listen to part of a conversation between the student and his European history professor//请听一位学生和他的欧洲史教授之间的一段对话
+[00:05.55][ppp]So, how are you doing, Sam?//过得怎么样，山姆？
+[00:07.71][ppp]Well, I can't complain.//不太好，但是我不能抱怨。
+[00:09.80][ppp]Good. Now earlier you started telling me that you want to do something on.//好。早些时候你告诉我你想做点什么......
+[00:14.64][ppp]Alchemy.//炼金术。
+[00:16.00][ppp]Alchemy, right.//炼金术？好的。
+[00:17.26][ppp]Yes, I want to get across how in the 17th and 18th centuries Europeans thought alchemy was a science. You know like we think of physics or biology today.//是的，我想要了解17和18世纪的欧洲人为什么认为炼金术是一门科学。就像我们现在将物理学或生物学视为一门科学。
+[00:26.03][ppp]Okay. But of course that's something you could get across in a single sentence. In fact you just did.//好的。但当然，这可以从一句话来理解其中的原因。事实上你刚刚做到了。
+[00:32.09][ppp]Right. Now the main focus is going to be on the transition. You know the transition from alchemy to actual modern chemistry.//对。现在，焦点是转变。你知道从炼金术到实际现代化学的转变。
+[00:38.97][ppp]Okay.//好的。
+[00:40.25][ppp]And I came across this theory I thought I might be able to use. It's called the phlogiston theory. It was a theory in the 1600s and 1700s that tried to explain the phenomenon of fire. Alchemists believed that phlogiston was some kind of mysterious fluid, a colorless and odorless fluid that was given off into the air during combustion and substances that burned were thought to be rich in phlogiston. The whole theory seems a little bizarre.//我想到了，我可以使用的这个理论，燃素理论。这是17世纪和18世纪试图解释烈火现象的理论。炼金师认为，燃素是一种神秘的液体，一种无色无味的液体，在燃烧过程中被释放到空气中，人们认为燃烧的物质中富含燃素。整个理论似乎有点离奇。
+[01:04.16][ppp]Yes. But at that time it explained a lot of things that alchemists had observed but didn't understand. For example why do substances lose mass when they burn? I mean you and I know why because scientists eventually figured it out for us, but otherwise it'd be pretty mysterious. Another example. Why does the fire go out if you enclose it in, say, some kind of metal box? Either known about you but I don't think I would'e figured that out on my own.//是。但当时，这种理论解释了许多炼金师观察到，但却不理解的事情。例如，为什么物质会在燃烧时失去质量？我的意思是，我们知道这是为什么，因为科学家们最终为我们找到了这种燃素，但除此之外燃素也是非常神秘的。另一个例子。如果你将燃素包裹在某个金属盒中，为什么火会熄灭？除非你了解，但我不认为我会自己能搞清楚。
+[01:32.67][ppp]No, you are right.//不，你说得对。
+[01:34.32][ppp]So, at that time phlogiston made a lot of sense to a lot of people. In fact it took quite a bit of work to get people to reject the theory.//因此，在那个时候，燃素对很多人来说很有意义。事实上，让人们拒绝这个理论需要花很多功夫。
+[01:41.78][ppp]Right, I read that.//是的，我知道。
+[01:43.67][ppp]Okay. So you see phlogiston's a sort of link between alchemy and modern chemistry.//好的。所以你明白了，燃素就是炼金术和现代化学之间的一种联系。
+[01:48.81][ppp]Yes. I read about the French scientist to disprove the theory and about the experiments he conducted. He didn't just watch fire burn like the alchemists did. He also weighed things, collected various other kinds of data and I think that could be considered the start of modern chemistry, you know, the idea of carefully gathering and analyzing data.//是的。我了解了法国科学家反驳这个理论和他所进行的实验。他不像炼金师那样只看火燃烧。他还权衡了各种各样的东西，收集了各种其他类型的数据，我认为这可以被视为现代化学的开始，开始仔细收集和分析数据。
+[02:06.67][ppp]Okay, Now for the purposes of this paper, I'd like you to situate the scientific proress in a broader historical narrative. Explain how it fit in with what else was happening in Europe at the time.//好的，现在为了更好地撰写论文，我希望你可以从更广阔的历史背景下来叙述科学进程。解释这种科学现象为什么与当时欧洲正在发生的事情相符合。
+[02:18.33][ppp]Okay.//好的。
+[02:19.45][ppp]For instance, was this sort of experimentation an isolated event in Europe?//例如，这种实验只是欧洲的一个孤立事件吗？
+[02:24.50][ppp]I don't think so. There were a lot of new ideas in Europe during the 18th century. It wasn't just in science. It was also in the arts and politics.//我不这么认为。 18世纪，欧洲出现了很多新的想法。这不仅仅出现于科学也出现在艺术和政治领域。
+[02:32.83][ppp]Right. Okay so don't dwell on those other areas. But make sure we understand.//对。好的，所以不要纠缠于其他领域。但是要确保我们可以理解这个事件。
+[02:38.21][end]

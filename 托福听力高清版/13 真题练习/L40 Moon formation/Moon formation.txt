@@ -1,0 +1,91 @@
+﻿Moon formation
+第1题
+What is the main purpose of the lecture?
+A To compare the composition of the Moon with the composition of Earth
+B To explain the significance of moon samples obtained by Apollo astronauts 
+C To discuss theories about the early development of the solar system
+D To discuss problems with explanations for the origin of the Moon
+
+
+第2题
+What is one point the professor makes about the capture theory?
+A It accounts for the difference in composition between Earth and the Moon.
+B It lost popularity when the fission theory was proposed.
+C It is based on the assumption that Earth’s gravitational field has remained constant.
+D It was challenged by the Apollo findings.
+
+
+第3题
+What assumption do the giant impact theory and the fission theory have in common?
+A The Moon increased in size after its formation
+B The Moon was formed from part of Earth.
+C The young Earth rotated very slowly.
+D The young Earth collided with another planetary object.
+
+
+第4题
+According to the professor, how do astronomers who support the giant impact theory explain the Moon's lack of iron?
+A Excess iron was ejected into space during the impact.
+B Earth's outer layer never contained iron.
+C The impact happened after Earth's iron moved to its core.
+D The Moon lost its iron when it was struck by meteorites.
+
+
+第5题
+According to the professor, what does a computer model of the giant impact suggest?
+A The object that hit Earth had a mass similar to that of Mars.
+B The Moon was formed during the late stages of Earth’s formation.
+C A single impact could not have produced a Moon lacking in iron.
+D Earth’s rotation rate changed after the impact.
+
+
+第6题
+What is the professor's attitude about the giant impact theory?
+A He is confident that the questions it raises will soon be answered.
+B He hopes it will be replaced by a new theory in the near future.
+C He favors it for its consistency with a concept of planet formation.
+D He thinks it was accepted too quickly by the scientific community.
+
+
+
+
+Listen to part of a lecture in an astronomy class.
+Today we're gonna talk about something planetary scientists have yet to provide a satisfactory explanation for. 
+How was the moon formed? 
+From the samples the Apollo astronauts brought back we know that the moon is about four and a half billion years old and formed about at the same time as the rest of our solar system.
+Now there are some theories about how the moon was formed.
+The first, dating back to the 19th century. 
+It's called fission theory. 
+Fission means splitting into parts. 
+The theory proposes that Earth spun so rapidly in its early years that a chunk of it broke off and got thrown into space into Earth’s orbit, 
+and that chunk from Earth became the moon. 
+The fission theory was accepted well into the 20th century, but we now know that Earth was spinning at a rate that was much too slow for this kind of fission to occur. 
+Another theory is the capture theory which goes like this. 
+The moon formed somewhere in the solar system and was captured by Earth’s gravitational field as it was passing by. 
+And it stayed in Earth's orbit ever since. 
+Now the moon's chemical composition is different from Earth, so if the moon formed somewhere else this would actually explain why they're different in composition, right? 
+However, astronomers have a problem with the capture theory because for the moon to be captured into its present orbit, that required a complex set of circumstances, so it's very unlikely that happened. 
+The most widely supported theory today is the giant impact theory. 
+It suggests that the moon formed as a result of an impact onto the young Earth four and a half billion years ago when the young Earth collided with another planetary object. 
+According to this theory the moon formed from debris caused by the giant impact which had gone into orbit around Earth. 
+The scientific community didn’t jump on this theory right away. 
+You can test it since it's impossible to find traces of an impact with Earth that far back. 
+And remember the earth and moon have different compositions and densities. 
+The moon's density is much lower than that of Earth or any other terrestrial planet. 
+This indicates that the moon lacks high density iron and doesn't have a big iron core like Earth, which was confirmed by measurements taken during the Apollo moon landing. 
+But wouldn't the moon and Earth be similar in composition and density if the moon formed from rock fragments that were ejected from Earth? 
+So astronomers came up with ideas to explain some of the inconsistencies the theory presents. 
+For instance, the idea that by the time the giant impact happened Earth's iron had already migrated toward its center, its core, and so the debris that was blown from Earth came from an outer layer which was depleted of iron. 
+Okay that would explain why Earth has a large iron core and the moon doesn't. 
+But we don’t know for sure whether Earth's core had already formed when the collision occurred. 
+The next step was to use advanced computer technology to simulate the giant impact, an impact that would produce a moon that lacks iron. 
+The researchers who performed the simulations developed different models from a variety of scenarios and came up with some interesting results. 
+According to one model a collision with an object 10% of Earth's mass, about the size of the planet Mars, could in fact account for an iron-poor moon. 
+The model also suggests that the moon formed towards the end of Earth's formation. 
+This is important because if the moon formed early in Earth's history, it would have accumulated more iron-rich material.
+As convincing as it may sound, the giant impact theory isn't proven to everyone's satisfaction since several questions remain unanswered. 
+On the other hand it is very attractive because it's consistent with our idea of how planets were assembled. 
+We think collisions played a big role when the planets in our inner solar system formed. 
+We think that during the final stages of the formation of rocky planets, planetary embryos smashed into each other creating larger planets, so that part interestingly.
+
+{"1": ["D"], "2": ["A"], "3": ["B"], "4": ["C"], "5": ["A", "B"], "6": ["C"]}

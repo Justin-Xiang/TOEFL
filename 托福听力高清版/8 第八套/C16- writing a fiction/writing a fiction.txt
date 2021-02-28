@@ -1,0 +1,91 @@
+﻿ writing a fiction
+
+第1题
+Why does the man go to see the professor?
+A To inform her that he will miss her next class.
+B To find out what happened during a class that he could not attend. 
+C To get advice on how he and his writing partner should divide their work 
+D To ask a question about a book the class was assigned to read.
+
+
+第2题
+What does the professor imply about the book, The letters of Henry Adams?
+A It is a type of epistolary writing that many students use in their research.
+B It is considered to be one of the best biographies of Henry Adams.
+C It includes relatively few letters that address Adam’s ideas about democracy.
+D  It should not be used as a model for the man’s current writing assignment.
+
+
+第3题
+Why does the professor mention the characters that the man’s classmates, Debbie and Maria, chose for their writing assignment?
+A To help explain the method that was used to pair students together.
+B To suggest that the man and his writing partner choose unconventional characters for their story.
+C To point out an advantage of choosing roles that are familiar to both writing partners.
+D To emphasize that the man needs to meet with his writing partner as soon as possible.
+
+
+第4题
+Why does the professor say that the novel Fast Office is like “an endless stream of disjointed remark“？
+A To caution the man against creating a weak story
+B To find out if the man agrees with her opinion of the book.
+C To question whether an office is a suitable setting for an epistolary novel.
+D To point out that Fast Office received unfavorable reviews by critics
+
+
+第5题
+What is the professor’s opinion of the novel, Life on the Refrigerator Door?
+A It does not develop its characters well enough.
+B  It is an improvement over the author’s first novel.
+C  It is surprisingly effective as an epistolary novel.
+D It ends much too abruptly.
+
+
+
+Listen to a conversation between a student and his creative writing professor.
+Professor
+Hi, Kane.We missed you on Thursday.
+Student
+Sorry I couldn’t make the class, Professor Bennett. But I was out of town. Did I miss a lot?
+Professor
+You’ll be fine. But I paired students so as to co-write an epistolary fiction. You’ll be working
+with Brian Simpson. Since he was also absent, so get in touch with him soon, OK? Because
+between the two of you, you’ll be writing about pages total, a story. Um, you’re quick with
+epistolary literary form, right?
+Student
+Yeah. An epistolary piece is made up of letters. I’m... last year I wrote a paper on democracy in
+the United States and I used a book called Letters of Henry Adams. He was a journalist and
+historian who lived in late 1800s and early 1900s, and some of his letters in that book discussed
+his democratic ideals.
+Professor
+Letters of Henry Adams. But remember that book is nonfiction. Those were actual letters
+written by only one writer, Henry Adams. Your assignment for my class is to write a story
+through exchange of letters between two fictional characters. So fist you and Brian will have to
+decide what relationship your characters will have, best friends, brothers, whatever. And then
+develop a story. Now your classmates, Debbie and Maria. Debbie’s gonna play the role of a
+rock and roll singer and Maria her agent, um back in the 1950s. Those characters could be a
+good choice for them since Debbie and Maria are both big fans of early rock and roll and know
+a lot about it.
+Student
+Oh, I see. Okay. What about coworkers? Like my character can work part-time in the student
+employment office, like I do, and maybe he could exchange emails with his officemate or
+something, like Kane could email to Brian. Could i borrow your pencil and they’re sitting in
+desks right next to each other. That could be funny.
+Professor
+Okay. But you know I’ve recently read an epistolary novel consisting only of emails. It’s called
+Fast Office.
+Student
+Fast Office.
+Professor
+Yeah. It’s said in an accounting firm and it’s filled with office politics, comments about
+technology. Anyway the concept of Fast Office actually had potential, but ultimately it was
+more like an endless stream of disjointed remarks. I mean talk about its thin plot.
+Student
+Huh.
+Professor
+But that doesn’t mean you and Brian couldn’t make an email exchange work. There is another
+epistolary novel called Life on the Refrigerator Door and it comprises just notes that a mother
+and daughter leave for each other, attached to their refrigerator door. And what isn’t expecting
+much but through these short notes, the characters manage to tell us a good story and convey
+their love and concern for each other in a really powerful way.
+
+{"1": ["B"], "2": ["D"], "3": ["C"], "4": ["A"], "5": ["C"]}

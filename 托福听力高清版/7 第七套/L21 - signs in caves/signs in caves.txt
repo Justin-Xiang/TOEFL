@@ -1,0 +1,102 @@
+signs in caves
+
+第1题
+What is the professor's main point about the markings on the cave walls?
+A Their discovery led to a new theory about the origins of art. 
+B Their use led to a burst of creativity in early human history.
+C The markings may be as important as the paintings they accompany. 
+D The markings have changed archaeologists' ideas about where human culture first developed. 
+
+
+第2题
+What point does the professor make about the sign-containing ovals?
+A It is found only in caves in France. 
+B  It might represent an animal.
+C  It is probably the oldest sign found to date.
+D It is usually paired with the dots sign. 
+
+
+第3题
+Why does the professor mention the Sumerians?
+A To imply that the markings on the cave walls in France are consistent with early writing system
+B To point out that the Sumerians developed their writing system on cave walls
+C To help students understand the symbolic meanings of the large paintings of animals
+D To explain why the system of signs on the cave walls in France did not change over time
+
+
+第4题
+What does the professor imply about the hand sign and the dot sign that appear on cave paintings?
+A The two signs share a similar meaning. 
+B The two signs are similar to those later used by the Sumerians. 
+C The two signs might form a new meaning when they are used together. 
+D The meaning of the two signs depends on their position in relation to the animal in the painting
+
+
+第5题
+What did researchers conclude by studying the signs in the oldest caves?
+A The signs were already being used by the people who migrated to the area. 
+B The signs were developed in southern France. 
+C The creation of the signs was a slow, gradual process. 
+D The development of the signs occurred at about the same time as the development of paintings. 
+
+
+第6题
+Why does the professor say this:
+A To remind the students about proper archaeological techniques
+B To stress the remarkable lifelike qualify of the cave paintings
+C To make a distinction between symbolic and realistic representation
+D To explain that the behavior of the first archaeologists to study the cave was understandable
+
+
+
+
+
+Listen to part of a lecture in an archaeology class. Professor
+Michael, could you sum up what we've talked about last time?
+Male student
+Okay. We looked at a lot of cave paintings and said there was a creative explosion about 31,000
+years ago. People represented the world around them with paintings. Um, the ones we discussed
+were in France. They were mostly animals, bulls, horses, deer and so on. Professor
+And what are the paintings like?
+Male Student
+They're large, colorful and they're really lifelike. Professor
+Yes. Exactly. They are so spectacular that they generated a huge amount of study. Well until recently
+no one paid much attention to these strange markings that accompany many of these cave paintings
+which are usually off to the side somewhere, like small dots,lines or zigzags. Imagine, being the first
+archaeologist to get to a dark tunnel and come upon these drawings, would you be studying the
+charging bill or the the little black dots on the corner? So it wasn't until recently that a researcher
+named Genevie Vampithinger decided to do a systematic study of these other markings. She
+compiled the database of all of the markings in caves from 146 sites in France, and what she found
+was a total of 26 different signs or symbols repeated again and again. It's possible that these signs
+might indicate something just as significant as cave paintings that accompany them. So let's have a
+look at a few of the signs cataloged by Vampithinger. There is a big difference between realistic
+representations, the paintings, and the markings, these nonrepresentational or symbolic markings, markings that are kind of like writing. So you can see why this study would attract a lot of attention. Yes, Rebbeca?
+Female Student
+But, when was the first, you know, the first writing?
+Professor
+Well, the first documented instance of writing comes from only 5,000 years ago and as we said
+before, these cave paintings are from about 31,000 years ago, but I guess the question is just how
+close these signs are to what we would consider writing. Vampithinger's analysis resulted in a couple
+of very convincing arguments that what we have here is some kind of symbolic expression, or at
+least a writing code that was widely understood. You can see a uniformity of style among the signs. Some of them are quite simple, like the lines and dots, but others are more complex. One possibility
+or one thing that Vampithinger noticed is that in some cases the marks appear to represent a single
+part of a larger figure like the ovals, the small ovals inside a larger one.They match almost exactly
+the oval eyes on some of the animals painted on the walls. These features using just a small part of
+something to represent the whole item are called synecdoche. Synecdoche is a common feature in
+very early writing systems. The Sumerians, the Sumerians had the earliest documented form of
+writing. They use just an ox's head to indicate an ox and the use of synecdoche is a good indication
+that ideas are being communicated symbolically and of course if the signs were being to
+communicate ideas, then these dots and lines just deserve as much attention as the animal paintings. Okay. Another feature that's common among early writing systems is the combination of two
+symbols to create a new meaning. Vampithinger noted that many of the signs are consistently pairing
+with others. For example, there's an image of hand, and a hand appears together with the dots again
+and again. And when Vampithinger compiled and dated the signs, she found something else. Most of
+the signs are already present in the oldest cave site. There's no evidence that they developed system
+over time. You don't see them trying out new signs or discarding old ones. In the oldest caves, a
+system seems already fully formed. Rebecca?
+Female Student
+So like the idea that humans brought these signs with them when they first arrived to Africa?
+Professor
+That's a strong possibility, that the first people to migrate to southern Europe from Africa had the
+signs as an already well-established part of their culture
+
+{"1": ["C"], "2": ["B"], "3": ["A"], "4": ["C"], "5": ["A"], "6": ["D"]}

@@ -1,0 +1,104 @@
+﻿ Symbiosis 
+
+第1题
+what is the main purpose of the lecture?
+A To introduce a theory about why marine animals form symbiotic relationships 
+B To discuss the application of categories of symbiosis to marine animals 
+C To question research done on the relationship between sea butterflies and amphipods 
+D To explain how the categories of symbiosis were developed by researchers
+
+
+第2题
+Why are seals and dolphins mentioned in the lecture?
+A To give an example of animals that are disadvantaged by parasitic relationship 
+B To give an example of a symbiotic relationship where both organisms benefit 
+C To point out that all symbiotic relationships have advantages and disadvantages 
+D To compare the categories of commensalism and mutualism
+
+
+第3题
+According to the professor, what is one factor that makes categorizing symbiotic relationships difficult? 
+A New types of symbiotic relationships are always being discovered.
+B It is not always clear what an animal gains or loses from a symbiotic relationship.
+C The nature of the symbiotic relationship may change over time.
+D Many symbiotic relationships are only temporary.
+
+
+第4题
+What point does the professor make about sea butterflies that are captured by amphipod 
+A They are often eaten by the amphipods.
+B They are eventually released by the amphipods;
+C They are used as a lure by the amphipods to attract prey.
+D They benefit from their relationship with the amphipods. 
+
+
+第5题
+Why did researchers conclude after their experiment involving predatory fish?
+A The predators of amphipods learn to interpret the amphipod and sea butterfly as one larger animal.
+B The primary predator of amphipods does not have good eyesight.
+C Amphipods and sea butterflies share, many of the same chemical compounds.
+D The amphipods are protected from predators by chemicals In the sea butterfly.
+
+
+第6题
+Why does the professor say this:
+A To acknowledge that she does not fully understand the relationship between the two organisms 
+B To ask students to explain what the disadvantages are for each organism 
+C To encourage the students to propose potential advantages of the relationship 
+D To indicate that the student overstated the disadvantage to the sea butterfly
+
+
+
+
+Listen to part of a lecture in The Marine biology class.
+Professor
+Let's take a few minutes to review the last reading assignment and that was about close relationships between organisms belonging to different species. When an organism is dependent upon another organism for survival, we call symbiosis. Symbiosis means living together, and there are various types of symbiotic relationships. Tan, can you tell us the three types?
+Male student
+Okay. So there're parasitism, commensalism, and oh, mutualism.
+
+
+
+Professor
+And can you give examples?
+Male student
+Okay. Parasitism. Well in large fish or marine mammals like seals or dolphins, many of them have parasitic worms. Worms that live in the intestines and still absorb nutrients fromthe host animal’s body.
+Professor
+So in parasitism, one animal, the parasite benefits while the other is disadvantaged. 
+
+
+
+Okay. How about commensalism?
+Male student
+I guess the relationship between a remora fish and a shark would be an example. The remora sort of attaches itself to the shark. It gets a free ride and it can feed on food that’s left over after the shark feeds. So the remora benefits while the shark well, it really isn’t harmed and it doesn't help either.
+Professor	
+Okay. Good. Question?	'
+Female student
+But I was thinking they’d be considered parasites. I mean, the shark's movement is slowed down at least a little by the remora, right?
+Professor
+That may be true, but probably not enough to really have any harmful effect on the shark. Okay. And we are going to talk more about it when we talk about the formation of coral reefs. So let's say that for later. 
+
+
+
+Now, this classification categorizing symbiosis into three types. It isn't perfect. The categories overlap a bit as evidenced by June's comment about the sharks. And since it is not always clear to us humans, what kind of advantages or disadvantages animals are actually getting, if any. The appropriate category choice isn’t always clear. Now I should point out that some of symbiosis relationship don't seem to fit any of the three existing categories. For example, the relationship between amphipods and sea butterflies, both small marine animals but about the same size. And here you can see amphipods that sought out and is now capturing a sea butterfly. The amphipod will then take the sea butterfly, put it on its back, hold it there and then carry it around. Now I should point out that this relationship is temporary. At some point, the sea butterfly is set free and later the amphipod will find and capture another one. But this is a highly unusual behavior in a symbiotic relationship. 
+
+
+
+Can you think of any advantages or disadvantages for either creature?
+Female student
+Well, you said sharks aren’t slowed down all that much by remora fish. How about amphipods? Are they slowed down significantly by the sea butterflies? If so, that would be a disadvantage.
+Professor
+Good. And indeed they are. Studies show that amphipods with sea butterflies on their backs can move only half as quickly. So there will seem to be a disadvantage for the amphipods. It would probably be more difficult to hunt for food.
+Male student
+And the sea butterfly probably can’t feed at all. I mean, if it’s being held on the amphipod's back, right? 
+
+
+
+Professor
+You're right. But I can’t imagine a type of symbiosis that simply disadvantages both organisms.
+Male student
+Well. The amphipod does seek out the butterflies, so there must be some advantage for the amphipod. Is it for protection? Somehow the butterfly protects it?
+Professor
+Exactly. Very good. And it was interesting. The hypothesis researchers started with was the predators of the amphipods were responding to visual cue. They saw the amphipod and sea butterfly together and turned away. However, this turned out not to be the case. In a lab experiment, these predatory fish were presented with two kinds of food pellets. One contains just fish meat and one contains both fish meat and chemicals from sea butterflies. It turns out that the predators rejected only the food pellets containing the sea butterfly chemicals. But getting back to our classification system, this type of symbiotic relationship between the amphipod and the sea butterfly is something new. When you think carefully about it, none of the three existing categories can really be applied in a situation- This may be a special case. A type of symbiosis with both organisms are disadvantaged and yet one is ultimately protected from its predators by actively kidnapping the other. 
+
+
+{"1": ["B"], "2": ["A"], "3": ["B"], "4": ["B"], "5": ["D"], "6": ["C"]}

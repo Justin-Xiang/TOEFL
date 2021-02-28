@@ -1,0 +1,59 @@
+﻿squirrels
+
+第1题
+What is the lecture mainly about?
+A The California ground squirrel's two most dangerous predators 
+B Different strategies used by California ground squirrels against predators 
+C Characteristics of the heat sensing organs of certain venomous snakes 
+D Reasons that rattlesnakes are not dangerous to a certain species of squirrel
+
+
+第2题
+What point does the professor make when she mentions the noise that squirrels make?
+A Noise is not an effective deterrent against snakes.
+B Communication between members of a species is as important as predator-prey communication.
+C Most animals use such noises to discourage predators.
+D Most predator-prey communication is well understood.
+
+
+第3题
+What trait allows adult ground squirrels to confront rattlesnakes?
+A They can determine whether a snake is dangerous by its rattle.
+B They have the ability to make themselves larger.
+C They have an immunity to rattlesnake venom.
+D They can move more quickly than rattlesnakes.
+
+
+第4题
+How did researchers determine the rattlesnakes' reaction to tail-flagging?
+A They used technology in a laboratory setting to simulate conditions in the wild. 
+B They observed the rattlesnakes’ behavior when they approached ground squirrels' nests 
+C They observed interactions between rattlesnakes and ground squirrels in a laboratory setting
+D They compared rattlesnakes' reactions to California squirrels and other squirrel species.
+
+
+第5题
+Why is the ground squirrel's strategy used only for against rattlesnakes?
+A Rattlesnakes can sense heat better than gopher snakes can. 
+B Rattlesnakes are larger than gopher snakes.
+C Gopher snakes have better vision than rattlesnakes.
+D Gopher snakes are much less aggressive than rattlesnakes
+
+
+第6题
+According to the professor, why is tail-flagging of special interest to researchers?
+A It is a rare case of two-way communication between a prey species and its predators.
+B It has helped researchers understand how rattlesnakes use their heat-sensitive organs.
+C It is a communication strategy that many species use to discourage predators.
+D It is the first known example of an antipredator behavior that involves a change in body temperature.
+
+
+Listen to part of a lecture in an animal behavior class.
+Okay. Today we’re going to continue our discussion of animal communication. As we’ve talked about, the mode or method of communication has to be perceptible to the target of communication. Between members of one species there is usually no problem as they speak the same language you might say. But how about between predators and prey, animals of different species? 
+Well, let’s look at the California ground squirrel. These squirrels which live on the west coast of the United States have more than one type of predator and they use different strategies to ward them off. If ground squirrels are threatened by birds or mammals, they usually make lots of noise, alarm calls. 
+But another predator, snakes, can't hear, so ground squirrels have developed different physiological and behavioral strategies to defend themselves in their offspring against snakes, most commonly rattle snakes, and gopher snakes which are non-venomous snakes. 
+First, adult ground squirrels have developed an immunity to rattlesnakes’ venom. This enables them to aggressively defend their nests whether the attacker's venomous or not. They will kick dirt and pebbles in the snakes' faces, and even attack them, biting enemy, taking a swipe at snakes. In other words, the ground squirrel turns the fables on the rattlesnake and puts it on the defensive side.
+The behavior I want to concentrate on is called tail flagging. Tail flagging is when the squirrel makes its' bushier and flags its tail, waves it back and forth. It is very effective in scaring off snakes. It's been proposed that this waving tail reminds the snakes of past encounters that they have with ground squirrels.   Recently one group of scientists has discovered that there is an additional component to tail flagging behavior when the predator is a rattle snake rather than a gopher snake. Now about rattlesnakes’ sensory abilities, in addition to their visual abilities, rattlesnakes have heat sensitive organs on the sides of their heads. These enable the snakes to sense the presence of warm-blooded animals because of the heat they give off. Okay. This group of researchers discovered that ground squirrels have developed this ability to warm up their tails by several degrees in fact, and do so when threatened by a rattle snake. They probably do this by increasing the blood flow of the tail, not their whole body. Just the tail. And the effect on the rattlesnake? Well, researchers conducted the series of trials using robotic squirrels and they found the switch from predatory to defensive behavior in the rattlesnakes was much more pronounced when the robotic squirrels' tails were heated than when they weren't. They're not entirely sure why, but they speculated that the heat makes the squirrel seem larger and therefore a more difficult adversary. 
+This response is never used when the ground squirrel is threatened by gopher snakes because well, they don’t have the same organs. The response seems to have evolved just as a deterrent to rattlesnake predators and most interestingly is the first known example of anti-predator behavior that includes a thermo component.
+
+{"1": ["B"], "2": ["A"], "3": ["C"], "4": ["A"], "5": ["A"], "6": ["D"]}

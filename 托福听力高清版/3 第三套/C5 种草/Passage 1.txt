@@ -1,0 +1,41 @@
+ Listening Passage 1
+
+Listen to part of a conversation between a student and his chemistry professor.
+Professor
+You want to do what?
+Student
+Grow grass.
+Professor
+Grow grass? I thought you were doing your research project on fuel derived from organic materials, biofuel.
+Student
+Oh, I am. But I was doing some reading. And I found out that in the process of making biofuel, there is a lot of leftover material after processing the corn or sugar or whatever into fuel. And most of those byproducts are just wasted, all the way to landfills. So I was thinking maybe I could work on some sort of project that finds use for one of the byproducts and I picked glycerol.
+Professor
+But there are lots of industrial uses for glycerol already. It is a common ingredient in soap and some food product.
+Student
+I know, but with more and more biofuel being produced, there's more glycerol being made and then used.
+Professor
+And so you want to work on alternative applications for glycerol, like using it to help grass grow?
+Student
+Yeah. There is this idea I read about. It said you could make a film, a really sticky film, that you could put on grass seed, so they stick to the ground and that would give them more time to germinate.	
+Professor
+This sounds a lot more complicated than the kinds of projects I suggested that your class try to do. This is more like a graduate research project.
+Student
+I know it's a big leap, but I can handle it.
+Professor
+how are you going to get the equipment you need?
+Student
+Actually that's why I was hoping that you could help me with that. Is there any way that I can use one of the labs in Hazelton Hall?
+Professor
+Those labs are only for professors doing research And once in a while graduate students are allowed to pursue a project in there.
+
+Student
+You know Hazelton's the only place that set up where we can grow lots of plants under controlled conditions is indoors. And I am gonna need some real space. I'm gonna grow grass.
+Professor
+Why don't you just work on developing that stick film? I'm not requiring students to field test any new substances they develop.
+Student
+Yeah, but I really want to know if it works. Maybe you could sponsor my research. I realized that this is supposed to be an independent project and I wouldn't actually ask you to do anything. But just think of all the possibilities. 1 keep reading that biofuel is a way of the future, which is great, but not if it produces a lot of waste byproducts. So if can find a new use for even one of them, then I'm not just doing some abstract student project. 
+Professor
+Well, it's nice to see you are passionate about this. Look, I can't say I'm involved in your research if i'm not. But let me see if I can get you access to Hazelton anyway. But please don't get your hopes up, okay?
+
+
+{"1": ["B", "D"], "2": ["D"], "3": ["A"], "4": ["C"], "5": ["B"]}

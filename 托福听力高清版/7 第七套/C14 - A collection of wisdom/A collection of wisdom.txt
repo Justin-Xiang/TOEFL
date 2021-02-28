@@ -1,0 +1,82 @@
+﻿A collection of wisdom
+第1题
+What is the conversation mainly about?
+A Ways to measure the effectiveness of an online marketing campaign 
+B How companies are motivating their employees to master new technologies 
+C Ways that companies can make use of input from the public 
+D Industries that profit the most through the use of collective intelligence
+
+
+第2题
+Why does the student mention his biology class?
+A To ask about using a topic from biology for a writing assignment in his business class
+B To indicate why he is confused about a concept they are discussing in his business class
+C To point out that the concept of swarm behavior has more practical applications than the 
+D To suggest an article that the professor might want to read
+
+
+第3题
+According to the speakers, how does the T-shirt company use collective intelligence?
+A It conducts online surveys to determine how much customers would be willing to pay for a T-shirt.
+B It uses the results of an online voting process to select images to place on T-shirts.
+C It provides free software that enables groups of users to create T-shirt designs online.
+D It solicits T-shirt designs from people outside the company.
+
+
+第4题
+Why does the professor talk about a computer-programming competition?
+A To give an example of collective intelligence involving teams collaborating online 
+B To demonstrate how collective intelligence can be used in a scientific field 
+C To identify a company that was able to automate its market research 
+D To cite one of the first uses of collective intelligence to create a consumer product
+
+
+第5题
+What opinion does the professor express about people who participate in a company’s collective intelligence initiative?
+A They are likely to be perceived as amateurs by the company's employees.
+B They are not always truthful when expressing their opinions.	
+C They probably prefer to work in teams rather than in isolation.
+D They may be motivated by factors other than a financial reward.
+
+
+
+
+Listen to a conversation between a student and his business professor.
+Student
+I thought collective intelligence was the same as something I studied in my biology class, something called swarm intelligence, but then after the example you gave, I mean, according to this biology article we read, swarm intelligence is how all the ants in an ant colony work together, know what to do ,like looking for food or repairing the nest.There is no manager but the ants still figure out collectively which jobs they needed the most. 
+Professor
+The term collective intelligence is loosely related to what you’re talking about. In the business world companies that use collective intelligence can often increase their profits. So let’s talk about that example from class,about the T-shirt company. 
+Student
+How it invites people to create a design that you’d like to see on a T-shirt and submitted online through the company’s website?
+Professor
+Yeah. It’s one of several ways to exploit collective intelligence through the Internet.
+Student
+Here's when having trouble. The people who submit designs aren’t each of them creating their own design independently? How’s their collective? 
+Professor
+Ah, I see what you mean. Individuals are coming up with design independently. But look at this way. All of those independent designers together, they are huge collective.
+Student 
+Oh, I see.
+Professor
+And the next step in this, collective intelligence initiative, the designs go on the company website and anyone in the online community can vote for their favorite.
+Student
+So the company figures out which designs are most popular, the ones people would be most likely to buy, right?
+Professor
+Exactly. It's a form of market research really. So how would you say a collective intelligence      initiative like this one benefits the company?
+Student
+I guess the people who voluntarily submit the designs, they're taking on some of the workload that the company normally would have to pay employees for?
+Professor
+Good! What else?
+Student
+Um, the voting? The company’s getting opinions guidance from potential customers without having to pay them.
+Professor
+Right.
+Student
+Okay. At first I thought the designers that they had to like, work collectively, different people working on one design together over the Internet. 
+Professor
+Not necessarily. But actually, what you're describing is another form of collective intelligence. Um, take a company that needs a new software program to solve a particular problem and it doesn’t want to hire a programmer, so it creates competition,offers a few hundred or a few thousand dollars for the best solution. Sure, solo programmer or computer scientists might enter the competition but software development is very complex,so several programmers might work together online to write and test their program. The company sponsoring the competition could even hold back the price money if it doesn't consider any of the submissions to be workable.
+Student
+So programmers invest their time for free, for just a small chance of winning?
+Professor
+Money isn't everything, like maybe you just enjoy writing computer programs, are creating designs due to its hobby. If you're artistic, the T-shirt company becomes a creative outlet for you and programmers might be enticed by a challenge, a puzzle to solve.
+
+{"1": ["C"], "2": ["B"], "3": ["B", "D"], "4": ["A"], "5": ["D"]}

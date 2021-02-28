@@ -1,0 +1,84 @@
+﻿第1题
+What is the main purpose of the lecture?
+A To discuss painting as a form of visual documentation.
+B To explore the influence of painting on photography.
+C To discuss some technology advances in photography.
+D To describe photography as both an art form and documentation.
+
+
+第2题
+What benefit to painters does the professor emphasize when he discusses the camera obscura?
+A Painters could improve their technique by tracing works of more accomplished artists.
+B Painters could render their subject matter with greater accuracy.
+C Painters could create paintings on a wider variety of surfaces.
+D Painters were able to paint portraits and landscapes more quickly.
+
+
+第3题
+Why does the professor mention an artistic movement called impressionism?
+A To point out how the development of photography influenced art history.
+B To explain why a long-established art movement continues to be popular.
+C To help explain how photography evolved as an art form.
+D To discuss a factor that led to improvements in cameras.
+
+
+第4题
+Why does the professor mention an artistic digital photography?
+A To emphasize the impact of digital photography on modern painting.
+B To point out that the cost of making photographs has gone done.
+C To indicate the ease with which photographs can be altered.
+D To explain the increase in the number of documentary photographs.
+
+
+第5题
+What change related to the use of photographs in court does the professor mention?
+A It has become more difficult to introduce photographs as evidence.
+B Many courts now limit the number of photojournalists allowed in courtrooms.
+C The use of digital photography has increased the number of photographs presented as evidence.
+D The use of courtroom artists to document trial proceedings has become rare.
+
+
+第6题
+What does the professor mean when he says this:
+A The photographs he is discussing are very difficult to create.
+B  More painters are using computers in their work.
+C Professional photographers need strong computer skills.
+D The type of work he is discussing clearly contains elements of art.
+
+
+
+
+
+[al:佳文]
+[ar:佳音]
+[ti:P120]
+[by:Linsena]
+[00:00.00][ppp]Listen to part of a lecture in an art history class.//请听艺术史课上的一段内容。
+[00:04.41]For a long time, people have debated whether photography is art or merely a technology, a tool for documenting reality. //长期以来，人们一直在争论摄影是艺术，还是仅仅是一种技术，一种记录现实的工具。
+[00:12.46]One painter told me she doesn't consider photography art because it's quote too easy, because anyone can learn to use a camera. //一位画家告诉我，她从不认可摄影艺术，因为它太容易引用了，任何人都可以学习使用相机。
+[00:19.97]That's a bias and perhaps you know other painters who feel the same way.//这是一种偏见，也许你知道其他画家也持有这种观点。
+[00:24.32][ppp]But when you read the history of photography in your textbook, I hope you notice the paradox, the fact that painters themselves were some of the first people to embrace early photographic technology, like the camera obscura. //但是当你在课本中阅读摄影史时，我希望你能注意到这个悖论，即画家本身就是第一批接受暗箱等早期摄影技术的人。
+[00:36.90]The camera obscura is an optical device that projects an upside down image onto their campus and in 1800s painters use camera obscuras heavily. //相机暗箱是一种光学设备，将倒置的图像投射到他们的校园，并且到了19世纪画家开始大量使用相机暗箱。
+[00:46.73]They projected an image onto their campus and then carefully traced the image. //他们将图像投射到校园，然后仔细临摹图像。
+[00:51.26]This helped them render the illusion of perspective more accurately and capture more details. //这有助于他们更加准确地渲染透视幻觉并捕捉更多细节。
+[00:56.66][ppp]At the time in the mid-to-late 1800s, realism, the accurate, objective, unembellished depiction of nature or contemporary life was a major artistic movement. //在19世纪中后期，出现现实主义，准确，客观，无瑕疵的描绘自然或当代生活成为一项重大的艺术运动。
+[01:07.34]So when permanent photographs came about, it's not surprising that painting and drawing began to be regarded as a poor imitation of photography. //因此，在出现永久性照片时，绘画和素描开始被视为对摄影的拙劣模仿，这并不令人吃惊。
+[01:15.62]People now started relying on photography to provide records of fact. //人们现在开始依靠摄影来提供事实记录。
+[01:19.91]The objectivity of the photography was so unquestioned that photos started being introduced as evidence in courts of law. //摄影的客观性是毋庸置疑的，以至于法庭开始引入照片作为证据。
+[01:28.38][ppp]So where that leave painting? //那么绘画还有什么优势呢？
+[01:30.04]You have to sit for hours to have your portrait painted, but only a few minutes to have your photograph taken. //你必须坐几个小时才能画出你的肖像，但只需几分钟就可以拍摄出你的照片。
+[01:36.21]Would photography replace painting, replace the demand for all realistic art? //摄影会取代绘画，取代人们对所有写实艺术的需求吗？
+[01:40.91]Some painters responded to the situation by turning against realism and relying solely on their imagination, images that cameras could record. //一些画家通过反对现实主义并完全依靠他们的想象来回应这种情况，相机可以记录这些图像。
+[01:50.76]Artistic movements like Impressionism and Abstract Art, so-called nonrepresentational art. //印象派和抽象艺术等艺术运动，即所谓的非代表性艺术。
+[01:57.32]These art movements actually were reactions to the great influence of photography, a revolt some might say. //这些艺术运动实际上是对摄影所带来的巨大影响做出的反应，有人可能将其称之为反抗。
+[02:03.65][ppp]Eventually, especially as cameras got more versatile, smaller and more portable, photographers were faced with more and more creative choices: what to live in the photograph, what to live out, camera angles, lighting. //最终，特别是随着相机变得更加通用，更小，更便携，摄影师迎来了越来越多的创造性选择：照片要拍摄什么，照片要反应出什么，相机角度，照明。
+[02:18.46]Different camera lenses could be used to distort image. //可以使用不同的相机镜头来扭曲图像。
+[02:22.01]Film negatives and photos can be altered and with the advent of digital photography and image processing software, photographs can be manipulated like ever before. //随着数码摄影和图像处理软件的出现，可以修改胶片和照片，可以像以前一样对照片进行操作。
+[02:32.51]This has become so widespread that courts now require testimony that photos submitted as evidence is a true representation of reality. //这已经变得如此普遍，以至于现在法院要求提供证据，证明作为证据提交的照片是对现实的真实表现。
+[02:40.56][ppp]Over time photography has evolved into a variety of genres such as photojournalism, portrait photography and art photography. //随着时间的推移，摄影已经发展出了各种类型，如新闻摄影，人像摄影和艺术摄影。
+[02:49.02]But still lines can be blurred. //但仍然可以模糊处理线条。
+[02:50.96]Take wedding photography which at one level documents a special event, the marriage ceremony. //以婚礼摄影为例，在一定程度上记录了一个特殊的事件——婚礼。
+[02:56.97]But consider a wedding photographer who uses a digital camera and a computer to revise and edit digital photographs. //但考虑一位使用数码相机，并使用电脑修改和编辑数码照片的婚礼摄影师。
+[03:03.99]For example, reducing the intensity of some colors while accentuating others, or changing the background so it complements the bride's outfit. //例如，减少某些颜色的强度，同时突出其他颜色，或改变背景，以弥补新娘服饰的不足。
+[03:12.81]If the definition of art includes creativity, you'd be hard-pressed to argue that this approach is mere documentation.//如果艺术的定义包括创造力，那么你很难论证这种方法仅仅只是一种忠实的记录。
+[03:20.68][end]

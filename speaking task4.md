@@ -4,7 +4,7 @@
 
 * 学科领域:生命科学/自然科学/社会科学/人文科学
 * 讲座时间:100 - 110s
-* 准备时间： 20s
+* 准备时间： 20s"?
 * 答题时间：60s
 * **问题至关重要**(结合题目内容 设计答案开头)
 
@@ -34,7 +34,9 @@ commercial
 
 public service advertisement
 
+Moisture
 
+Aridity
 
 spoil
 
@@ -50,8 +52,13 @@ truth or death  押尾韵
 
 trash for treasure
 
-publish or perish 
+publish or perish
 
+which means用短句来解释
 
+which means in dry climate
 
-tpo 40 41 42 43
+地中海
+
+Mediterranean
+

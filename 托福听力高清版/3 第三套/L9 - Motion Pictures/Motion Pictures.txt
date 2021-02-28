@@ -1,0 +1,100 @@
+﻿Motion Pictures
+第1题
+What is the main purpose of the lecture?
+A To describe two approaches to making films in early filmmaking history
+B To explain why the Lumiere brothers are more important in the history of film than George Melies 
+C To explain the impact of technology on early film history 
+D To describe the origins of documentary filmmaking
+
+
+第2题
+What does the professor imply about the invention of the motion picture?
+A The Lumiere brothers should be credited with the invention of the motion picture.
+B The motion picture was invented by combining several of Thomas Edison's inventions.
+C The invention of the motion picture was in some ways similar to the invention of the sewing machine. 
+D No single person can be credited with inventing the motion picture.
+
+
+第3题
+What point does the professor make about the Kinetoscope?
+A It was the first device ever invented by Thomas Edison.
+B It could be used by only one person at a time.
+C If showed longer films than the films first made by the Lumiere brothers.
+D The Lumiere brothers purchased the Kinetoscope from Thomas Edison.
+
+
+第4题
+When the professor discusses the films of the Lumiere brothers, why does he mention a horse and a dog?
+A To emphasize the scientific nature of their films
+B To emphasize that the Lumiere brothers did not try to control the action that they filmed 
+C To show one way that the Lumiere brothers tried to create a story with their films
+D To explain what George Melies found most interesting about the films
+
+
+第5题
+What were two characteristics of Melies' films that were not shared by the films of the Lumiere  brothers?
+A Melies' films showed spontaneous events of nature.
+B Melies’ films were made primarily outside.
+C Melies' films made use of actors.
+D Melies' films did not portray the world in a realistic way.
+
+
+第6题
+What does the professor imply about the loss of popularity of the Lumiere brothers’ films?
+A The loss of popularity discouraged innovation in filmmaking. 
+B The loss of popularity occurred because the Lumiere brothers did not try to create films that would be entertaining.
+C The loss of popularity occurred because people were not interested in seeing moving pictures.
+D The audience for films was not large enough to support films made by both Melies and the Lumiere brothers.
+
+
+Listen to part of a lecture in a film history class.
+professor
+You can't really date the invention of movies, motion pictures in a way you can with the invention of the sewing machine. 
+The motion picture evolved through a process that involved lots of people and devices with many gradual steps along the way. 
+What we can't assign a date too is when the first experiments with moving images were carried out. 
+In the late 19th century and when the first public screening of a motion picture occurred which was in 1895 at the ground coffee in Paris. 
+With all of 33 people in attendance. 
+And the people responsible for that screening work Lumiere brothers: Auguste and  Lumi. 
+Since they held the first public screening, the Lumiere brothers are often credited with developing the first real motion picture. 
+But even before them, as we talked about, people have produced machines that could make pictures move. 
+Like Thomas Anderson and his Kinetoscope. 
+Kipefoscope is a sort of box or cabinet, designed for an individual viewer. 
+You look through the eyepiece in the cabinet and watch her short film, maybe 16 seconds of a boxing match or a comedy routine. 
+Legend has it that Antoine Lumiere, a photographer and the father of the Lumiere brothers, saw one of these.
+Kinetoscope on a trip to Paris and came back very excited and instructed his sons to quote "get the image out-of-the-box” unquote.
+Professor
+Exactly. 
+The Kinetoscope couldn't project it. 
+It was the Lumieres who created the first motion film projector that enabled collective viewing. 
+So an audience of many people could all watch the same image projected onto a single screen. 
+So they invented this projector and made films for it, which brings us back to that historic first showing in the grand cafe. 
+The films the Lumiere showed that night included the first movie ever made. 
+Workers leaving the Lumiere factory. 
+For this film, they positioned a camera outside the factory entrance. 
+They never moved the camera itself and they recorded workers leaving a building, like what you might see in a documentary film. 
+You see real people as they crowd out of the factory. 
+And at one point a dog and a horse wander into the frame. 
+Another film they showed arrival of the train, shows a train pulling into a station and the passengers disembark if. 
+These were filmed in real time and space, and they provided a kind of camera that is both objective and unpredictable. 
+Objective because they recorded things as they were. 
+And unpredictable because they weren’t controlled or staged. 
+Now, one of the people in attendance at that ground cafe screen happen to be George Melies, the director of a Paris magic theater where he himself performed as a magician. 
+Melies was so taken with what he witnessed that night that pretty soon he too was trying his hand at making motion pictures. 
+And a good thing too. 
+Since by 1897 the enthusiasm that had greeted the first couple of Lumiere films, huge crowd showed up to see these new moving pictures, had all but disappeared.
+Professor
+Well, I suppose the technology itself wasn't enough. 
+And the Lumiere either didn't see ore are about the potential of film as art or entertainment. 
+They valued film as a scientific and teaching tool. 
+But Melies saw the potential of film as a tool for creating fantastic and imaginary world. 
+His films involved the use of elaborate sets, actors, costumes and storyline. 
+While the Lumiere has shot films of general activity in public spaces usually outdoors. Melies include films on creative sets that were closer to theater and that borrowed heavily from the conventions of stage dramas. 
+And they were extremely popular, striking a chord that the Lumiere films simply happened. 
+So at the beginning, cinema had what critics today described as two main trends: one realist and associated with the Lumiere brothers and the other associated with George Melies that was fantastic, more inventive and reiied on costume, character and plot.
+Professor
+Well, the thing is Lumi Lumiere actually. 
+He basically thought films should be used to portray the world as it was. 
+Telling stories was the domain of novelists and playwrights. 
+His vision of what film was formed was actually quite limited.
+
+{"1": ["A"], "2": ["D"], "3": ["B"], "4": ["B"], "5": ["C", "D"], "6": ["B"]}

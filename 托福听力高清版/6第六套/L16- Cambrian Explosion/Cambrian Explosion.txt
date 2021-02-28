@@ -1,0 +1,131 @@
+﻿ Cambrian Explosion
+第1题
+What does the professor mainly discuss?
+A A theory about the breakup of the Gondwanan supercontinent during the Cambrian period.
+B A possible relationship between plate tectonics and the relatively sudden appearance of complex life on Earth.
+C How a massive mountain range might have affected climate during the Cambrian period.
+D A new tool developed by Australian researchers to analyze fossils found in ancient seabeds.
+
+
+第2题
+Why does the professor mention the fossil record?
+A To provide background for a topic he wants to discuss.
+B To suggest that a geologic time period may have been inaccurately estimated.
+C To make a distinction between speculation and hypothesis.
+D To give an overview about how shelled animals become fossilized.
+
+
+第3题
+What is the professor’s attitude toward the Gondwanan supermountain hypothesis?
+A He considers it a reasonable explanation.
+B He is surprised that no one propose it earlier.
+C He understands why it is controversial.
+D He suspects that it will be replaced by a better hypothesis.
+
+
+第4题
+According to the professor, what caused the Gondwanan supermountain to form?
+A  A partial breakup of Gondwana.
+B The drift of Gondwana toward the equator.
+C The crash of two huge mountain ranges near India.
+D A merging of continents in the Southern Hemisphere.
+
+
+第5题
+What does the professor imply about algae?
+A Some species of algae evolved to survive on dry land.
+B  Some species of algae became extinct at the end of the Cambrian period.
+C Algae brought nutrients into the food chain during the Cambrian period.
+D Algae probably did not exist before the Cambrian period.
+
+
+第6题
+What did researchers determine about the zircon in the sandstone samples that they studied?
+A Zircon tends to decrease the rate at which sandstone weathers.
+B Zircon was unusually abundant in sandstones from the Gondwana supercontinent.
+C  Zircon in sandstone from Australia is as old as the Himalayas.
+D  Zircon of the same age is found in sandstone samples from different continens.
+
+
+
+
+Listen to part of a lecture in a geoscience science class .
+professor
+okay any more questions about plate tectonics?
+female student
+yeah I noticed that, our textbook readings seem to imply that plate tectonics played a
+big part in the evolution of some of the earliest complex life forms
+Professor
+They only implied this because the connection between plate tectonics and early
+evolution isn't very well understood yet, but there are a lot of hypothesis and a couple
+of new ones are very interesting.
+male student
+Is there any time to talk about them today?
+professor
+Sure I can do that now, but we need to begin with what’s known from the fossil
+record. The fossil record indicates that there was a huge increase in the kinds of
+organisms that live in the earth continents starting around five hundred and thirty
+million years ago, um, when there used to be only simple life forms, then quickly
+emerged a wide variety of complex multicelluar forms. Um, this time period five
+hundred to six hundred million years ago, it's called theCambrian period which is
+why we call this proliferation of new species, the species diversification, the
+Cambrian Explosion.
+Now one pretty intriguing and I think quite logical scenario to explain all this has
+been proposed by group of Australian researchers a few years ago. They believe that
+the Cambrian Explosion was probably fueled by a massive influx of nutrients into the
+ocean. Nutrients as you know, are substances that organisms must have in order to
+like iron calcium potassium and so on. And this idea makes sense to me because,
+anytime in Earth’s history, when there was a rapid increase in new species, it’s always
+associated with an increase in availability of nutrients of food. female student
+So what caused the influx during the Cambrian period? I mean where did all the
+nutrients come from?
+professor
+Well according to the hypothesis, the source of the nutrients was a gigantic mountain
+range, the erosion of a gigantic mountain range I should say. The researchers called
+this mountain range the Gondwana Supermountain, the Gondwana Supermountain
+would be in Gondwana, a super competent in the southern hemisphere made up of
+present-day America Africa India Australia and Antarctica.
+The Gondwana Supermountain formed during the early Cambrian era by “formed” I
+mean plate tectonics caused smaller continents to solely crash into each other, to
+create one giant continent and stresses of the collisions could form the Gondwana
+Supermountain.
+female student
+So that how the Himalayan is got lifted when India crashed to the Asia?
+Professor
+Southern Asia, right. And that's the beauty of this hypothesis. It is based on currently
+available geological evidence. So imagine this giant mountain range, eight thousand
+kilometers long and a thousand kilometers wide, the largest ever near the equator
+weathering and eroding. Remember that weathering refers to the breakdown of rock
+into soil, primarily by physical and chemical forces and occurs most quickly in the
+tropics where the heavy tropical rainfalls would carry countless tons of the weathered
+supermountain and all that nutrient-rich soil within it downhill into the ocean.
+Male Student
+So how about those nutrients get into the food chain and and affect species
+diversification?
+professor
+They would have first been absorbed by simple marine plants like algae, then by the
+microorganisms that ate the algae, and then by the larger organisms that ate the
+microorganisms and up on the line. At each level populations were quickly expanded,
+diversified and in just five to ten million years evolved into, increasingly complex
+species.
+For example with infusion of calcium and molecules containing calcium we get the
+widespread appearance of the first shell animals and first animals with skeleton, to
+develop in a range of species.
+Female student
+But what evidence does these researchers in Australia have to prove that the
+Gondwana Supermountain naturally exists?
+professor
+Well there are certain sandstone deposits in the southern continents. Remember
+sandstones are very common sedimentary rock made up of small particles of rock
+remnants. Um, the sandstones as the researchers collected contain a variety of
+minerals including zircon.
+Male student
+Zircon? That's not a nutrient is it?
+professor
+No, but zircon is important to the hypothesis because it can be dated. The age of
+zircon samples collected in Australia, closely match those in the zircon samples from
+Africa and India and from other continents that were once part of the Gondwana. This
+similarity in age suggested that zircon crystals and sandstone deposits that were found
+all erode from the same source, the Gondwana Supermountain.
+
+{"1": ["B"], "2": ["A"], "3": ["A"], "4": ["D"], "5": ["C"], "6": ["D"]}

@@ -1,0 +1,84 @@
+﻿British accent-P191
+第1题
+What does the professor mainly discuss?
+A The design of mechanical vehicles on a microscopic scale.
+B The use of modified bacteria to power microscopic machines.
+C Ways that nanotechnology has been used in medical treatment.
+D How none-machines are being used to study biological processes.
+
+
+第2题
+What components of a none-car does the professor say present the greatest challenge to researches?
+A A barking mechanism
+B Wheels
+C An engine
+D  A steering mechanism 
+
+
+第3题
+Why does the professor mention honey?
+A To help illustrate the difficulty of moving nano-vehicles through water or air.
+B To explain why fluids like water have greater density than air.
+C To indicate a surprisingly useful source of energy for nano-vehicles.
+D To make a comparison between insect movement and the movement of none-vehicles.
+
+
+第4题
+What was responsible for the successful movement to the platinum-gold rod nanoengine?
+A Hydrogen peroxide destroyed bacteria cells blocking the engine’s paths.
+B The combination of two chemical reactions created a proton imbalance.
+C  Interactions between the platinum and gold cost the rod to spin quickly.
+D The magnetic field that surrounded the engine was destabilized.
+
+
+第5题
+Why does the nanoengine that the professor discusses not need to carry fuel?
+A The machine is pushed forward by air or water pressure.
+B The machine is powered externally by rotating magnets.
+C The carbon wheels on the machine rotate freely on their own.
+D The liquid in which the machine is immersed is fuel supply.
+
+
+第6题
+What is the professor’s attitude about the use of magnetic fields for steering nanovehicles?
+A It has the advantage of allowing nanovehicles to steer themselves independently.
+B It is an effective approach but other approaches are needed as well.
+C It is a prone steering method but decreases engine efficiency.
+D It has been the most difficult challenge so far in the development of nanovehicles,
+
+
+[al:佳文]
+[ar:佳音]
+[ti:British-accent-P191]
+[by:Linsena]
+[00:01.97][ppp]Listen to part of a lecture in a chemistry class.//请听化学课上的一段内容。
+[00:05.61]Today we are going to explore current developments in the world of new technology ,what I'm talking about is work being done on extremely small scale machines，nanomachines ,the size of bacteria or molecules that could potentially be of use in a variety of fields. //今天，我们将来探讨新技术领域的当前发展状况，我所说的是体型极小的机器，即纳米机器，相当于细菌或分子的大小，可以在各种领域中使用。
+[00:23.26]For example using a machine inside the human body to assist doctors in diagnosing or treating illnesses ,chemists have been able to create quite a variety of structures at the molecular scale and some of them could eventually even function as vehicles of all sorts. //例如，该机器可以在人体内使用来帮助医生诊断或治疗疾病，化学家已经能够在分子尺度上创造各种各样的结构，并且其中一些甚至可以最终用于制造各种车辆。
+[00:39.48]One group is actually working on creating a nanocar, a molecular car ,and similar to an actual car it has wheels, carbon molecule four wheels. //实际上，其中一个团队正致力于创造一种纳米汽车，一种分子汽车，类似于一个真实汽车，它有车轮，碳分子四轮。
+[00:49.82]However like any car, you need a steering mechanism and an engine. And those are the two major obstacles the researchers are facing as they develop it . //然而，与其他汽车一样，你需要一个转向装置和一个发动机。这些是研究人员在开发过程中面临的两大障碍。
+[00:59.45]Chemists and physics are working to address precisely those two issues . //化学家和物理学正在努力解决这两个问题。  
+[01:03.44]Now when we are thinking about designing any kind of vehicle they could be used inside the human body to transport, say, a medication to the bloodstream to specific sites, or even to particular cells within an organ ,well then here we face the fundamental problem which is fluid thickness. //现在，在我们考虑设计任何类型的、可以在人体内运输的运输工具时，例如，将药物通过血液输送到特定部位，甚至输送到器官内的特定细胞，那么我们所面临根本问题就是流体厚度。
+[01:21.49]You see the smaller something is, the harder it becomes for it to move through water or through air, that kind of matter.  //你会发现一个现象，即越小的东西越难以穿过水或空气。
+[01:28.59]the structures at a macro level, at the nano level,well, moving through water or air is about as difficult as it would be for you and me,if we attempt to move through an extremely thick honey or very dense syrup. //宏观层面的结构，纳米级的结构穿过水或空气，就像你和我试图穿过极厚的蜂蜜或非常稠密的糖浆一样的困难。
+[01:42.58]So you can see why the focus in developing engines for nanovehicles, it has to be on finding a means of ensuring that the engines can provide both sufficient and reliable continuous movement given those conditions.//因此，你可以了解，为什么开发纳米车发动机的重点是必须找到一种方法，以确保发动机在这些条件下能够提供充足且可靠的连续运动。 
+[01:55.15]Now researchers have learned a lot from one nanoengine prototype.//现在研究人员从一个纳米发动机原型中学到了很多东西。
+[01:59.61]We're talking about a small metal rod, but as long as a bacteria cell and half as wide. The front half of the rod is composed of platinum, while the back half is made of gold.//我们说的就是一根小金属棒，但是只需一个细菌细胞和一半宽度。杆的前半部分由铂金制成，而后半部分由金制成。
+[02:10.97]very expensive materials, gold and platinum. Good thing is quantities is so tiny.//黄金和铂金都是非常昂贵的材料。幸好需要的量很小。
+[02:17.46]I agree. So this rod, this is the engine. The way it works in a laboratory is the rod is immersed in a solution of water and hydrogen peroxide . //我同意。所以，这根金属棒这是发动机。它在实验室中的工作方式是，将棒浸入水和过氧化氢的溶液中。
+[02:27.19]The presence of the platinum causes the surrounding hydrogen peroxide to continuously break down into protons, electrons and oxygen molecules. At the same time the presence of the gold in the back half of the rod. //铂金的存在导致周围的过氧化氢不断分解成质子、电子和氧分子。同时金属棒的后半部分存在金。
+[02:40.38]That gold triggers a different reaction.  They cause protons and electrons to be used up when they combined with a hydrogen peroxide. //金引发了一项不同的化学反应。当它们与过氧化氢结合时，它们会使质子和电子耗尽。
+[02:48.69]The end result  is that there is always more protons on the platinum end of the rod and fewer protons on the gold end. //最终结果是，金属棒的铂金端质子比较多，而黄金端的质子比较少。
+[02:55.58]As the positively charged protons then moved from the platinum and gold, they drag water molecules with them. They're attracted to their positive charge. And that water movement ends up pushing the rod forward.//随着带正电的质子从铂金和金中移出，它们将水分子随之拖动。他们被他们的正面冲动所吸引。水运动最终将金属棒推向前方。
+[03:07.96]So this is an engine that converts chemical energy into motion. Is that right?//所以这是一种将化学能转化为运动的引擎，对吗？
+[03:12.82]Yes, exactly that. A catalytic engine.//是的，正是如此。催化引擎。
+[03:16.84]The hydrogen peroxide solution is. So it’s the fuel then, isn't it?//过氧化氢溶液是。使用它就是燃料，对吗？
+[03:21.91]That's correct ,this little engine is immersed in its own fuel. //这是正确的，这个小引擎沉浸在自己的燃料中。
+[03:26.17]I guess it doesn't even need a fuel tank then.//我想，这个引擎甚至不需要油箱。
+[03:28.80]Right, and that’s in fact an advantage. In fact, it's a necessity when you're working on a nanoscale.//对，这实际上是一个优势。事实上，当你在纳米尺度上操作时，这是必需的。
+[03:36.30]What about the steering problem you mentioned earlier? Has there been any success with that?//你刚才提到的转向问题进展如何？有没有取得任何成功？
+[03:41.98]Yes, one attempt at a steering mechanism makes use of a magnetic field in this engine we've been talking about ,metal discs specifically nickel discs are embedded in the rod. //是的，转向装置上的这次尝试利用了我们一直在讨论的发动机磁场，金属盘特别是镍盘，嵌入金属棒中。
+[03:53.75]The disks behave much like tiny compasses, in that they align themselves and consequently the rod to the magnetic field. //这些磁盘与微小的圆规性能非常相似，因为它们自己进行调整，从而将金属棒对准磁场。
+[04:01.25]Since you can change the magnetic field by turning it with external magnets, well, essentially this would allow no vehicles to be steered externally . //因为你可以通过用外部磁铁转动来改变磁场，所以这么一来，基本上就不会有车辆从外部转向。
+[04:11.32]However, for many purposes, we will definitely need nanovehicles they can still independently on their own. //然而，出于许多目的，我们肯定需要纳米车，他们仍然可以独立地工作。
+[04:20.28]And there are a variety of different approaches we are working on so that these machines can basically steer themselves without external magnets. Let's take a look at some of them and what’s involved.//我们正在研究的方法有很多种，采取这样的办法这些机器基本上可以在没有外部磁铁的情况下自行进行操纵。我们来了解一下这些方法，以及其中涉及到的内容。 
+[05:20.28][end]

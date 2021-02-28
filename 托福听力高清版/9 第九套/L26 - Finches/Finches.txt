@@ -1,0 +1,59 @@
+ Finches
+
+第1题
+What does the professor mainly discuss?
+A New research techniques used by evolutionary biologists on the Galapagos Islands
+B The results of a research study on evolution in the Galapagos Islands
+C A series of observations that influenced the development of Darwin's theory of evolution
+D Arguments that have been raised against the theory of evolution
+
+
+第2题
+What does the professor say about the thirteen species of Darwin finches?
+A None of them can fly well.
+B All of them eat the same fruit.
+C Their beaks differ noticeably in size and shape.
+D They can be distinguished from one another by the color of their feathers.
+
+
+第3题
+According to the professor, what did Darwin believe might be true of the finch species on the Galapagos Islands?
+A They are closely related to parrots.
+B They have been living on the Galapagos Islands for millions of years.
+C They all evolved from a single species from South America.
+D The size of their populations fluctuates considerably from year to year.
+
+
+第4题
+What opinion does the professor express regarding the Grants' research?
+A It exposed a flaw in Darwin's methods but did not invalidate his overall theory.
+B  It was as important for its innovative methods as for its actual finding. 
+C It confirmed the findings of researchers working at the same time on other islands.
+D  It was more thorough than any other researchers' work on Darwin finches.
+
+
+第5题
+What does the professor say about major environmental events on the Galapagos Islands?
+A They account for the fact that finches are found on just a few of the islands. .
+B  They might explain some of the differences among the finch species found there.
+C They pose a threat to the size of the finch population on there.
+D They occur less frequently now than they did in the past.
+
+
+第6题
+What did the Grants' finding show?
+A Dissimilar species in the same environment evolve in similar ways.
+B Evolutionary changes are sometimes reversible.
+C  The population of Darwin finches was decreasing slightly with each generation.
+D Evolutionary changes can be observed in a short term.
+
+
+
+Listen to part of a lecture in an evolutionary biology class.
+Today we're going to look at a classic study in the evolution of natural populations and examine how the authors of this study interpreted the data. 
+But before getting into the data itself, we need some background. The study was concerned with evolutionary changes in a population of ground finches on the Galapagos Islands. You've probably heard of these ground finches that live on the Galapagos Islands, a group of small islands in the Pacific Ocean. They're called Darwin finches. There are thirteen species of these birds. They are generally small, blackish, or dark brownish in color, and they're poor fliers, in fact, many can't even fly from one island to another, so they aren't present on all of the Galapagos Islands, but kind of confined to one or two islands. 
+There's really nothing out of the ordinary about the finches with one exception. That exception is their beaks. Their beaks are the most visible difference between the thirteen species, and are what make them so interesting to evolutionary biologists. The sizes and shapes of their beaks range from large, broad, almost parrot-like beaks to small, very thin beaks. 
+So why these variations and different gradations? Well, it's primarily a matter of food specialization. The finches with the broad beaks, with the parrot-like beaks usually feed for at least part of the year on either large, hard fruit or large seeds and other types of hard foods. The finches with the small beaks feed mostly on insects, on juicy, pulpy fruit or on small types of seeds. They adapted, you see, to fill various ecological niches. In this case the niches are various sources of food. When Charles Darwin travelled to the Galapagos Islands in 1835, he was immediately struck by the perfect gradations in the size and shape of the beaks. There's a famous passage in his diary which later on biographers identified as showing a moment that changed Darwin's thinking. Push direction of the theory of evolution. Darwin had noted it was possible to imagine a point in history when one species of finch has somehow made it to the Galapagos from South America and maybe from that point forward finches' beak evolved for different purposes. I should say here that even though the finches may have provided the spark for Darwin's theory of evolution, it was another 24 years before he published his work on the subject. It took a long time for the idea to crystallize. 
+Okay, anyway because of Darwin , many evolutionary biologists worldwide have studied the finches, all aspects of their behavior and their biology. But perhaps the longest lasting, most methodical study was done by a couple, Peter and Rosemary Grant, who spent most of their summers from roughly the 1970s well into the 1990s working on one of the small Galapagos Islands, an island called Defemy Major. There they observed the finches and their behavior in minute detail, down to the level of individual finches, taking many measurements, and getting to know the finch population on that island to a degree no other biologists ever had before. Among the things the Grants were trying to determine were the evolutionary pressures that they have affected the evolution of certain traits in the entire population over time. Major environmental events like droughts or shortages of a preferred food source could have caused changes to the size and maybe even shape of the finches' beaks over time. Had such events occurred in the past? Were events like these still occurring? That's the changes themselves that these events might have produced. The Grants didn't actually expect to find them in live populations of the finches because, like everyone else, they thought that evolution was a process that unfolded over thousands or hundreds of thousands, or millions of years. But to their surprise and the surprise of evolutionary biologists everywhere, the Grants did find evidence, barely detectable evidence, I mean we're talking about changes to the average shapes and sizes of beaks. They were only measurable in millimeters. So that's very small. But they did indicate that evolution was occurring in measurable ways with each finch generation and these changes correlated well to observable, environmental or ecological factors. It was a significant finding. So now what we're going to spend the rest of today's class doing is examining some of the data the Grants collected and consider how they used it out of some charts.
+
+{"1": ["B", "C"], "2": ["A", "C"], "3": ["C"], "4": ["D"], "5": ["B"], "6": ["D"]}

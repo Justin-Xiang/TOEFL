@@ -1,0 +1,64 @@
+﻿dissonance
+第1题
+ What aspect of music in the 1600s is the lecture mainly about?	
+A How music from the 1600s compares to modern music 
+B Various types of dissonance 
+C A disagreement about how music should be composed 
+D The difference between Monteverdi’s madrigais and operas
+
+
+第2题
+What are two points the professor makes when discussing Artusi's writing about music?
+A It describes elements of composition that Arfusi disapproves of 
+B It praises the use of dissonance in vocal music. 
+C It refers to a madrigal composed by Monteverdi.
+D It identifies madrigais that are good examples of Artusi's ideais.
+
+
+第3题
+What opinion do the speakers express about the madrigal that was assigned for homework?
+A It should probably not be classified as a madrigal.	
+B It contains a great deal of dissonance. 
+C It is a good example of a madrigal that follows Artusi's guidelines.
+D It sounds more pleasant to modem listeners than most of Monteverdi’s madrigals.
+
+
+第4题
+What does the professor imply about dissonance when he says that it hurts our ears?
+
+A It was not used in comparisons before Artusi's time.
+B It helps demonstrate that Artusi’s views are still valid today. 
+C It helps explain why Monteverdi’s compositions are no longer popular. 
+D It can be effective in conveying the emotion that the composer is trying to express.
+
+
+第5题
+According to the professor, what did Monteverdi believe was the most important consideration when composing music?
+
+A The established rules that a composer follows
+B The pleasant and harmonious sound of the music. 
+C The meaning of the words being set to music  
+D The variety of voices that interact in the composition
+
+
+第6题
+What is the professor's opinion about the assertion that music must serve the text? 
+A It expresses Artusi's point of view. 
+B It perfectly sums up the relationship between text and music today.
+C It does not justify Monteverdi’s violations of rules
+D It does not describe all of Monteverdi’s music accurately.
+
+
+
+Listen to part of a lecture in a music history class.
+I wanna start today’s class with the question: what should music sound like? Or even more largely, what is music for? Now this might sound a little silly, but around the year 1600 this was a really big controversy between two major figures in European music at the time, Jovan Artusi and Chludil Monteverdi. Artusi was a music theorist, um, a scholar who studied and wrote about the music of his day, and Monteverdi was a composer known for writing music in various genres, including operas and religious music. But more important for today's discussion is that he composed a lot of madrigals. A madrigal is quite simply the musical setting of a poem. The composer puts the words of the poem to music with different lines, different interacting parts, sung by several voices, maybe several groups of singers. Back when Monteverdi was writing music there were guidelines for how these parts or lines should fit together. But Monteverdi didn't follow these guidelines and that's what this controversy is all about. You see, Artusi published the work concerning the imperfections of modem music with examples of these so-called imperfections, examples from a new madrigal by Monteverdi. And what was the problem? What was the imperfections that Artusi saw in Monteverdi's madrigal? Well, mainly, dissonance. A dissonance, you remember is a combination of notes that don't blend harmoniously, aren't very pleasant to listen to together. So for yesterday's homework I asked you to listen to one of Monteverdi’s madrigals and pay attention to the dissonances. What did you notice? Nicole?
+Seem like a lot of dissonances, one after another and you can even call them extreme.
+Aha, even today, four hundred years later, all that dissonance really stands out.
+Yeah, sure it does. But before this you couldn’t include dissonances in the composition?
+Well, composers did include dissonance in earlier music and what Arfusi would think of as the ideal music. But there were rules about how it could come about, how the voices interacted to produce it and what came afterward.
+All we can have to know the rules?
+Knowing the details of the rules isn't as important here as understanding that those rules existed, and that Monteverdi was intentionally ignoring them, using these dissonances, breaking these rules because the texts of the madrigals call for this. Like in the madrigal you listen to, the poem he was setting to music is about love sickness and longing. Nicole, when you heard all those dissonances, did they sort of make your ears hurt?
+Um, I guess you could put it that way.
+OK. But is that really a problem? I mean in a sense listening lo dissonance, are ears hurt almost like the heart of the poet? And that's just the point. The music might not always be pleasant or follow all the rules, but maybe it's not supposed to. Maybe we should think about music differently. That's what Monteverdi writes in his response to Artusi's criticism. Monteverdi proclaims a new way of writing music, a new practice in musical composition. The first practice, the one that Artusi subscribes to, is concerned primarily with following rules. The second practice, the way of composing music, the one that Monteverdi champions, the second practice isn’t tied to the rules, but to the text, the words in the poetry. You start with the text, with the poem itself and then create music that expresses what that text itself expresses. That's what he says is most important here, the essence of the text and the emotions it conveys, and if the composer has to break the rules in order to express all these effectively, so be it. So in Monteverdi's response to Artusi, we can see the assertion that the music needs to serve the text, not the other way around, and that's been how many scholars have looked at Monteverdi's music as secondary to the text. But personally I think if you really look at Monteverdi’s actual work, especially what he wrote after 1600, that just doesn’t seem to be the case, not to me anyway. If anything, I'd say the music actually independent of the text, not supportive.
+
+{"1": ["C"], "2": ["A", "C"], "3": ["B"], "4": ["D"], "5": ["C"], "6": ["D"]}

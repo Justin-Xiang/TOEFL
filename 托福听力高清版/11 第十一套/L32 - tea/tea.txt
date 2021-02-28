@@ -1,0 +1,88 @@
+tea
+
+第1题
+What does the professor mainly discuss?
+A The impact of the tea trade on the British economy 
+B  The influence of cultural trends on how certain goods become popular 
+C The rise in the popularity of tea in England
+D Differences between the tea trade and the coffee trade in the 1700s
+
+
+第2题
+According to the professor, why did relatively few people in England drink tea when it was first introduced?
+A Most people had difficulty locating tea in stores.
+B Most people considered it unpatriotic to drink tea.
+C Most people did not like the taste of tea.
+D  Most people could not afford tea.
+
+
+第3题
+How did Catherine of Braganza contribute to the popularity of tea in England?
+A  She promoted the health benefits of drinking tea.
+B She insisted that the people around her drink only tea.
+C  She added sugar to her tea to disguise its flavor.
+D She taught the people around her how to prepare better-tasting tea.
+
+
+第4题
+What does the professor imply happened when demand for coffee increased?
+A The price decreased.
+B There was a coffee shortage.
+C Coffee growers increased production.
+D Traders explored new regions from which to import coffee.
+
+
+第5题
+What does the professor imply about the East India Company after French and Dutch companies dominated the coffee trade in the Mediterranean?
+A The East India Company began to export coffee to Asia.
+B The East India Company focused on trading tea rather than coffee.
+C Other European trading companies merged with the East India Company.
+D The British government took over the East India Company.
+
+
+第6题
+What is the professor's opinion about the theory that social and cultural trends influence consumption?
+A  The theory fails to explain why tea initially became popular in England.
+B Social and cultural trends are not sufficient by themselves to cause trends in consumption.
+C The theory is unable to account for why tea-drinking was considered patriotic.
+D  Social and cultural trends played no role in tea consumption.
+
+
+
+
+
+Listen to part of a lecture in a world history class.
+Okay. So let's continue our discussion about how early trade between Asia and Europe developed. We've covered the Silk Road, an early trade route across Asia. And we've talked about subsequent developments in trade routes. So by the 1500s, what was being traded? What was being imported from Asia? Who remembers?
+Silk and spices. And tea?
+Silk and spices. Yes.
+But not tea? I thought. Well when I think of trade between Asia and Europe, England especially, I think of tea.
+Tea wasn't traded until later. It's not in your text, but it's an interesting case study. 
+And we do some extra time. So despite when being popular in China for hundreds of years before then, tea wasn't imported to Europe until the early 1600s.
+It was first sold in Amsterdam as a novelty item. And it wasn't until the mid- 1600s that tea finally reached London, again as a novelty item and also as a medicine.
+Medicine?
+Ah. So I guess it's gone for circle. I mean, we are constantly hearing reports now about the health benefits of drinking tea.
+Yes. We are not sure if the claims are the same. It makes you wonder how many people back then became tea drinkers because of that. 
+But anyway, yes. Tea was sold as medicine when it first reached England. 
+And it wasn't popular at first. You see, it was extremely expensive, so only the wealthier classes could afford to drink it. 
+And Even those who could afford it didn't want it, since the low quality of the tea leaves created a drink that was bitter and not particularly good-tasting. 
+But in 1661 Catherine of Braganza helped change that. Catherine of Braganza was a Portuguese princess who moved to England before her marriage to Charles the Second, the king of England. 
+Now Catherine was a devoted tea drinker and she insisted on having the highest quality teas. 
+She also talked to the people around her how to prepare teas so that it tasted less like medicine and more like well something they'd actually want to drink. 
+And tea drinking really became widespread when people started adding sugar to it, which was around 1700. 
+At this time, demands for both tea and sugar increased dramatically. By the late 1700s, tea has spread through all parts of English society. In fact, for English workers, a very modest means, the main meal of the day became bread and cheese with tea. 
+But why was it that tea became so popular, as opposed to, say, coffee? Well, to answer that question, we need to look at the coffee trade a bit. 
+In the 1600s, the coffee supply for the entire world was grown only in limited regions of the Middle East. 
+There was no way to influence or increase coffee production. So the supply of coffee was unpredictable, which made the coffee prices fluctuated depending on the supply. 
+On the other hand, tea prices were relatively stable. See, as the demand for tea increased, tea production was able to increase as well, so tea prices remained steady. 
+But that didn't happen with coffee. When coffee demand went up, it wasn't possible to increase the supply. In addition, coffee was traded across the Mediterranean Sea. 
+And the main English trading company, the East India Company, has been forced out of the Mediterranean by French and Dutch trading companies. 
+But the East India Company still had access to exports from China, including tea. 
+And not only that, but the East India Company was under the control of the British government. 
+And it's possible that drinking tea was built as a patriotic act in England, a way for the British to support their country. 
+Now some researchers talked about the idea that social and cultural trends were responsible for the popularity of tea. Um, the idea is that drinking tea started as a practice among the nobility of Europe, and it was copied by other social groups. 
+At this point, tea drinking should have lost its appeal to the nobility. 
+But it didn't. It maintained its positive social associations long after being widely adopted, possibly because people came to associate, drinking tea was the proper behavior of all good patriotic British citizens. 
+This type of imitating behavior may have contributed to increased consumption of tea. 
+But it's quite a stretch to claim it was largely responsible. Still, it's worth mentioning ,for the idea itself, to see what role culture can play in what becomes popular.
+
+{"1": ["C"], "2": ["C", "D"], "3": ["D"], "4": ["B"], "5": ["B"], "6": ["B"]}

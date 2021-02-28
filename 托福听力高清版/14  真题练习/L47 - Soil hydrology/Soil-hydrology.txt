@@ -1,0 +1,94 @@
+﻿Soil hydrology
+第1题
+What is the main purpose of the lecture?
+A To point out the flaws in a newly proposed theory
+B To describe a new understanding of a basic process in soil hydrology
+C To address concerns about using stable isotope analysis
+D To provide an explanation of a study described in the class's textbook
+
+
+第2题
+Why does the professor compare isotopes to fingerprints?
+A To provide support for an argument
+B To clarify a difficult concept
+C To identify a problem with the research study
+D To suggest a way to test a theory
+
+
+第3题
+What did the researchers discover about small soil pores?
+A Small pores make the movement of water through soil difficult to trace.
+B The number of small pores in the soil of a specific area is related to the number of hydrogen isotopes there.
+C Trees receive less water from small pores than from large pores.
+D Small pores retain water longer than previously thought.
+
+
+第4题
+In the soil examined by the researchers,what happens to rainwater that falls toward the end of the rainy season?
+A Most of it moves through the soil to nearby streams.
+B Most of it is absorbed by trees.
+C It is more likely to pick up pollutants underground.
+D Researchers have been unable to track its entire path.
+
+
+第5题
+What point does the professor emphasize about the region examined in the study he describes?
+A Its steep mountainous position exaggerates the effects of wafer flow there.
+B Its dry climate limits how much information it can yield about water movement.
+C Its rainfall patterns and soil conditions are not typical of conditions in all regions.
+D Its soil absorbs water at a much greater rate than soil in a more temperate climate
+
+
+第6题
+What is the professor's opinion about the research findings?
+A The findings provided valuable insights for are search study he conducted.
+B The findings support a different conclusion than the one the researchers have drawn.
+C The findings will have an impact on other fields of research.
+D The findings are not conclusive because the movement of pollutants was not tracked.
+
+
+
+[al:佳文]
+[ar:佳音]
+[ti:Soil hydrology]
+[by:Linsena]
+[00:00.48][ppp]Listen to partof a lecture in an Earth science class.//请听地球科学课的一段内容。
+[00:04.14]Okay.We're going to talk about the second half of the chapter now,the part on soil hydrology.//好的。我们现在要讨论本章的后半部分，即土壤水文学的部分。
+[00:10.83]Now I want you to skim that section so you'll be familiar with the material but it won't be on the test because well it's a little outdated. //现在我想让你浏览一下这个部分，以便你熟悉这些材料，但是因为它有些过时了，所以它不会在测试中。
+[00:17.92]It doesn't reflect the most recent research. //它也没有反映最近的研究。
+[00:20.77]You see up to about a year or so ago we believed that rainwater entered soil, mixing and displacing water that are already there, pushing down deeper in the soil. //大约一年前，我们认为雨水流入土壤，和泥土混合一起，然后排出多余水分，并将土壤沉积到底部。
+[00:30.70]Itbecomes groundwater, heads downhill and eventually enters local stream and river systems. //它成为地下水，沿着下坡路往下流，最终流入当地的水流和河流系统。
+[00:35.97]Over time it evaporates into the atmosphere.//随着时间的推移，它会蒸发到大气中。
+[00:38.81]Now most of the time this is still the case as we know. //大多数情况下，这仍然是我们所知道的情况。
+[00:42.06]But recent findings have shown that how water behaves dependson the soil and the climate,that it isn't always so clear-cut.//但最近的研究结果表明，水的流动取决于土壤和气候，但这些因素不总是如此清晰可见。
+[00:46.83]New technology is available that provides us with a more detailed stable isotope analysis, which led to track water travels through soil as part of the hydrologicalcycle,thewatercycleand...Yes,Jannet?//新技术为我们提供了更详细的稳定同位素分析，从而导致在土壤中水文循环和水循环的一部分追踪水的流动......是的，雅内？
+[00:59.59]Before you go on,could you please explains table isotope analysis?Imean,how it works?//在你继续之前，你能解释稳定同位素分析吗？我的意思是，它是如何工作的？
+[01:06.28]Ah,right,right.Okay.Stable isotope analysis.//啊，对，稳定同位素分析。
+[01:10.53]Newstableisotopeanalysisisaresearchmethodthattrackswater using isotopes. //稳定同位素分析是研究使用同位素追踪水的方法。
+[01:15.60]Isotopes are well, each element, hydrogen, oxygen, and so on, has different isotopes. //同位素很好，每个元素，氢，氧等都有不同的同位素。
+[01:20.88]They are like different versions of the same element. //它们就像同一个元素的不同版本。
+[01:23.72]And just as we can identify people from their fingerprints, we can trace isotopes using stable isotope analysis.//就像我们可以从指纹中识别出人一样，我们可以用稳定的同位素分析来追踪同位素。
+[01:30.41]So researchers collect water from differentlocations during a rainfall.,look at the isotopes of the elements and use that information to track the water through the soil and into nearby streams.//因此，研究人员在降雨期间从不同的地点采集水，查看这些元素的同位素并利用这些信息来追踪土壤和附近溪流的水。
+[01:40.95]So a fairly recent study looked at water in the region in the Cascats, mountains in the Northwest United States.//因此，最近的一项研究调查了美国西北部卡斯猫山区的水资源。
+[01:47.85]Thatareahasa seasonally dry climate, withdry summers followed bya rainyseason. //这是季节性干燥的气候，夏季炎热，随后是雨季。
+[01:53.53]There searcherstestedthe water. //研究人员对水进行了测试。
+[01:55.96]They analyzed the isotopes of the water in the soil and the trees and in nearby streams and they found significant differences. //他们分析了土壤、树木和附近溪流中水的同位素，发现了显著的差异。
+[02:03.26]The samples had two, two distinct isotopic signatures which means the samples came from different rainfalls.//这些样本有两个不同的同位素特征，这意味着这些样本来自不同的降雨。
+[02:09.96]It turned outthe water in the soil near the trees didnot contribute to stream flow.//事实证明，树木附近土壤中的水不会对溪流造成影响。
+[02:14.82]Furthermore, they discovered the water from the first rainfall of the rainy season remains in the soil far longer than expected. //此外，他们发现雨季第一次降雨造成的水量远远超过预期。
+[02:21.51]You see soil consists of particles that are packed together but not so tightly , that there is air or spacebetween them.//你可以看到，土壤由颗粒组成，这些颗粒堆积在一起但不是那么紧密，它们之间有空气或空间。
+[02:28.81]We callthese spaces pores and different soiltextures mean different pore sizes.//我们将这些空间称为毛孔，不同的土壤纹理意味着不同的孔径。
+[02:33.48]In the area studied the soil around the rootsof trees is characterized by small pores.//在该地区所研究的周围土壤以小孔隙为特征。
+[02:38.75]When rain water to startthe rainy season saturatesthe ground there,it fills..the small pores around the roots and it'sheld there.//当雨季开始时，雨季就会浸透地面，就在那里，它填补了. .根部周围的小毛孔。
+[02:47.27]So you might see lessthan 5%ofthe first rainfall actually moving down to the soil,enter to the streams.//所以你可能会看到第一次降雨的5％实际上是向下移动到土壤中，进入到河流中。
+[02:53.55]Instead it'stightly bound in that soil beneath the trees and what we discovered is that throughout the rest of the rainy season these trees just draw from that water that has filled those small pores. //相反，它紧紧地粘在树下的土壤中，我们发现，在整个雨季的其余时间里，这些树都从满是水的毛孔中抽取出来。
+[03:04.71]You see small pores are slower to drain. //你看到小毛孔慢慢变干，水分流失了。
+[03:06.86]They have what'scalled the longest water residence time. //他们的水有所谓的最长停留时间。
+[03:09.30]So in subsequent rainfalls, after the moisture in the soil around the tree rootsreachesa maximum,new rain water flows down into empty larger pores, awayfrom thetree roots,butthis water never really mixes with the water in the smaller poresanditdoesn'tstayinthesoilaslong.//因此，在随后的降雨中，当树根周围土壤中的水分达到最大值后，新的雨水会流到较大的毛孔里，但这些水分从未真正与小毛孔中的水混合在一起，并且不会在这些地方长期存在。
+[03:25.72]Itmovesdownthroughthesoilintothestreams.//它通过土壤向下流入溪流。
+[03:28.56]Now obviously different soils have different pore sizes and not every location has the same dry rainy seasonal pattern. //现在很明显，不同的土壤有不同的孔隙大小，并不是每个地方都有相同的干雨季节模式。
+[03:34.85]So the study is just a preliminary look at one specific region, one specific circumstance. //所以这项研究只是对某一特定区域，特定情况的初步考察。
+[03:42.36]We need to repeat the research elsewhere, but with the advances in stable isotope analysis we can now do it. //我们需要在其他地方重复研究，但是随着稳定同位素分析的进展，我们现在可以做到了。
+[03:49.25]And here we reach what is in my view the most valuable aspect of these research findings, because you see this new 72 understanding of water movement has  been changing the way we understand other things as well.//在我看来，这些研究成果中最有价值的方面是，因为你看到这种对水运动的新理解也改变了我们对其他事物的理解方式。
+[03:59.39][ppp]Forexample,it's making us look at how pollutants move through or are trapped in soil and that has far-reaching implications outside the hydrological cycle.//例如，它让我们看到污染物如何通过或困在土壤之中，并且在水文循环之外具有深远影响。
+[04:08.11][end]

@@ -1,0 +1,57 @@
+﻿- trip
+第1题
+Why does the student go to see the director of the Student Activity Center?
+A To say that he doesn’t like to be on the bus on nice weather 
+B To invite his roommate to a reception at an art gallery 
+C To ask for more financial support for the activity 
+D To propose a last-minute change in plans for a trip
+
+
+第2题
+What point does the student make about his job in the Student Activity Center?
+A He was inspired by posters to raise additional funds. 
+B His roommate recommended him to get the job. 
+C He became interested in art work since he’s been working there. 
+D The center provides some popular activities for its students.
+
+
+第3题
+What two points does the student make about the history of the High Line? Click on 2 answers.
+A It was a line used to transport freight. 
+B It was controversial because there were no passengers. 
+C It was initially built to connect the train station and art gallery. 
+D It was not used for many years.
+
+
+第4题
+Why does the director mention what the poster says?
+A To point out that he is not qualified to be a leader for the trip
+B To indicate a problem with the student’s proposal
+C To suggest him not to take a walk High Line
+D To explain the bus wouldn’t be available with only fifteen students
+
+
+
+
+
+Listen to a conversation between a student and the director of the Student Activity Center.
+D: Is everything ready, Jack?
+S: Yeah! We have fifteen students who signed up for the trip to New York so far, and everything is set up.
+D: Great! So... our train will arrive....
+S: It gets into the city at noon, and that would leave us enough time to visit the art gallery downtown.
+D: You’ve organized this very well! It’s such a privilege having an art work by one of our students in that exhibition.
+S: You can say that again! My roommate, you know, he’s so modest that I never realized his work is being exhibited. So, since I was going anyway, for the opening and all, I think my roommate wants me to make a student event out of it. Working here at the Student Activity Center made me realize how popular our activities are. I figured there will be an interest in it!
+D: Yes! I’m sure students will be very much interested in it. And what you’ve done is just so good, including these posters. They look great!
+S: Thanks for saying that. And I also appreciate that you approved some funds for us. Anyway, um... there’s something I wanted to talk with you about. The bus.
+D: The bus?
+S: Yeah. Actually, it came to my mind at the last minute. I，ve already checked the weather forecast, and they predict sunshine for that day. I mean, we shouldn’t miss this big chance to walk the High Line.
+D: What line?
+S: Oh! Haven’t you heard of it? It’s amazing...! It’s like... a park in the sky. Well, originally it was a sole train line and was used for freight, not passengers. But, once it was replaced by trucks with lower costs, it was abandoned for a long time. After years of debate, the city agreed on a project to turn the area into an over a mile-long park. It’s really cool with all the beautiful flowers and trees and also we get to see these fantastic views of the city. Moreover, it goes from the train station to all the way downtown near the gallery.
+D: Sounds wonderful, but what if not everybody is interested in walking? Some might prefer the bus. Have you considered this?
+S: Um... then, we might divide up into two groups.
+D: But you should keep this in mind Jack. The poster says that you will be in charge of the tour for all. If you want to take the walkers, then you should find someone to lead the rest of the people on the bus.
+S: But who?
+D: Well, I didn’t grow up in New York like you did, but I got my graduate degree there. So I think I still remember how to get around the city. And I can’t wait to see that exhibit.
+S: You do? Oh! That would be so great!
+
+{"1": ["D"], "2": ["D"], "3": ["A", "D"], "4": ["B"]}

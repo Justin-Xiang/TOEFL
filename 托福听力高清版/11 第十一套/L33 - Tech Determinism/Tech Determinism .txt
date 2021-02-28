@@ -1,0 +1,60 @@
+Tech Determinism 
+第1题
+What is the main purpose of the lecture?
+A To propose arguments for and against a theory of social change
+B To show how social change has affected trends in European painting 
+C To discuss a theory about the relationship between art and social change
+D To show how theories regarding the causes of technological innovations have developed over time
+
+
+第2题
+Why does the professor mention the scientific revolution of the sixteenth and seventeenth centuries?
+A To point out the rapid development of technology in Europe during that time period
+B To suggest that today's modern technology is a result of the scientific discoveries of that time period
+C To give an example of the delayed impact that a new technology can have
+D To point out a significant reason for increased literacy
+
+
+第3题
+Why does the professor point out that painters in ancient Greece did not use the technique of perspective in their paintings?
+A To emphasize that technological determinism can explain social change in ancient as well as modern times
+B To show that the presence of a technology does not automatically lead to that technology's use
+C To remind students of when the technique of perspective was first used by artists 
+D To make the students aware that the term "technology” can have different meanings
+
+
+第4题
+Why does the professor show the class the painting Ball at the Moulin de la Galette ?
+A To support the argument that society was prepared for the introduction of photography
+B To support the idea that artists often reject new technology 
+C To emphasize why many artists were looking for a new artistic medium
+D To explain how inventors from different countries shared the knowledge that led to the first use of photography
+
+
+第5题
+What characteristic of the painting Ball at the Moulin de la Galetfe does the professor emphasize?
+A Its unusual use of perspective
+B Its vibrant colors
+C How similar it is to the paintings of mythological scenes
+D How natural and unplanned it seems
+
+
+第6题
+What is the professor's opinion of the theory of technological determinism?
+A It ignores the positive societal changes that accompany new technology.
+B It is not applicable to the technological advances of the nineteenth and twentieth centuries.
+C It does not acknowledge society's role in the development and acceptance of new technologies
+D It assumes that technological advances are the only causes of societal change.
+
+
+
+
+
+Listen to part of a lecture in a sociology class.
+We've been talking about social change: what drives it? How it comes about? And now I'd like to talk about a theory that proposes that technology, that technological advances, can cause social change. It's a theory that's been widely debated. It's called technological determinism. Proponents of technological determinism believe that technology causes social change, independent of other societal influences, like culture, economics, political events, and that the development of new technologies, which could be anything, from the alphabet to the Internet,  drives the evolution of our society and helps shape who we are. 
+Now we know that societal change does occur as a result of new technologies. Take the printing press. Soon after its invention in Germany in the mid-15th century, literacy rates rose. The notion of authorship became more important and in Europe local languages became standardized as they became the language of publication. But I must point out that some changes caused by a technology are not immediately apparent. Some theorists claim that the invention of the printing press led to the subsequent scientific revolution of the 16th and 17th centuries because of the increased communication between scientists. And of course we generally think of these changes as positive or something good, but that's not really the point. Technological determinism doesn't address whether a particular technology or the change caused by that technology is positive or negative. It simply maintains that once the technology is available, change is inevitable, regardless of other societal influences. In fact technological determinism proposes that not only is change inevitable but that societies cannot resist the changes. They're unable to do anything to prevent them. 
+But opponents of technological determinism look at the source of change. They feel that technological innovation doesn't just come out of nowhere and change society. What you have to have first is a society that's somehow ready for technological innovation, not just technologically ready, but psychologically or culturally ready. The opponents argue that the technologies themselves are the products of their societies,  not independent of them. 
+And we can find examples in the visual arts to support this opposing point of view. The ancient Greeks understood the technique of perspective. They knew how to make a painting look three-dimensional because, or you could say, they had the technology. But they didn't employ the technique because in Greek culture at the time it was wrong to trick a viewer into thinking that a painting was real. Opponents of technological determinism would say that before the ancient Greeks could start using the technique perspective, something in Greek society had to change and let's look at the invention of photography. Many of the chemical and mechanical elements involved in photography existed before the first photographs were taken in the 19th century. In fact different inventors in different parts of Europe had made similar discoveries that contributed to the invention of photography, but some art historians have claimed that painting trends in the West before the 19th century actually delayed the beginnings of photography. You see before the advent of photography painters usually painted grand scenes, like battles, or scenes from mythology. But in the 19th century you begin to have this movement not exactly towards realism because paintings have been realistic for some time. It was more a movement towards painting realistic scenes that were natural, not rigidly composed. Artists now wanted to capture spontaneous moments from everyday life. Take a look at this painting. It's by a 19th century French impressionist. In English it's called Ball at the Moulin de la Galefte. Notice how spontaneous this scene is. It's a picture of a moment in these people's lives, not like a photograph you might see in a family photo album. So opponents of technological determinism would say that photography, at least photography as an art form, came about in part because society was ready to embrace as art the everyday subjects that the camera can capture. 
+Now I'm not saying that the technological determinists are wrong. They're right that new technologies bring about social change. It's just that this art group, sensibly I think, points out that societies need to be in the right frame of mind in order for new technologies to take hold.
+
+{"1": ["A"], "2": ["C"], "3": ["B"], "4": ["A"], "5": ["D"], "6": ["C"]}

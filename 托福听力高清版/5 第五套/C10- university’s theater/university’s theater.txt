@@ -1,0 +1,53 @@
+﻿ university’s theater
+
+第1题
+Why does the student go to the office?
+A To buy season tickets
+B To buy tickets for a performance of Hamlet
+C To find out which plays she might be able to take her parents to see
+D To ask if discounts are available for ticket packages
+
+
+第2题
+What benefits of buying season tickets does the man mention?
+A A price discount on every show
+B Seats with the best view of the stage
+C An opportunity to the actors after the performance
+D A discount on refreshments purchased at the theater
+E A chance to buy extra tickets before they are on sale to the public
+
+
+第3题
+What does the man imply about the play Hamlet?
+A It will be performed on weekends only
+B It has never been performed at the theater before
+C Tickets for it are more expensive than tickets for other plays
+D Tickets to see it are likely to sell out quickly
+
+
+第4题
+What information does the man say is included on the flier?
+A Rates for various ticket purchasing options
+B A seating chart for the theater
+C Names of professors who will give performance talks
+D Performance times for the shows
+
+
+Listen to a conversation between a student and an employee at the university’s theater.
+1: Hey! Everyone’s been telling me what a great line up of plays you guys are presenting this season.
+2: Yea, it’s going to be wonderful. I’m excited about it. Have you seen our production of Hamlet? We do it every year.
+1: No I haven’t, but I want to. I also want to see A Streetcar Named Desire, but mainly I was wondering, see, my parents are coming to visit the first weekend in November and I’d like to take them to see something.
+2: Well you’re in luck. That’s when Hamlet opens and if you’re interested in Streetcar as well, have you considered purchasing season tickets?
+1: Not really, but is there a discount if you buy season tickets? You know, is it cheaper than buying individual tickets for each show?
+2: It does come out to a few dollars cheaper per ticket, but there are other advantages. Season ticket holders are assigned the best seats for one and they can buy extra tickets for individual performances before they go on sale to non-season ticket holders, so... you want to get season tickets for yourself and then buy extra tickets for your parents? The only catch is I can’t guarantee that the seats would be together because season and individual ticket orders are processed separately.
+1: That’s not a problem, but I’m not sure if I want to do season tickets. How hard do you think it’d be to get tickets for the Hamlet performance, like if I came in next week? I need to confirm the date with my parents.
+2: Well, right now we’re selling season tickets only. If you want to buy tickets for the play only, individual tickets go on sale next month. You’ll be able to buy them here at the box office or order them through our website, but I’ll tell you based upon past years sales for Hamlet, it wouldn’t wait too long to get the tickets once they go on sale and oh, I forgot to mention. Season ticket holders also get free admission to something new this season: pre-performance talks. The talks start an hour before each show and will be given by faculty in our drama department. The idea is to enhance the audience’s appreciation of the play they’re about to see. They’ll also serve some light refreshments. Regular ticket holders who want to attend will have to pay an extra fee.
+1: That’s a great selling point for season tickets.
+2: So does that mean you’d like to buy them?
+1: It would be great to go to all the performances, but realistically I don’t know if I can swing that.
+2: Sure, I understand. You’ve got plenty of time to decide about season tickets. In the meantime, why don’t you grab one of those flyers from the rack over there on your way out? It’s got a complete calendar of all our performances, matinee times, evening shows. There’s also details on single ticket prices, as well as season tickets and other package deals.
+
+
+
+
+{"1": ["C"], "2": ["A", "B", "E"], "3": ["D"], "4": ["A", "D"]}

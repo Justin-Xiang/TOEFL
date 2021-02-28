@@ -1,0 +1,87 @@
+﻿Reproductive Redundancy 
+第1题
+What is the lecture mainly about?
+A Some distinctive features of violet seeds
+B Conditions that allowed violets to evolve into hundreds of species
+C Multiple ways in which violets ensure their reproductive success
+D Research findings that contradict previous assumptions about violet reproduction
+
+
+第2题
+How does the professor organize the lecture?
+A She explains the value of redundant reproductive strategies, then she cites a series of examples found among violets.
+B She describes several varieties of violets, then she explains how their reproductive adaptations differ. 
+C She compares a series of reproductive adaptations of violets with those of other flowering plants. 
+D She describes some reproductive adaptations of violets and speculates on how they evolved.
+
+
+第3题
+What does the professor imply when she discusses the fact that some violets periodically shift the positions of their petals?
+A Violet petals shift to allow the widest possible dispersal of seeds
+B Violets evolved to protect their nectar from being dried out by excessive sunlight. 
+C Various types of insects pollinate violets at different points in the flowering season. 
+D Petals on violets with the longest stalks shift position most dramatically. 
+
+
+第4题
+According to the professor, what advantage do cryptic flowers give to violets?
+A The ability to attract pollinators that do not fly
+B An increased capacity to produce nectar
+C he ability to store nutrients for later use
+D A supply of seeds if cross-pollination does not occur
+
+
+第5题
+What attitude does the professor express when she tells the story about her ivy-leaf violet?
+A She is surprised because the violet's seed capsule did not function properly.
+B She is amazed by the power with which the violet's capsule expels seeds. 
+C  She is skeptical about the violet's ability to attract pollinators. 
+D  She is relieved that her plant has survived.
+
+
+第6题
+What point does the professor make about certain species of foraging ants?
+A  They often build their colonies underneath violet plants. 
+B They are the only nonflying insects that pollinate violets.
+C They produce oil from a gland in their jaws that helps violet seeds germinate. 
+D They play an important role in the wide dispersal of violet seeds.
+
+
+
+[al:佳文]
+[ar:佳音]
+[ti:British-accent-reproductive-redundancy]
+[by:Linsena]
+[00:04.33][ppp]Listen to part of a lecture in a botany class.//请听植物学课的一段内容。
+[00:07.98]Another thing about the reproductive adaptations of plants is that these adaptations are often redundant.//关于植物生殖适应的另一件事是这些适应往往是多余的。
+[00:14.47] Some plants use a variety of different mechanisms, not just a single method to pass the genes along to the next generation.//一些植物使用各种不同的机制，而不仅仅是将基因传递给下一代的单一方法。
+[00:21.78]So it's like having a plan B in case plan A fails.//这就像有一个B计划，以防计划失败。
+[00:25.63]Precisely. Good analogy, Steve. To illustrate reproductive redundancy, let's look at one flowering plant that's pretty famous in scientific circles for its reproductive fitness. //正好。好的对比方式，史蒂夫。为了说明生殖过多，让我们来看看一个在科学圈中非常有名的开花植物的繁殖适应性。
+[00:37.19]And that's the Viola or violet as it's commonly called. For instance, one strategy violets use is cross-pollination by insects and not just bees. //这就是通常所说的中提琴或紫罗兰。例如，紫罗兰使用的一种策略就是由昆虫而不是蜜蜂进行异花授粉。
+[00:46.92]Violets rely on a variety of insects to spread their pollen to other violets and fertilize them. To attract pollinators, many violets produce colorful fragrant flowers like these. //紫罗兰则依靠各种昆虫将其花粉传播给其他紫罗兰并使它们受精。为了吸引传粉者，许多紫罗兰会产生色彩斑斓的芳香花朵。
+[00:58.08]Now there are about 500 species of violet and many produce blooms from late February through mid-July, longer than many other perennials. So that provides a large window of time for pollination.//现在，从二月下旬到七月中旬，大约有500种紫罗兰，比许多其他多年生长的植物要长得多。这为授粉提供了一个很大的空间。
+[01:10.85]But there's more to it than that. With some of these species, several times during the life of the flowers, the stalk changes positions.//但除此之外，还有更多的事情要做。对于这些物种中的某一些，在花的生命中有好几次授粉，因此茎会改变位置。
+[01:18.77]And the petals themselves actually shift very gradually. Why does this happen do you think?//花瓣本身实际上正在逐渐变化。为什么你会这样想？
+[01:24.24]To take advantage of the available sunlight?//利用现有的阳光？
+[01:27.28]No, though some plants do that. Okay. //不，虽然有些植物能做到这一点。好的。
+[01:30.12]Picture a bee, a wasp, a pollinating fly, and a butterfly all with different maturations and enemies, each foraging for nectar in its own particular way and at a slightly different time of year. //想象一只蜜蜂，一只黄蜂，一只授粉苍蝇和一只蝴蝶，它们进行不同的交配，有不同的敌人，每只蜜蜂都以它自己特定的方式觅食，每年的时间稍有不同。
+[01:42.49]Now over the course of a long flowering season, violets that change petal positions from horizontal to vertical for instance, that sort of customized feeding platforms, their blossoms to accommodate whatever's flying around at a particular time. //现在，在一个漫长的开花季节里，紫罗兰将花瓣的位置从水平位置改变为垂直位置，这种定制的喂养平台，使得它们的花朵可以适应任何在特定时间飞行的物体。
+[01:57.40]They are going to be the most successful. //他们将是最成功的。
+[02:00.04]Okay. But even after the blooming season is over, the strategies continue. Some violet species start producing another kind of flower, fat green buds that never open. These buds are called cryptic flowers.//好的。但即使在开花季节结束后，这些策略仍在继续。
+一些紫罗兰种类开始生产另一种花，即从未绽放的绿芽。这些芽被称为神秘的花朵。
+[02:14.04]Cryptic flowers form at the bottom near the base of the plant between the leaves, but they never bloom. //在叶子之间的植物底部附近有一种神秘的花，但它们从不开花。
+[02:19.51]So cross-pollination by insects isn't possible. Instead, cryptic flowers self-pollinate to produce seeds. //所以昆虫异花授粉是不可能的。相反，神秘的花朵会自我授粉以产生种子。
+[02:26.41]So even if cross-pollination gets disrupted by frost or droughts or pest or by a low number of pollinators, violets with cryptic flowers can still reproduce. //所以，即使异花授粉受到霜冻，干旱，虫害或传粉媒介数量较少的影响，带有神秘花朵的紫罗兰仍能繁殖。
+[02:37.04]Now, violets tend to produce lots of seeds. But seeds are even more useful if they get spread out, because…//现在，紫罗兰往往会产生大量的种子。但是种子如果分散开来就更有用了，因为。
+[02:45.36]Well, if the seeds just fell in a pile at the base of the plant, they could be eaten all at once if a bird or a mouse found them, right?//是的，如果种子刚落在植物基部时，如果一只鸟或一只老鼠发现它们，它们就会立刻被吃掉，对吧？
+[02:55.50]Yes. Or if the seeds do germinate, they wind up competing for nutrients with each other and with their parent plant. //是。或者，如果种子发芽，它们就会相互竞争，争夺营养物质，并与它们的母体植物相互竞争
+[03:02.60]To avoid this, many violets produce their seeds in a dry fruit called the capsule. As this capsule ripens, its walls dry out and eventually the seeds are expelled under pressure and shoot into the air.//为了避免这种情况，许多紫罗兰在一种名为胶囊的干果中产生种子。当这个胶囊成熟时，它的墙壁变干，最终种子在压力下排出，然后向空气中喷射。
+[03:14.76]This reminds me of the story about one violet species that can supposedly shoot its seeds almost 5 meters away from the parent plant.//这让我想起了关于一种紫色物种的故事，据说它可以在离母植物近5米远的地方发射它的种子。
+[03:22.67]And that had always seemed pretty out there to me. But one day when I was expecting one of my ivy-leaf violet, I noticed an open seed capsule. //而这一直对我来说似乎非常重要。但有一天，当我期待地看着一片常春藤紫叶时，我注意到了一颗开放的种子囊。
+[03:35.36]I could see the brown seeds all lined up on the margins. I decided to bring the plant upstairs to show a colleague, but as I was walking I heard this pop and ping.//我能看到这些棕色的种子在边缘上排列整齐。我决定将这植物带到楼上去向同事展示，但是当我走路时，我听到了这个声音。
+[03:41.07] The seed capsules from my little ivy-leaf violet had released the seeds, which burst out and actually hit the ceiling almost 2 meters above my head.//小小的常春藤叶紫色的种子胶囊释放出了种子，突然冒出来，实际上竟撞到了我头顶上方2米的天花板上。
+[03:49.79] Now let's look at the design of the seeds themselves .A lot of violet species produce seeds that are tipped with a tiny oil gland. So basically you have these oil tip seeds. //现在让我们来看看种子本身的设计。许多紫罗兰种类产生的种子都被微小的油腺所包裹。所以基本上你有这些油尖种子。
+[04:00.13]And this oil is very attractive food for certain kinds of foraging ants. //这种油对于某些种类的觅食蚂蚁来说非常有吸引力。
+[04:04.60]So what happens is the oils collect these seeds, take them into their underground colony, scrabble the oil with their mandibles, their jaws, and then dump the remains of the seeds in a pile.//那么，这些油腺会收集这些种子，将它们带入油腺的深处，用下颚将剩下的种子堆在一起。
+[04:15.39]And this is where they sprout again far away from the parent plant.//这就是它们远离母体植物再次发芽的地方。
+[04:55.29][end]

@@ -1,0 +1,60 @@
+﻿ why Io differs so greatly from Earth’s Moon
+
+第1题
+What discovery by the Voyager spacecraft does the professor mention?
+A Io is volcanically active
+B Io has several large impact craters 
+C Io’s  orbit is highly irregular
+D Io is closer to Jupiter than previously thought
+
+
+第2题
+What effect of Jupiter’s gravitational force does the professor emphasize?
+A It causes variations in the shape of Io’s surface
+B It causes variations in Io’s  rate of spin
+C It causes ocean levels on Io to rise and fall
+D It keeps the same side of Io always facing Jupiter
+
+
+第3题
+What factors does the professor mention that help explain Io’s internal heat?
+A Two of Jupiter’s other moons affect Io’s orbit.
+B Io still retains much of the internal heat that it had when it formed.
+C Heat radiating from Jupiter is absorbed by Io’s  rocky surface.
+D Rock movement in Io’s interior causes friction.
+
+
+第4题
+What do the findings of the study of Europa and Ganymede imply?
+A Io’s orbit will gradually become more irregular.
+B Volcanic activity on Io will eventually decrease. 
+C Jupiter’s gravitational pull on Io will weaken.
+D Europa and Ganymede will move closer to Jupiter.
+
+
+第5题
+Why does the professor say this:
+A To indicate that he does not like to be interrupted
+B To confirm the student’s conclusion
+C To remind the student that the point was covered in a previous class
+D To indicate that he wanted to change the topic
+
+
+
+
+
+
+
+Listen to part of a lecture in an astronomy class.
+P: So, we now know Jupiter has lots of moons, over 60 of them, but it’s one of Jupiter’s four Galilean moons, the moons first seen in 1610 by the astronomer Galileo, it’s the innermost of these, the one called Io that I’d like to focus on today. Io’s fairly small like Earth’s moon, but farther from the sun, so you might picture it as a boring, rocky place with nothing much going on, kind of like our own moon, only colder, but when the Voyager spacecraft took the first close-up pictures of the surface of Io’s  in 1979, we learned how mistaken that assumption would be. Voyager’s cameras recorded hundreds of volcanoes there; some erupting violently even as the spacecraft was passing by.
+S1: Do the pictures show impact craters on Io, like our moon has?
+P: No. Io’s so volcanically active that any meteor impact craters would quickly be covered over by volcanic debris and this indicates something really surprising about Io’s interior.
+S1: That it must be very hot.
+P: Very. You took the words right out of my mouth, but all that heat is puzzling. You see, our own moon is pretty cold inside and since Io’s not much bigger than Earth’s moon is and a lot farther from the sun, it ought to be at least as cold. I mean, neither have much heat to begin with and just about all of that original heat would have been lost by now. So, all that volcanic activity on Io, where does the heat for that come from? Well, here’s a hint. It has to do with something we call tidal force, which is what? Richard?
+S2: Like ocean tides on earth? The force that makes ocean levels rise and fall.
+P: Exactly. Now how does that work?
+S2: Well, the tidal force on earth is mainly caused by the moons gravitational pull. The closer two objects are, the stronger the pull. So the side of the earth nearest the moon gets pulled more strongly than the rest of the planet and that makes the ocean there bulge out toward the moon, so tides there first rise and then begin to fall as earth keeps spinning around and bringing a different part of the ocean closer to the moon.
+S1: But how does this explain all the volcanoes on Io?
+P: Ok, as Richard indicated the side facing the other object experiences the greatest gravitational force and since Jupiter’s so massive, the effect of its immense gravity pulling on the nearer side of Io is extremely powerful, so powerful it causes Io’s solid surface to bulge out toward Jupiter. Even so, the tidal force caused by Jupiter’s gravity, this alone can’t explain Io’s  volcanic activity. There’s something else going on. You see, it’s not just Jupiter that’s pulling on Io. So are the next two Galilean moons, Europa and Ganymede. Now, while Europa and Ganymede aren’t close enough or massive enough to exert a tidal force on Io, they do affect lo’s orbit. Jupiter, with its immense gravity, pulls Io inward toward itself, but whenever Io passes near one of those other moons, it gets pulled outward away from Jupiter, so Io’s orbit is hardly a nice perfect circle. It’s actually quite irregular because as Io passes first one of these moons, then the other, its distance from Jupiter is continually increasing and decreasing and this causes huge fluctuations in Jupiter’s tidal forces, the forces pulling on Io, strengthening to stretch out that tidal bulge and then weakening and letting the bulge go back down and all this in the incredibly short time it takes Io to complete each orbit around Jupiter; less than two days as we measured on earth. So, every couple of days, Io’s tidal bulge rises and falls by about 100 meters. That’s over five times the maximum difference between low and high tide on earth and here tides just mean changes in ocean levels. On Io remember, there’s no ocean. We’re talking about tidal effects on rock. Now, all this flexing creates tremendous friction in Io’s rocky interior, which of course generates enormous heat and pressure and this so called tidal heating, this is what powers Io’s amazing volcanic activity, but there’s a recent study, one based on a hundred years of data about Europa and Ganymede and this study concludes that these two moons are gradually drifting away from Jupiter, so with Io slowly settling into a nice, regular orbit determined by Jupiter alone, someday all of this will have changed.
+
+{"1": ["A"], "2": ["A"], "3": ["A", "D"], "4": ["B"], "5": ["B"]}

@@ -1,0 +1,105 @@
+﻿arrangements for an on-campus event
+
+第1题
+Why does the woman go to see the man?
+A To ask how to make arrangements for an on-campus event 
+B To discuss a concert that will raise funds for her club 
+C To propose a budget for an upcoming event on campus
+D To find out his ideas for future student activities
+
+
+第2题
+ Why does the woman want to book the Jimmy Smith Band?
+A They are popular among students on campus.
+B They have a past connection on the university.
+C They do not change a lot of money for performances. 
+D They will be nearby in a couple of months
+E They are similar to a well-known musical group.
+
+
+第3题
+Why does the man mention the office of the dean?
+A To point out where the woman has to submit the application form
+B To indicate which office directly contacts bands to arrange for campus concerts
+C To suggest that the budget-approval process may take some time
+D To explain why student activities will not be fully funded this year
+
+
+第4题
+What does the man imply about a car-wash fund-raiser?
+A He thinks it would be difficult for students to organize.
+B He remembers it was a successful fund-raiser for his colleague. 
+C He doubts it would help the woman earn much money.
+D He does not think it would be approved by the university.
+
+
+第5题
+Why does the man think that local businesses would be willing to provide items for an auction? 
+A To strengthen ties with the university 
+B To get free concert tickets for their employees 
+C To receive a portion of the profits 
+D To promote their companies
+
+
+
+
+
+
+Listen to a conversation between a student and an employee in the student affairs office.
+Employee 
+OK there, Susan?
+Student 
+Fine. Mr. Harris.
+Employee
+Congratulations on your election. President, Huh? 
+Student
+Thanks. You know I've been on the student activity's boards since my first few years so I thought I try for a leadership role in it.
+Employee
+Yeah, good. You have a lot of experience in planning events on campus.
+Student
+Yeah. But I've always been involved in smaller projects. As president I'm gonna be responsible for campus wide events. It's gonna be challenging, but a lot of fun, too.
+Employee
+Yes. That's the spirit.
+Student
+So, I have an idea. I’d like to book the Jimmy Smith Band to come. I think that will be a great show out on campus.
+Employee
+Well. If you can convince the band to come here.
+ Student
+Turns out they’re doing a show in Central University in a couple of months, so they'll be in the area. 
+Employee 
+Hum.
+Student
+And someone said that Jimmy Smith himself graduated from here a few years back so I bet we could book them.
+Employee 
+Are you a fan?
+Student
+To be honest, I haven't heard them. I don't think they're well-known around here, but I found out that they sound similar to the Magic Tones. 
+Employee
+Yep. They played here last year, right?
+Student
+Yeah. They were a hit. Well, they're popular. So I'm not exactly sure what I need to, well, what I need
+to do to like get funded.
+Employee
+Well it can be a lengthy process. First, you need to come up with a budget. You figure out how much it will actually cost and fill out an application form to request a funding. And you submit the form to me, to this office that is and the funding board will go over and let me know their decision.
+Student
+Aha.
+Employee
+And if the budget is approved then depending on how highly anticipated costs will be, I may send it to the office of the dean for another approval. Then you can go ahead and try to book the band. 
+Student
+Urn, I have heard a rumor that funds are a little low right now?
+Employee
+That's right. You know that most events on campus are funded by the student activity fee including the tuition bill and normally there are enough funds available, but the costs for last year's community outreach day were much higher than expected.
+Student
+But we could arrange some type of fundraiser, right? Like a car wash?
+Employee
+You could. But in the amount of money you’d make, especially given the cost of cleaning supplies, you might be disappointed.
+Student
+Now well, do you have any suggestions?
+Employee
+Well, you might consider an auction. You could obtain items from local businesses to sell them for the highest bidder. They probably won't mind donating items since it's a free advertising. My colleague at another university told me about a student group there that made quite a bit of money from an auction fundraiser.
+Student
+Yeah. That's a good idea. I just need to know how to get started. Can I have your colleague's number? 
+Employee 
+No problem.
+
+{"1": ["A"], "2": ["B", "D", "E"], "3": ["C"], "4": ["C"], "5": ["D"]}

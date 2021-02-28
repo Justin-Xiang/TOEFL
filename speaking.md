@@ -85,3 +85,25 @@ advantages
 
 I think the historic sites should open to the general public. First,it can
 
+Here are my reasons.For example/This is because.comprehensively development.
+
+摆出观点+here are my reasons+First+for example/this is because+扩展细节+落脚句+Second+for example/this is because+扩展细节+落脚句
+
+a informed choice know different relationships
+
+​	
+
+edge n.优势
+
+give you an edge in the job market when you graduate 就业市场有更大的优势
+
+University with academic have higher recognition in the public
+
+Make it easier/possible for you 
+
+job applicants
+
+More meaningful and invaluable programs.
+
+Keep you up with latest technology and science
+

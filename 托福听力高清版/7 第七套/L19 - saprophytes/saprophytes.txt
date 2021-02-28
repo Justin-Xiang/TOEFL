@@ -1,0 +1,119 @@
+﻿ saprophytes
+
+第1题
+What does the professor mainly discuss?
+A Processes that led bacteria to become trapped beneath a glacier.
+B Bacteria that live in an environment that is inhospitable to most forms of life.
+C The structural differences between bacteria and higher organisms.
+D The different types of organisms that live near hydrothermal vents.
+
+
+第2题
+What does the professor say about bacteria that grow around hydrothermal vents?
+A They are able to withstand higher temperatures than all other organisms.
+B They are not as resilient as bacteria that live in glacial waters.
+C They must have small amounts of sunlight to survive.
+D They use hydrogen sulfide as their primary nutrient.
+
+
+第3题
+Why does the professor point out that the glacial pool has not frozen even though its temperature is below the freezing point?
+A To point out that sulfate could not be recycled in water that has frozen.
+B To emphasize that the pool is very salty.
+C To point out that seawater is colder today than it was two million years ago.
+D To imply that the amount of water in the pool has been slowly decreasing.
+
+
+第4题
+According to the professor, what is unique about the bacteria in the glacial pool that she discusses?
+A The bacteria use sulfate to produce iron.
+B The bacteria must have oxygen to survive.
+C The bacteria convert sulfate to sulfite
+D The bacteria use sulfide in reproduction.
+
+
+第5题
+What does the professor imply about iron in the glacial pool that she discusses?
+A It is present in unusually low amounts for a glacial pool.
+B It helps prevent the water in the pool from melting the glacier.
+C It allows bacteria to maintain a constant supply of sulfate in the pool.
+D It combines with excess oxygen in the pool.
+
+
+第6题
+Why does the professor say this?
+A To signal that she is about to offer a contrasting way to consider bacteria.
+B To imply that some types of bacteria have a more complicated structure than others.
+C To encourage her students to point out interesting facts about bacteria to the class.
+D To indicate that she agrees with the studens’ opinion about bacteria.
+
+
+
+
+
+Listen to part of a lecture in a biology class.
+professor
+okay in our last class we said that bacteria have relatively simple unicelluar
+organization. 
+Now you may have left class thinking that, bacteria with the simple
+structure aren't all that interesting. 
+I mean what's impressive about one-celled microbe.
+But bacteria are pretty amazing organisms. 
+Even though they lack the complicated celluar organization found in higher organisms, they still have to obtain nutrients and convert them into a form of energy that's useful to the cell, and they do this in the seemingly most unfavorable places. 
+Like in the late 1970s we discovered bacteria thriving around hydrothermal vents. These are vents near the ocean floor that leak water that's been heated by molten rock deep within the earth. 
+Water pouring out of these vents can reach temperatures of up to 400℃.
+Now other organisms live near this vents too, but then bacteria can withstand higher temperatures than any other organisms. 
+But it's not the heat from the vents that the key to the life around the vents, it's the chemical hydrogen sulfide. 
+Then bacteria use hydrogen sulfide as their energy source instead of sunlight. 
+The bacteria interns sustains the larger organisms in the vent community Yes, jack?
+male student
+You know I just read about some bacteria living, I think it was in a pool of water
+under a glacier in the Antarctic.
+professor
+Right, at the other extreme many types of bacteria can thrive at very low temperatures, these bacteria are called sacrophytes.
+Sacrophytes grow in temperatures below 15℃, so we found them beneath the soil in temperature climates and deep in the oceans where the temperatures usually reach 5 or below. 
+And in the case of these bacteria you read about that live under the glaciers, well we're dealing with extreme sacrophytes here. 
+A few years ago researchers were testing runoff from a glacier and discovered bacteria in the runofff. 
+The runoff originated in an isolated pull of the water that's been trapped underneath a glacier for nearly two million years. 
+The pool was probably part of an ancient sea. 
+But when sea levels dropped the pool became isolated on land, eventually a glacier, an ice sheet, moved across the land and covered the poor completely sealing it off. 
+There is not really any other environment quite like it on earth. 
+And yet bacteria have been living in this environment, and it's not exactly when is friendly to life. 
+First there's almost no oxygen in the pool because the glaciers sealed it out. 
+And because the glacier is 400 meters thick, no sunlight can reach the pool. 
+Finally the pool is extremely salty, remember salt lowers the freezing point of water. 
+In this case the water is so saline that it remains liquid even though its temperature is -10℃. Jack?
+Male student
+But how could the bacteria survive with no oxygen or nutrients coming into the pool?
+Professor
+Well it seems there is a source of energy within the pool itself, and that these bacteria
+have a unique way of using it, you see the pool is rich in sulfate. 
+Sulfate is commonly found in seawater. 
+Now bacteria typically use sulfate as an energy source by converting it into sulfide. 
+But not the bacteria in this pool ,they don't convert sulfate into sulfide. 
+They convert sulfate into sulfite.
+Why is this distinction important? 
+Well first, converting sulfate into sulfite is unique in nature. 
+Next, it explains one of the mysteries of the pool. 
+I mean wouldn't you expect that after nearly two million years the levels of sulfate would decrease in an isolated pool as the bacteria use the sulfate up? 
+But the data show that they saw sulfate levels have remained constant at this time.
+So since there's nothing get into the pool, how do we account for this? 
+Well apparently bacteria recycle. 
+You see in addition to having high levels of sulfate, the water in the pool is also rich in iron. here's what happens. 
+The bacteria convert the sulfate to sulfite, then the sulfide reacts with iron to produce sulfate.
+male student
+But wouldn't the area eventually become depleted?
+professor
+Good point but think, might iron renew itself?
+male student
+Well, there's a lot of iron in earth's crust
+professor
+yes so the glaciers get it
+male student
+Oh, from scouring underlying rock
+professor
+Right, anyway these bacteria become pretty good at adapting to replenish their own
+energy supplies. 
+Now I don't know about you but I think that's pretty amazing for one-celled organisms without a nucleus.
+
+{"1": ["B"], "2": ["A", "D"], "3": ["B"], "4": ["C"], "5": ["C"], "6": ["A"]}

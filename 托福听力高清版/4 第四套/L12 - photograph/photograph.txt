@@ -1,0 +1,105 @@
+﻿ photograph
+
+第1题
+What is the lecture mainly about?
+A  Early rivalries between France and England in the field of photography.
+B Louis Daguerre’s role in the invention of the photograph.
+C Various contributions to the invention of photography.
+D The sequence of events leading to production of the first negative image.
+
+
+第2题
+What does the professor imply about the historical record of the early days of photography?
+A It is incomplete.
+B It was sometimes falsified by inventors.
+C It was written mostly by people who had little knowledge of photography.
+D It is more detailed than most other historical records from that time period.
+
+
+第3题
+According to  the professor, what circumstances led Anteine Florence to invent light writing?
+A He was inspired by the beauty of his surroundings.
+B He was influenced by printing techniques used in Brazil.
+C He did not have access to printing equipment and supplie
+D  He did not have formal training in printing techniques
+
+
+第4题
+Why does the professor mention diplomas？
+A To indicate the capability of Florence’s light writing techniques.
+B To explain why scientists at universities were unaware of Florence’s work.
+C To indicate the level of education attained by most inventors of photography.
+D To point out that photographs were printed on diplomas in the early 1830s.
+
+
+第5题
+What was William Talbot’s major contribution to the development of photography?
+A A way to make paper sensitive to light.
+B A device that gives photographers precise control of exposure times.
+C A process for printing images on objects such as leaves.
+D A process for producing photographs from a negative image.
+
+
+第6题
+What is the professor’s opinion of Joseph Niepce’s contribution to the invention of photography?
+A Niepce would have made more progress if he had kept his methods a secret.
+B Niepce should be acknowledged as the coinventor of the daguerreotype.
+C Niepce deserved more support from his colleagues.
+D Niepce should not have claimed the ideas of other inventors as his own.
+
+
+
+
+Listen to part of a lecture in a world history class.
+Photography is another technology within interesting international history. There were
+a number of people who were separately but simultaneously, mainly in England and France, who made significant contributions to the invention. Unfortunately few receive much credit and they were probably untold members whose contributions were never documented. The only inventor most people associate with inventing photography is Louis Daguerre France. We all were familiar with the first daguerreotypes, right?
+Daguerreotypes, those early photographs made on silver plates? Good. Now although
+Daguerre was the first to officially announce and present the photographic process in
+1839, he owns a substantial debt to his contemporary. He used other people’s techniques to produce his own. And without others’ input, he might not have been so
+successful. So let’s take a look at some other inventors who contributed.
+One was Antoine Florence, also a France. Florence was an artist who traveled to
+Brazil and settled in a remote area and there he painted landscapes and portraits and
+endeavored to write a book. Living in such a remote area he couldn’t obtain certain
+things he needed for printing his book, so he was forced to conceive, think of a new
+technique for printing. So in around 1832 he developed a process that he called
+photography, which means light writing. Now this wasn’t photography as we think of
+it. It was more like a type of printing, but it did incorporate some of the techniques
+that would eventually be used to create photographs.
+What Florence did was he took glass plates that were coated with dark substance, I believe it was a mixture of gum Arabic and soot, and he scratched line onto the plates.
+Well these scratches were , light could shine through the dark coating and through the
+glass. Then Florence placed these glass plates on paper that he treated with silver
+chloride. Now silver chloride makes paper sensitive to light, so it darkens when light
+hits it. So Florence let light shine through the glass plates onto silver chloride paper
+and it would make a kind of crude copy of whatever he did engrave on the glass.
+Now if you were producing something like diplomas. You know, like you receive
+when you graduate from high school or college, Florence’s technique was fine
+because all you needed was one tonal black to reproduce the various letters of the
+alphabet. But the technique couldn’t produce the range of blacks, whites and grays.
+You need to capture the details of, oh, say, a person’s face or a landscape.
+Now another scientist, a British scientist by the name of William Talbot. Talbot came
+up with several methods of producing a photographic image by exposing
+light-sensitive paper to the sun. This in itself was nothing new but one thing Talbot
+did was he took light-sensitive paper and laid various objects on it. Things that light
+could shine through, like, oh like a leaf for example. Now when you hold a leaf up to
+the light, some parts are going to be darker than others, because, because they’re
+opaque. They don’t let much light through. And other parts of the leaf are going to
+appear brighter because they’re translucent. They let a lot of light through. Now think
+about what happens when you laid that leaf on a sheet of light-sensitive paper and let
+light shine through it. The lighter parts of the leaf will let more light shine through,
+right? And the more light that shines through, the darker the light-sensitive paper will
+get. So the lighter part of the actual leaf becomes the darkest part of the image of the
+leaf, and vice versa. Essentially Talbot had created what we now call a negative image, and Talbot realized that if you treated these negative images with chemicals to make them permanent, you could then lay them on photographic paper, let light shine
+through them and create positive images, photographs and from the one negative
+image you cold print lots of photographs. Sound familiar?
+And yet another inventor who made particularly notable contributions was Joseph
+Niepce. And all the lesson known contributed to photography, Niepce is the one who
+really should be given the most credit, at least as much as Daguerre I think. Niepce
+has been acknowledged for producing the first permanent photograph and this was
+back in 1826. Niepce made some major breakthroughs for the technology had some
+supporters, including Daguerre who attempted to generate interest in the Niepce’s
+project. At the time Niepce was extremely secretive about his methods. In fact he kept
+the details hidden until 1829 when he began collaborating with Daguerre. When
+Niepce died four years later, Daguerre continued Niepce’s research and eventually
+created the first daguerreotype.
+
+{"1": ["C"], "2": ["A"], "3": ["C"], "4": ["A"], "5": ["D"], "6": ["B"]}

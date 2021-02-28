@@ -1,0 +1,70 @@
+﻿ nuclear fusion
+
+第1题
+What is the lecture mainly about?
+A Ways to generate heat for nuclear fusion
+B  Differences between nuclear fission and nuclear fusion
+C  A controversial theory regarding how to generate nuclear fusion
+D  The possibility of establishing sustained nuclear fusion
+
+
+第2题
+According to the students what are three advantages of nuclear fusion over nuclear fission?
+A Nuclear fusion can use a fuel that is more easily obtained.
+B  Nuclear fusion can be achieved at lower temperatures.
+C  Nuclear fusion produces more energy.
+D Nuclear fusion does not produce hazardous byproducts.
+E  Nuclear fusion does not require as many natural resources.
+
+
+第3题
+Why does the professor mention isotopes of hydrogen?
+A To correct a student's comment about how fusion takes place in stars
+B  To help answer students' question about temperature requirements for fusion reactors
+C To explain what happens to hydrogen atoms during fusionre actions.
+D  To justify the need for super conducting magnets in nuclear fusion reactors.
+
+
+第4题
+According to the professor how will the ITER reactor differ from earlier experimental fusion reactors?（多选）
+A  It will be transportable to different locations.
+B  It will sustain nuclear reaction through heat that it generates on its own.
+C  It will heat the fuel mixture to a higher temperature.
+D  It will confine the plasma in a more energy-efficient way.
+
+
+第5题
+What does the professor say about the international effort to develop ITER?
+A  The participation of many countries may cause ITER to be delayed even more.
+B  The research orientation of ITER has encouraged international collaboration.
+C  ITER will make use of equipment made in many different countries.
+D  The lack of international cooperation on earlier fusion projects has hurt ITER.
+
+
+第6题
+Why does the professor imply when he says this?
+A He prefers to work on projects with more immediate results.
+B  He believes that research in the physical sciences requires strict timeliness.
+C He thinks it will take less time to develop ITER than most researchers expect.
+D  He is more skeptical about the future of nuclear fusion than most researchers are.
+
+
+
+Listen to part of a lecture in an environmental policy class.
+So today we're going to wind up our discussion of alternative energy sources. I'm going to talk about one that often gets overlooked. That source is nuclear fusion, as opposed to nuclear fission which we've ' already discussed. The nuclear fission, the centers of atoms, the nuclei are broken up. This is the reaction that drives today's nuclear power stations. Nuclear fusion, on the other hand, is pretty much the opposite. It occurs when two atoms collideand they combine or fuse to form a heavier nucleus.This is the reaction of power of the sun .
+So,who can tell me what makes fusion more attractive than fission as an energy source?Julie？
+Well, it releases more energy for one thing.
+Yes. A lot more energy than fission.
+Oh. Also it can use hydrogen as a fuel source. And hydrogen is abundant and easily available in water. Fission mainly uses uranium, which is way more difficult to find.
+Plus, fission is more dangerous. With fusion you wouldn't have to worry about radioactive wastes,right?
+Another good point.
+But still I remember from my physics class, to fuse the nuclei of two hydrogen atoms requires temperatures similar to those found in the sun, like over 100,000,000° Kelvin. How could we possibly re-create those temperatures here on earth?
+Well,we can't yet,not sustainable. But maybe we don't need to. See, right now many countries around the globe are cooperating to realize the potential of nuclear fusion. And the project of putting the most resources into is called ITER. ITER stands for international thermonuclear experimental reactor, a large fusion reactor that's been built in southern France. It's designed to create the first sustained nuclear fusion reaction, meaning the energy it will release is greater than the energy it will need to use to start it up. And I‘ll get back to this point in a moment.
+But let's back up. You asked about how we generate the tremendous temperatures required for fusion. Well, that's not really the problem. There are heavier isotopes of hydrogen, deuterium and tritium. They will undergo
+fusion at lower temperatures than regular hydrogen. And when we heat the deuterium-tritium fuel mixture that much,around 40 million Kelvin's, it generates what's called a plasma, which is a cloud of ionized gas.So what is the problem? Well, it's twofold. First, the plasma of this cloud of gas is way too hot for any solid container to hold. Fortunately, high temperature plasma conducts electricity, which means we can use an electromagnetic
+force to hold the plasma in place to confine it. Unfortunately, that requires a lot of energy, more energy than we've ever been able to get from the resulting fusion reaction.
+And this brings us back to the point I mentioned before: creating a sustained fusion reaction, coz up to now experimental fusion reactors have never been able to achieve this, this breakeven point, the point where the energy output is as great as the input for more than a fraction of a second. How would ITER project overcome this? First,creating a larger plasma, twice as large as any previously generated, the advantage of this is that once the initial fusion reaction occurs, the larger plasma will generate enough energy to keep itself hot, to keep the fusion reactions going. And second, ITER will use super conducting magnets to form the magnetic field, magnets that consume less electrical power than those used in previous attempts. So less energy goes in, more energy comes out.
+Theoretically, it should do the trick. Now, keep in mind the reactor has been in the works for about 20 years and will probably take another decade to build find and even then of course it will be used for research purposes.
+Commercial fusion won't be feasible for at least another 20 years after ITER is built .So that is a long-timeline right. Not for those who car handle it, well, it means this project is not about short-term economic competition again. So again it is easier to get countries to work together on it. If we cooperate, we well get there sooner, coz we know how much more difficult it'd be to do it alone.
+
+{"1": ["D"], "2": ["A", "C", "D"], "3": ["B"], "4": ["B", "D"], "5": ["B"], "6": ["C"]}

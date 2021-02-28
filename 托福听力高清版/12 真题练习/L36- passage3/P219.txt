@@ -1,0 +1,92 @@
+﻿ passage3
+第1题
+What factors are directly responsible for the sculpting of rock into hoodoos on Bryce Canyon? Click on 3 answers.
+A  The intense heat of the desert air.
+B Acid rain
+C Wind 
+D The formation of ice cracks 
+E  Moving water
+
+
+第2题
+According to the professor, what is the source of color variations in hoodoos?
+A Freeze-and-thaw cycles in the winter.
+B Differences in the types of minerals in the rock layers.
+C Differences in the amount of pressure exerted on the rocks.
+D Periodic flooding from snowmelt and thunderstorm.
+
+
+第3题
+Why does the professor mention potholes?
+A To emphasize that frost wedging has a profound effect on rock.
+B To show that hoodoos are surprisingly fragile.
+C To point out that potholes are not very common in deserts.
+D To show that the amount of acid rain in Bryce Canyon is increasing.
+
+
+第4题
+According to the professor, what contributes to the irregular shape of hoodoos?
+A The age of the rock of formation from which the hoodoo was carved.
+B The location of hoodoos within Bryce Canyon.
+C Variations in the erosion rates of the rock layers.
+D Changes in wind patterns through Bryce Canyon.
+
+
+第5题
+What does the professor imply when he mentions that Bryce Canyon’s hoodoos are shrinking?
+A There are many ways to stop the destruction of the hoodoos.
+B Tourists at Bryce Canyon are damaging the hoodoos.
+C The hoodoos are shrinking at a much slower rate than they were before.
+D The same processes that created the hoodoos are also destroying them.
+
+
+第6题
+Why does the professor say this :
+A To emphasize that the air quality in the Utah desert is very good.
+B To show that the student has pointed out an important fact.
+C To remind the student that the already covered the topic.
+D To indicate that the student has made an incorrect assumption.
+
+
+[al:佳文]
+[ar:佳音]
+[ti:219]
+[by:Linsena]
+[00:00.25][ppp]Listen to part of a lecture in a geology class.//请听地质课上的一段内容。
+[00:03.41][ppp]Today I want to show you a picture that I think quit dramatically illustrates the rock sculpting power of nature. This geologic formation. //今天，我将给你们展示一张图片，这张图片极大地展示了大自然的雕刻力量。地质的形成，
+[00:12.03]It's called a hoodoo. Here's one at Bryce Canyon. //它被称为奇形岩。布莱斯峡谷就是其中一个。
+[00:15.51]Bryce Canyon is a national park in Western Utah in the Utah desert, just a couple hundred kilometers from campus actually. //布莱斯峡谷是犹他州西部沙漠中的国家公园，距离校园实际仅几百公里。
+[00:22.65]And it's filled with hoodoos. There are hundreds of these skinny irregularly shaped rock spires. //里面充满了奇形岩。有数百个细长、不规则形状的岩石尖顶。
+[00:27.59]They range in size from my height to taller than a 10-story building. Uh, Karen?//它们的大小不一，从我的身高到10层楼高的建筑物。嗯，凯伦？
+[00:32.95][ppp]What causes all those different shades of colors?//是什么导致了这些颜色色调的不同？
+[00:36.09][ppp]Well, about 30 to 40,000,00 years ago, most of Western Utah, the whole Bryce Canyon area was underwater. //嗯，大约30，000，00到40，000，000年前，犹他州西部的大部分地区，整个布莱斯峡谷地区都在水下。
+[00:42.67]It was covered by a gigantic lake. //它被一个巨大的湖泊所覆盖。
+[00:44.83]Well, eventually the lake dried up and the hoodoos we see today were actually carved out of that ancient dried-up lake bed. //最终湖水干涸了，我们今天看到的奇形岩实际上是从那个古老干涸的湖床上雕刻出来的。
+[00:51.76]Color differentiations in hoodoos result from different minerals that had accumulated in sediments at the bottom of the lake. //奇形岩的颜色差异是由于湖底沉积物中积累的不同矿物质造成的。
+[00:58.46]And these sediments built up and solidified under pressure. Now after the lake dried out, the lake bed, the rock was exposed to the elements to weathering. //这些沉积物在压力下积聚并固化。现在湖水干涸后，湖床，岩石暴露在风化的元素中。
+[01:06.96]Can anyone guess which weathering processes we work here?//谁能猜出我们这里的风化过程？
+[01:09.98][ppp]Um, it's really dry and windy in Utah. It's a desert environment. Maybe the wind eroded the rock.//嗯，犹他州真的很干燥，且多风。这是一个沙漠环境。也许风侵蚀了岩石。
+[01:17.55][ppp]Wind is an effective form of erosion for many locations, but not for Bryce Canyon. //在许多地方，风是一种有效的侵蚀形式，但并不适用于布莱斯峡谷。
+[01:22.78]Actually the hoodoos are formed by both physical weathering and chemical weathering processes. //实际上，奇形岩是由物理风化和化学风化过程形成的。
+[01:28.25]The first and most prevalent process is what's called frost wedging. Every winter of Bryce Canyon, there's something like 200 freeze-thaw cycles. //首要也是最普遍的过程就是所谓的霜冻结。布莱斯峡谷的每个冬天，都会经历200次冻融循环。
+[01:37.61]During the day, some of the snow there melts and seeps into cracks in the rock. //白天，那里的一些雪融化并渗入岩石的裂缝中。
+[01:42.33]At night, this water freezes again. Because water expands by nearly 10% when it freezes, the ice eventually pries open the cracks wider and wider, and finally breaks the rock, creating hoodoos over time.//到了晚上，这水再次冻结。由于水在结冰时膨胀了近10%，冰最终会使裂缝越来越宽，最后会造成岩石破碎，随着时间的推移会形成奇形岩。
+[01:54.81]And you shouldn't underestimate the power of frost wedging. //你不应该低估霜冻的力量。
+[01:57.94]It's the same process that creates potholes in the street, you know, potholes, those gaping holes that can damage your tires if you drive over them. //这个过程也会在街道上造成坑洼，你知道的，坑洼，如果你的车子在上面行驶，那么就会损坏你的轮胎。
+[02:05.60]That's frost wedging for you. In springtime at Bryce Canyon, the primary physical weathering process switches from frost wedging to erosion. //这对你来说就是霜冻。在布莱斯峡谷的春天，主要的物理风化过程从冰楔作用转变为侵蚀。
+[02:13.71]Streams of water from snowmelt carry away loosened rock, much of which was exposed and weakened by all that frost wedging. //融雪所产生的水流带走了松动的岩石，大部分的岩石都暴露在外面，并且由于所有的霜冻楔入而变弱。
+[02:21.95]And in summertime, there are monsoon like thunderstorms which add to the erosion process. Okay. Next is chemical weathering. // 在夏季，雷暴等季风加剧了侵蚀过程。好的。接下来是化学风化作用。
+[02:30.50]Chemical weathering happens when minerals in a rock get altered or dissolved by chemical processes. //当化石过程中岩石的矿物质被改变或溶解时，就会发生化学风化作用。
+[02:36.99]And the chemical weathering at Bryce Canyon comes mainly from acid rain. Acid rain which. Yes, Karen?//布莱斯峡谷的化学风化作用主要源于酸雨。酸雨。是的，凯伦你有什么问题？ 
+[02:44.17][ppp]But, wait. Last week you said acid rain's caused by air pollution when stuff like sulfur oxide in the atmosphere turned the rain acidic, but B has really clean air.//可是，请等一下。上周您说过，酸雨是由空气污染引起的，比如大气中的氧化硫把雨水变成了酸性的，但是这个地区的空气真的很干净。
+[02:56.07][ppp]So there's no air pollution at all in the desert？//所以那里的沙漠没有遭到空气污染吗？
+[02:59.20][ppp]Yeah. Well, okay, the air at Bryce Canyon is relatively clean. Nevertheless, there's enough pollution overall in the region to turn the rain slightly acidic. //是啊。嗯，好吧，布莱斯峡谷的空气比较干净。尽管如此，整个地区仍有许多的污染，使得雨水呈微酸性，即含有弱碳酸。
+[03:10.15]It contains a weak carbonic acid. This carbonic acid slowly dissolves away the limestone in a hoodoo, which is more vulnerable to chemical weathering than siltstone and mudstone, which are also found in hoodoos. //这种碳酸会慢慢溶解奇形岩中的石灰石，石灰石比沙泥岩和泥岩更容易受到化学风化作用的影响，沙泥岩和泥岩也存在于奇形岩中。
+[03:23.97]So within a single hoodoo, you got this siltstone and mudstone interspersed with limestone and each rock type dissolving at a different rate which contributes to the hoodoos lumpy profiles. //所以在一个单一的奇形岩中，你会得到这种沙泥岩和泥岩，里面夹杂着石灰石，每种岩石都以不同的速度溶解，这有助于形成奇形岩的块状结构。
+[03:35.82]And some hoodoos are capped with a magnesium-rich limestone called dolomite, which dissolves at a slow rate from acid rain. //有些奇形岩上覆盖着富含镁的石灰岩，称为白云石，这种石灰岩在酸雨中缓慢溶解。
+[03:44.17]While mudstone dissolves quickly and forms the narrowest portion of the hoodoos. Okay. So hoodoos are created by weathering processes, but these processes are relentless. //泥岩迅速溶解，形成了奇形岩中最狭窄的部分。好的。因此风化过程会产生奇形岩，但这些过程是无情的。
+[03:55.96]They continue to affect the hoodoos. Um, we estimate that Bryce Canyon's hoodoos are shrinking by up to 1.3 meter every hundred years. //他们继续影响奇形岩。嗯，我们估计布莱斯峡谷的奇形岩每一百年会萎缩1.3米。
+[04:05.59]So we are pretty lucky to catch Bryce Canyon in this unusually beautiful state. //因此，我们很幸运能够在这个异常美丽的州内捕捉布莱斯峡谷。
+[04:11.03]And millions visit the park every year, but they are confined to established trails. //每年有数百万人参观这个公园，但他们只能参观已建成的小径。
+[04:16.14]People aren't allowed to get too close to hoodoos. Just walking up to one, this would actually weaken its foundation.//不允许人们过于接近奇形岩。实际上，人们一旦走近会削弱奇形岩的基础。 
+[04:23.46][end]

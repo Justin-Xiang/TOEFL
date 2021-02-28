@@ -47,8 +47,8 @@ Save money
 * The university has decided to ... because A and B (within 12s)
 * (如果是公开信)(The letter suggested that ...  because A and B)
 * And/But the man/woman agrees/disagrees with that for two reasons
-* First,原因一(核心+支撑)  衔接语：For example;this is because
-* Second,原因二(核心+支撑) 衔接语：For example;this is because
+* First,原因一(核心+支撑)  衔接语：For example;this is because 支撑句：相关人的三个动作
+* Second,原因二(核心+支撑) 衔接语：For example;this is because 
 * That is why he/she agrees/disagrees with the decision/proposal/letter
 
 
@@ -75,11 +75,7 @@ Second,just as the spokesperson says,
 
 
 
-tpo21
+两个观点各个原因五句话足够
 
-tpo51
-
-tpo53
-
-
+Unlike what the letter said, this decision will actually add obligations for professors.
 

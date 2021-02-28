@@ -1,0 +1,50 @@
+﻿An Artist Discussed in Class
+
+Listen to a conversation between a student and her art history professor.
+Female Student
+Thanks for meeting with me. I'm sorry I couldn't attend yesterday's lecture, but I'm on our university's debate team and we're on our way back from Texas.
+Professor
+Now that's a trip.
+Female Student
+Yeah. Well, our team was one of 78 from all around the country participating in the national debate tournament that was held in Texas this year.
+Professor
+Well, when something like that comes along the choice is clear, isn't it? So what was the focus for this year's event?
+Female Student
+Well, the key topic was whether or not the US government should decrease its subsidies for agriculture.
+Professor
+Huh, thought-provoking. So how do we end up? 
+Female Student
+Not too bad. We came in fifth of them all, lots of good arguments and some persuasive statements from competitors, though. They're with really tough process. 
+
+
+
+So anyway, what were in yesterday? I heard something about an assignment.
+Professor
+Yes. Well, to begin with, the focus of the lecture was on the artist Alexander Colder.
+Female Student
+I think I've seen a painting of his on the first floor of this building's lobby. Right?
+Professor
+Good eye. That's right. But he's not just simply a painter. This handout will direct you to the pages in the textbook that provided an in-depth analysis of his work. It’s true yes he did start off making paintings. However, he also had a strong interest in sculpture and it’s precisely in this area that he ended up shaking up the art world because he took sculpture in a completely different direction.
+
+
+
+Female Student
+Well, that sounds intriguing. In what way exactly? 
+Professor
+As you see sculptures had always been stationary pieces. They are never moved. But Alexander Colder added movement to the equation. He created a unique form of art: the mobile.
+Female Student
+Oh, you mean the things that hang over baby cribs, shape the move and tour around. Huh, talk about art that is widespread appeal.
+Professor
+Well, those are just mobiles of the most simplistic form. You' know initially Colder achieved movement of the separate metal pieces of the sculpture through the use of a motor.
+Female Student
+But that's kind of technical, isn't it for a work of art? 
+Professor
+Perhaps it was his early training in mechanics and engineering that opened his mind to that possibility. But then later he focused on using the gentle motion of the wind. You see he wanted these artistic pieces to surprise the viewer, to constantly reshape themselves, present themselves in the ways. 
+
+
+
+Hopefully the class assignment will show you the intricacy in detail that are involved in his pieces. So on your own time you're required to go view his exhibits at the Guggenheim Museum, and do a retrospective on his work and it’s a perfect opportunity to get a more complete sense of the impressive range of his work over the life of his
+artistic career.
+
+
+{"1": ["A"], "2": ["B"], "3": ["D"], "4": ["C"], "5": ["C"]}

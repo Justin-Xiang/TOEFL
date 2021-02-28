@@ -1,0 +1,132 @@
+﻿ Titan
+
+第1题
+What’s the professor’s main point about Titan?
+A Titan’s atmosphere is causing its surface conditions to slowly change.
+B The chemical processes that occur on Titan are unique in the history of the solar system.
+C Research on the atmospheric conditions on Titan may help explain how it came into existence.
+D  Studying Titan can help provide a better understanding of conditions on early Earth.
+
+
+第2题
+Why does the professor the amount of sunlight that Titan receives?
+A To acknowledge that the differences between Earth and Titan are significant.
+B To out point that many chemical processes are dependent on the presence of sunlight.
+C To explain why it is surprising that pools of liquid are present on Titan’s surface.
+D To point out a similarity between Titan and Earth’s moon.
+
+
+第3题
+What point does the professor make about the methane on Titan?
+A It only exists as a liquid.
+B It is a minor component of Titan’s atmosphere.
+C It acts like water does on Earth.
+D  It may have originated on Saturn.
+
+
+第4题
+What does the professor say about meteor craters on Titan?
+A  Ice on the surface has covered them.
+B  Methane rain has eroded them.
+C  Pools of liquid methane have filled them in.
+D Water ice ejected from volcanoes has eroded them.
+
+
+第5题
+Why does the professor mention the season on Titan in which the study of its largest lake was conducted?
+A To suggest that the study was too short.
+B To make a point about cycles of precipitation and evaporation.
+C To acknowledge a difference between weather cycles on Earth and Titan.
+D To describe a theory that explains freezing and thawing cycles on Titan.
+
+
+第6题
+Why is the professor excited about the presence of ammonia on Titan?
+A Ammonia may have been the result of atmospheric changes on early Earth.
+B Ammonia was present in significant quantities on Earth when life first appeared.
+C  The presence of ammonia has motivated scientists to look for atmospheres on other moons.
+D The presence of ammonia often coincides with a rise in oxygen levels.
+
+
+
+
+
+
+Listen to part of a lecture in an astronomy class.
+Professor
+One reason that Mars is so interesting to study is that its valleys indicate that there
+may have once been water on Mars, which means that the atmosphere may have been
+thicker. You get a thicker atmosphere on the planet when a liquid such as water is
+present.
+Female Student
+So the atmosphere is different now than it was a long time ago.
+Professor
+Absolutely. Here on Earth, too, is a matter of fact. And that’s what’s so important for
+us to understand. You see, Earth’s first atmosphere was, well, nothing like it is today.
+One element especially was missing and that’s oxygen. We think early Earth probably
+also had high concentrations of gases like methane and ammonia than it does today.
+Yes, Emma?
+Female Student
+I was reading something recently about how the early atmosphere of Earth may have
+been like atmosphere of one of Saturn’s Moons, Titan, I think. Is that even possible?
+Professor
+Actually yes. Now I know you are wondering how Titan, a moon that belongs to a
+planet as far away as Saturn, could be of any significance to us here on Earth. After
+all, Titan only gets about 1% the amount of sunlight we get here. And because it’s so
+far away from the sun, it’s obviously very cod. But Titan does have something that no
+other moon in the entire solar system has. And that’s a think atmosphere. And that’s
+similar to what we think Earth’s early atmosphere was like. And Titan’s the only
+celestial body other than Earth known to have constant periods with liquid on its
+surface.
+Male Student
+But it can’t be liquid water, right?
+Professor
+Right. It’s actually a liquid methane.Because of Titan’s temperature, liquid water
+can’s exist, only frozen ice. Methane, though, does behave on Titan how water
+behaves here on Earth. It goes through cycles of evaporation of precipitation, and as I
+said it forms pools, lakes on the surface of Titan.
+Male Student
+So it’s a moon with lakes on it?
+Professor
+Very different from the Earth’s moon. When we think of a moon, we immediately
+think of craters, craters from meteor impacts. Well the methane rain on Titan has
+caused erosion which has helped wipe away all those craters that our moon still has.
+Male Student
+It’s strange to think of cycles of evaporation and precipitation on one of Saturn’s
+moons.
+Professor
+Well, like I said, there are many similarities to Earth, especially earlier Earth. So you
+can see why astronomers are trying to learn as much about Titan as possible. Now
+speaking of those methane lakes,they change in depth just like lakes do here on Earth.
+Recently we’ve been studying the largest lake on Titan and discover that its liquid
+level has in fact fallen by four or five meters over a four-year period.
+Male Student
+So does that mean that the lake is drying up?
+Professor
+Actually you see Titan’s largest lake is located in its southern hemisphere. It was
+summer there when information was collected. It’s actually common for moisture to
+migrate from one hemisphere to the other, evaporating when it’s summer and
+precipitating when it’s winter. So the fact that there’s less liquid methane in the
+largest lakes is certainly interesting, since some of the same weather cycles occur here
+on Earth.
+Female Student
+Okay. So the methane makes sense. And you also mentioned ammonia. Is that found
+on Titan?
+Professor
+Yes, it is. It’s actually being spewed from Titan’s volcanoes.
+Female Student
+Wait a minute. Volcanoes? In a frigid environment like that?
+Professor
+Well, these volcanoes don’t spew molten lava. Obviously, they are old-weather
+volcanoes and they eject mixtures of water ice and ammonia.
+Female Student
+And so what does that mean for us? Like can these findings help us understand more
+about Earth’ early history? Maybe have life started here?
+Professor
+Well, let’s put it this way. Ammonia we believe was a key ingredient in Earth’s
+atmosphere when life first began on our planet, so, is this exciting? Absolutely. We
+need to find out, though, through further research if the chemical processes on Titan
+are in fact similar to the conditions under which life came to be here on Earth. Let me
+tell you , if that ends up being the case, who know how much will be able to learn.
+
+{"1": ["D"], "2": ["A"], "3": ["C"], "4": ["B"], "5": ["B"], "6": ["B"]}

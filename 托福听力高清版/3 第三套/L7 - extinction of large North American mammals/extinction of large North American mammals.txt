@@ -1,0 +1,68 @@
+﻿ extinction of large North American mammals
+第1题
+What is the main purpose of the lecture?
+A To illustrate similarities between two periods of climate change
+B To examine theories about the extinction of large North American mammals
+C To describe how scientists verify occurrences of meteor impacts on Earth
+D To present a new explanation for the cause of the end of the last ice age
+
+
+第2题
+What is the professor’s opinion of the claim that cooling during the Younger Dryas caused a major extinction?
+A It will probably be proven correc t by future research
+B It has been strongly contradicted by recent soil-sample analysis
+C It seems unlikely in view of what is known about similar climate changes
+D It is based on a misinterpretation of evidence collected in North Americans
+
+
+第3题
+Why does the professor mention a meteor that struck Earth during the time of the dinosaurs?
+A To imply that that meteor impact also affects other large animals in North America
+B To point out that Earth was often struck by meteors in the past
+C To explain why scientists hypothesize that a similar impact could have caused a later extinction event
+D To challenge a commonly accepted claim about dinosaur extinction
+
+
+第4题
+According to the professor, what is the major significance of the Younger Dryas Boundary?
+A It provides proof of a sudden climate change.
+B It lines the inside of a 13,000-year-old impact crater.
+C It contains valuable information on about the composition of meteors.
+D It marks the disappearance of large mammal species.
+
+
+第5题
+The professor mentions that a new group of researchers collected samples from a Younger Dryas Boundary site. How did those researchers explain the high concentration of magnetic particles in the samples?
+A The Younger Dryas Boundary is especially thick at that site.
+B The particles were carried to the site by flowing water.
+C A meteor caused a high concentration of the particles at the site.
+D Old roofing material had been buried at the site.
+
+第6题
+What opinion does the professor express when he discusses nanodiamonds?
+A Their presence is not strong proof of a meteor impact
+B They indicate that a geological sample has been contaminated
+C Researchers should get a better understanding of their origin
+D Researchers should focus on magnetic particles instead of nanodiamonds
+
+
+
+Listen to part of a lecture in an earth science class.
+Now, one of the things I like to do from time to time in this class is look at how knowledge we’ve gained from studying earth’s geology has been applied to questions outside our field. Take the mass extinction that occurred around 13,000 years ago when most of the giant mammal species of North America vanished from the geological record. Creatures like wholly mammoths, saber-toothed cats, giant sloths, beavers, and camels. So, what caused these animals to suddenly disappear? One possible answer lies at the start of a period of sudden climate change called the Younger Dryas.
+
+
+Let me back up a minute. Just before this extinction, Earth was coming out of a long ice age. Glaciers were beginning to recede, but then temperatures in North America suddenly plummeted again, setting off this frigid thousand year period known as the Younger Dryas. North America became so cold, that glaciers started expanding again and one theory is that this sudden change in climate would have made it difficult for these large beasts to survive. Of course there’s been other climate changes, some even more extreme and longer lasting, yet with no evidence that they triggered any extinction events, so maybe not the strongest theory, which means we need to look elsewhere, maybe space. I mean, we’re all familiar with how impact events can affect life on earth, like it’s now generally agreed that a meteor triggered the extinction of the dinosaurs. Of course, since that theory’s been widely accepted it’s tempting to look to space to explain all extinction events. A large meteor crashing into earth would scatter cosmic debris and cause massive firestorms and that’s the theory proposed recently as an explanation for the large mammal extinction.
+
+
+Researchers who support this theory claim to have found evidence of a meteor impact at a site in the state of Arizona in a layer of sediment called the Younger Dryas Boundary. The Younger Dryas Boundary, or YDB，is a very thin layer of sediment that was laid down across North America at the beginning of the Younger Dryas period and what’s particularly significant about this 13,000 year old layer is that under it, we find lots of fossils of these large mammals, but above it, that is after the YDB was laid down, well, not a single one. So, what happened here?
+
+
+Although the researchers suspected a meteor event, they didn’t find any evidence of an impact crater. But they said they did find several types of particles commonly associated with meteor craters, including nano-diamonds and high concentrations of magnetic particles. Nano-diamonds are small particles that can either originate in space or be formed in the extreme pressure of an extensive explosion, like the impact of a meteor for example. The magnetic particles can also come from space. And the ones found in YDB are very similar to particles associated with other meteor impacts.
+
+
+Recently however, a new group of researchers tried to replicate these findings and while they also found nano-diamonds and high concentrations of magnetic particles at the Arizona site, these researchers wondered whether the presence of such particles might be accounted for in other ways. So, to test whether the magnetic particles were unique to the YDB, they analyzed dirt from the rooftop of a researcher’s house and in fact, they found magnetic particles in the rooftop sample too. Turns out that these particles are not just the result of impact events. They can have many origins, including the ash from nearby coal burning, electrical power plants or even cosmic dust that originates in space and then falls to earth.
+
+
+Ok, but then how to explain the elevated concentrations of the magnetic particles in the sample from the YDB. Well, these samples had come from a riverbed where rainwater would have carried and deposited the particles and in fact, additional samples taken from outside the riverbed contained only normal concentrations of the magnetic particles in the YDB. As for the nanodiamonds, while a group of meteorite or comet fragments colliding with earth would certainly provide the high temperatures and pressures needed to create such nanodiamonds, there might be other ways to explain their existence. It turns out, they’re also commonly found in cosmic dust, which could explain their presence not only in the YDB, but also in the rooftop sample. So, if there’s no strong evidence for a meteor impact or for a sudden climate change, then we need some other explanation for the disappearance of so many large, North American mammal species during the Younger Dryas.
+
+{"1": ["B"], "2": ["C"], "3": ["C"], "4": ["D"], "5": ["B"], "6": ["A"]}

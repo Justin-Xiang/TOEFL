@@ -1,0 +1,81 @@
+﻿ Stonehenge monument
+
+第1题
+What does the speakers mainly discuss?
+A  Evidence that clarifies the ancient uses of the Stonehenge monument.
+B Other Bronze Age monuments that have similarities to Stonehenge. 
+C Why the builders of Stonehenge did not use local stones in its construction. 
+D The possible origins of some of the stones that make up the Stonehenge monument
+
+
+第2题
+Why does the professor mention small pieces of bluestone found at Stonehenge? 
+A To provide evidence that bluestone was believed to have healing properties.
+B To stress that bluestone is not as durable as local stone.
+C To help explain bow builders selected the particular stones used for Stonehenge. 
+D To express frustration with the way some researchers gather evidence at Stonehenge.
+
+
+第3题
+What is the significance of the axheads that the professor discusses?
+A They prove that bluestones were transported across Europe.
+B They provide evidence that bluestones were not sacred to Bronze Age cultures.
+C They may explain how the builders reduced the size of some of the stones that were transported.
+D They helped researchers determine the place in the Preseli Hills where the Stonehenge originated.
+
+
+第4题
+What evidence suggests that glaciers may have carried stones to the Stonehenge site?
+A The stones used to build Stonehenge all came from the same place in Wales.
+B Some stones have markings that could have been caused by glacial activity.
+C Some bluestones were present on the Salisbury Plain before Stonehenge was built.
+D Bluestones were found in several places on a proposed travel route between Wales and the  Salisbury Plain.
+
+
+第5题
+ What does the professor imply about the recent analysis of the bluestones at Stonehenge? 
+A It does not conclusively identify the bluestones' place of origin.
+B does not provide strong evidence for either the human-transport or the glacier-transport hypotheses. 
+C The methods used to test the bluestones were questionable.
+D The analysis does not explain how glaciers could move such large stones.
+
+
+第6题
+According to the professor, what might have contributed to the popularity of the human-transport hypothesis?
+A New physical evidence of transport devices used in the Bronze Age has been found. 
+B The hypothesis has become familiar over time.
+C Until recently no other hypothesis had been suggested.
+D The scientists who support the hypothesis are well respected.
+
+
+
+Listen to part of a lecture in an archaeology class.
+
+Professor
+So, last class we talked about the Bronze Age in Europe and different kinds of artifacts we have from, from the time period. One of the most famous prehistoric sites in the world was built during the Bronze Age. The monument I'm talking about is Stonehenge. Stonehenge is a circular setting of huge standing stones located on the Salisbury Plain in Southwest England. Now, there's still a lot of debate over what the purpose of the structure actually was. We generally accept the Stonehenge had some sort of astronomic significance. Its stones can be used to track the movements of the sun and moon along the horizon. 
+But beyond that, we can't know much for sure. The first thing we should ask is what the stones themselves tell us. The ones in the outer ring are mostly a local type of sandstone, but the builders also used foreign stones called Bluestones. These tend to be smaller and makeup Stonehenge in a ring, all smaller than the sandstones that is but still massive. The Bluestones each weighed around four tons and… is there a question?
+
+Female Student
+Yeah, sorry. You said foreign stones? If they’re foreign, where do they come from and how do they get there?
+
+Professor
+Okay,Well, there's actually a debate there, too. It's long been believed that the Stonehenge's Bluestones   come from the Preseli Hills. The Preseli Hills are in South Wales. The most widely-held view is that the builders of Stonehenge transported the stones all the way from Preseli, over 100 miles. It's often accepted as a fact actually. Many think that the Preseli Hills were considered sacred and its Bluestones were believed to have healing properties. In fact some supporters of this human transport hypothesis think that this was one of Stonehenge's primary functions, that Stonehenge was a healing site, attracting travelers because of the stone's supposed health benefits. And there is evidence that many of the ancient people buried nearby were actually travelers. Debris at the site also includes many small pieces of Bluestone that had been chipped off, which would make sense if people wanted bits of the stone as lucky amulet or healing charms.
+
+Male Student
+Wait, what about this? Human transport hypothesis. Aren't those rocks like, really heavy? And it's unlike    
+they had trucks or anything so...
+
+Professor
+Right.  That's a good question. Actually many archaeologists doubt whether Bronze Age people had the  technical capacity to move such massive stones across that distance. Even if it was possible, there’s not much evidence to justify such a huge effort. And there are other problems. Researchers have found multiple axheads that were made from the Bluestone, which could mean that Bronze Age cultures didn’t actually value the Bluestone that highly. After all why would you use a sacred material to make any   ordinary tool?
+
+Male Student
+But if the Bluestone wasn't special, why would the builders have transported so far? 
+
+Professor
+Precisely. The competing hypothesis that emerged claims that instead of humans moving the Bluestones, glaciers picked up the rocks from the Pressli Hills. Over time the ice could have carried them to places where they would be easily available to the builders. One problem is that while glaciers have been found in Southwestern England, there is little evidence of glacial activity near Stonehenge. There are, however, Bluestones on the Salisbury Plain that actually predate Stonehenge, before the builders even began construction which makes glaciers seem more likely. But research has provided new information about the origin of the Bluestones, at Pressli Hills. This new research pinpoints the exact source of this type of Bluestone, but why would glaciers move stones from only, I mean glaciers would pick up rocks at random. You expect to find rocks from other places , but we haven't. On the other hand we haven't seen signs of digging so don't know if humans were there.
+Male Student
+With all these contradictions, why do so many people accept the human transport hypothesis?
+Professor
+Well, for one thing, it's a good story. I mean, we like to feel empowered, to see evidence that we can achieve anything and this is an explanation that has been repeated over and over and we can not underestimate the power of repetition. Of course eventually we may find out how the Bluestones went there, but for the time being, these are the theories and the evidence we have to work with.
+
+{"1": ["A"], "2": ["A"], "3": ["B"], "4": ["C"], "5": ["B"], "6": ["B"]}

@@ -1,0 +1,63 @@
+﻿Eiffel Tower
+第1题
+What is the main purpose of the lecture?
+A To explain how the Eiffel Tower was designed
+B To highlight the similarities between the Eiffel Tower and other modern buildings
+C To show how perceptions of the Eiffel Tower changed over time 
+D To argue that the Eiffel Tower has always been admired by artists
+
+
+第2题
+According to the professor , why was Eiffel Tower built? Click on two answers
+A To display French technological achievements
+B To create a new landmark for Paris
+C To welcome visitors to the Universal Exposition
+D To encourage the design of tall buildings in prominent cities
+
+
+第3题
+Why does the professor mention that the arches of the Eiffel Tower resemble railway bridges?
+A To show how difficult it was to build an iron tower in the 1880s 
+B To emphasize the structural strength of the Eiffel Tower 
+C To imply that railway bridges were the inspiration for the design of the tower 
+D To give a reason why the Eiffel Tower was disliked
+
+
+第4题
+According to the professor, what characterize the Beaux Arts style?
+A simple entryways 
+B classical forms and details 
+C the use of heavy industrial materials 
+D the absence of columns
+
+
+第5题
+What is the professor's opinion about the criticisms of the Eiffel Tower upon its completion?
+A They were understandable considering the style of architecture that was popular when it was built. 
+B They were inappropriate since they threatened the success of the Universal Exposition.
+C They were failed by competition among artists in Paris.
+D They helped bring the Beaux Arts period to a close.
+
+
+第6题
+Why does the professor describe the clouds of Robert Delaunay's painting “the Eiffel Tower”
+A To point out an image in the painting that symbolizes a dramatic break from traditional painting styles 
+B To give an example of a type of image that is seldom found in Cubist paintings 
+C To explain that Delaunay incorporated Beaux Arts images into his paintings
+D To give an example of an image that appeared many times in Delaunay’s paintings of the Eiffel Tower
+
+
+
+
+
+Listen to part of a lecture in an orchestra class.
+The Eiffel Tower in Paris is one of the world’s most famous architectural landmarks. It’s been part of the Parisian landscape since its completion in 1889. And it’s so connected to the city that it's hard to imagine the time when the tower wasn't there. Think of all the photographs and paintings, um, all the images of the tower in movies. And you'll be forgiven if you thought the Eiffel Tower has always been admired by artists. But if we look at a little of the history of the tower, you'll see that this wasn't always the case. 
+The Eiffel Tower was built for the universal exposition of 1889, a world's fair that presented the latest developments in science, technology, commerce, culture and industry. It was designed by an engineer named Gustav Eiffel, who entered and won the competition sponsored by the exposition organizers to design a structure that would serve both as the entrance to the exposition and as a visible symbol of French industrial and technological achievements. 
+But for almost the moment the tower was announced as the winner of the competition, and even as it was being constructed, critics began to speak out against it. 
+Why? Well, let's look at the tower. First there is its height. At 300 meters it was the tallest building in the world, let alone in Paris. Critics, many of them the best-known composers, architects, painters, poets and writers of the time, they called it an eyesore, one that unfortunately could be seen from anywhere in the city. 
+And aside from its height, there was the unprecedented nature of the design. Four huge legs resting on a concrete foundation. Standby arches that resembled railway bridges. Its iron structure was boldly exposed rather than covered up with masonry as was the norm. It looks almost industrial, doesn’t it? More like part of a factory than an example of great architecture you want to showcase to the world. The tower was a radical departure from the Beaux-Arts style of architecture that was popular at the time. Beaux-Arts architecture was heavily influenced by the architecture of classical Greek and Roman buildings. For example, it featured grand columns of entrances, arched windows and doors, and sculpted the ornamental details. And it was the preferred style of all the famous French architects. In short, it was everything that the Eiffel tower wasn't. So, given this context, the position of the critics wasn't all that unreasonable. 
+Now as I alluded to earlier, while it was under construction, a group of famous artists and architects bitterly protested the tower by filling newspapers with letters and editorials against it. For the art establishment, the tower violated the very principles of artistic taste and have no place in Paris. 
+But as it happens, opinions changed. Um, let's skip ahead a couple of decades, shall we? In the 1910s, a new generation of artists appeared in cities across Europe. These young artists enthusiastically embraced the innovations that were accelerating the rhythms of modern life. Innovations like cars and airplanes, telephones, movies, radio. And as part of this trend, they wanted to forget or even destroy everything that was old. The Eiffel Tower's shocking newness of form that owed nothing to ancient traditions, its almost machinelike appearance, everything that had so upset the art establishment back in the 1880s was embraced by these artists. 
+Indeed, the tower became a source of inspiration for many young artists. One such artist was Roberto Delorme. Roberto Delorme began painting the Eiffel Tower in 1909 and remained pretty much obsessed with it for the next two years, producing about 30 versions of the same subject. And now it looks like we were out of time here. But for next time look at some of Delorme's paintings in your book, especially at the one called the Eiffel Tower. You’ll notice right away that the Eiffel tower doesn't look much like the paintings we studied so far. It's painted in the Cubist style. So you’ll see the traditional perspective gives way to multiple views of dynamic angular lines. The tower seems to be expanding, contracting, crumbling, twisting before the viewer's eyes. And take note especially those puffy clouds above and behind the tower. See if they don’t look like an explosion to you. This image signals a rupture with traditional painting style, justice abrupt as the Eiffel Tower’s original rupture was from the Beaux-Arts style in architecture.
+
+{"1": ["C"], "2": ["A", "C"], "3": ["D"], "4": ["B"], "5": ["A"], "6": ["A"]}

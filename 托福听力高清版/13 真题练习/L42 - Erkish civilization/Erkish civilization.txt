@@ -1,0 +1,60 @@
+ Erkish civilization
+
+第1题
+What does the professor mainly discuss?
+A Recent discoveries that explain the disappearance of the Human civilization
+B A theory about influence of the Akkadians civilization on the Human civilization
+C Evidence that shows the historical importance of the Human civilization
+D Reasons that urbanization in the Human kingdom occurred relatively late
+
+
+第2题
+Before the discovery of the clay seals what was believed to be true about the Humans ?
+A They spoke a language related to Akkadians.
+B  They had disappeared before the appearance of the Akkadians.
+C They were the first culture group to live in cities.
+D  They were not an influential culture in the Fertile Crescent.
+
+
+第3题
+What does the professor say about the clay seal with the Human king's name?
+A  It took eight years to translate.
+B  Its place of origin was unclear.
+C  It helped archaeologists identify the city of Urkesh.
+D  It showed that the king came from an Akkadian family.
+
+
+第4题
+What idea is supported by the discovery of the clay seals with the queen's name?
+A That during this time period queens were more powerful than kings
+B That previously discovered clay seals had been mistranslated
+C That the Humans were the first culture in the Fertile Crescent
+D That the Humans had not been conquered by Akkadians
+
+
+第5题
+Why does the professor mention a sacred central area in the city of Urkesh?
+A To imply that it was built before the Humans arrived in the area.
+B To explain how researchers are able to estimate the population of the city.
+C To show the continued influence of the Human culture.
+D To show why there are doubts about the identity of the city.
+
+
+第6题
+What is the professor's view of the theory that the connection between the Humans and Akkadians was more ancient than we thought?
+A The theory will probably be shown to be false in the near future.
+B The theory is contradicted by the latest linguistic discoveries.
+C Existing evidence indicates that the theory must be true.
+D The evidence for the theory is interesting but not conclusive.
+
+
+
+
+Listen to part of a lecture in an archaeology class. The professor is discussing a region known as the Fertile Crescent. The beginning of urbanization, the first city in history, is thought to have occurred at an area in the Middle East called the Fertile Crescent. The Fertile Crescent is the area that extends north and west from the mouth of the Tigris and Euphrates rivers. And it's the southern part of the Fertile Crescent, it's typically associated with the first cities.The culture there spread to the north. But there have been, hence, that it is not as simple as all of this. In the time period we're going to talk about,around 2000 B.C.E., the southern region of the Fertile Crescent area was dominated by a civilization called the Akkadians. The Akkadians are often described as the first group to establish control, sort of the first impanel authority that dominated other groups in this area. And one of those other groups from that time was known as the Humans. Now, the Humans were believed to have originated in the mountains to the north. And in the past, researchers considered them to be a minor culture. And for good reason, the Human language seemed to be unrelated to the other languages of the southern Fertile Crescent. And there are very few historical references to them. The Humans were soon to be late comers to the region, whose culture was basically absorbed into the regional Akkadian-based culture. But researchers were intrigued, intrigued by things like references to Human mythological characters, which seemed to have widespread influence, and by references to a great capital city, a city called Urkesh. But where was Urkesh? Well,very recently,a pair of archaeologists made an interesting discovery when they found a clay seal dated back to 2300 B.C.E.. 
+Seals were carved or used to stamp a name or symbol indicating ownership of the item. These impressions are in cuneiform script, the common script of the era. And we were able to read them. This seal gave the man's name,a typical Human man's name, followed by the title"King of Urkesh". Well,this convinced the archaeologists that they had found a lost city. Along with the king's seal, they found hundreds of others. Many of these bore the name of the queen. And remember, these seals signified ownership. 
+So here the queen, not the king, was claiming ownership of the property. This was a powerful queen. But the really important thing to know here was that her name was an Akkadian name. Remember I said the Humans was thought to have been absorbed to the Akkadian culture. Well,now things look a little different. I mean,a Human king with an Akkadian queen doesn't sound like one culture has dominated another. It sounds like that two cultures have arrived at some kind of alliance. So we're starting to think about the Humans as a more long-lasting and influential culture.We see Urkesh did indeed exist. And it was a powerful city, inhabited by as many as 20,000 people. Of course,the city was eventually conquered. But now we are not sure by whom. 
+And the interesting thing is that afterwards a sacred central area was left intact. It remained that way for a total of 1,000 years or so. And that implies that the cultures that later controlled the city may have been deeply influenced by the religious practices of the Humans. Well, there may be more surprises to come. One linguist noticed that the style of Human names is similar to, that of Akkadian names. 
+And that may mean there's more ancient connection between the two groups. 
+That's a pretty radical theory. But it fits in with the possibility that the Humans came into the region earlier than we thought and may have been part of a separate urbanization movement, independent of other civilizations of the southern part of Fertile Crescent. But let's not get too far ahead of the evidence. I want to go back and look in more detail at what they actually found.
+
+{"1": ["C"], "2": ["D"], "3": ["C"], "4": ["D"], "5": ["C"], "6": ["D"]}

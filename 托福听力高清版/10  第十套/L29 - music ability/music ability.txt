@@ -1,0 +1,70 @@
+﻿ music ability
+
+第1题
+What is the main purpose of the lecture?
+A  To explain why formal music instruction should begin before age seven
+B  To review effective techniques for teaching music to young children
+C  To describe the development of musical ability in young children
+D To explain the difference between musical ability and musical giftedness
+
+
+第2题
+Why does the man mention his research in a day-care center?
+A To share an experience that illustrates young children's musical abilities
+B To explain why he believes that musical ability does not develop at the same rate in young children
+C To find out if the professor approves of the day-care center's musical activities
+D To question the conclusion of a research study mentioned by the professor
+
+
+第3题
+The professor mentions some stages of early musical development in children. Put them in the correct order starting with the earliest stage. Click on a phrase. Then drag it to the space where it belongs. The first one is done for you.
+
+
+第4题
+According to the professor, what happens with children at around age seven?
+A They tend to lose interest in formal music instruction.
+B They begin taking interest in more sophisticated kinds of music.
+C Their ability to distinguish between different pitches and rhythms starts developing.
+D The spontaneous development of their musical ability diminishes.
+
+
+第5题
+What does the professor imply about providing formal music instruction to elementary school students? Click on 2 answers.
+A Formal instruction may interfere with the development of spontaneous song.
+B Formal instruction is generally a prerequisite for high-level musical performance.
+C Some children would benefit from delaying formal instruction until adolescence.
+D Formal instruction helps students enjoy a broad range of music later in their lives.
+
+
+第6题
+What does the professor imply when she says this:
+A She is not sure what the student means.
+B She and the student are using the term “musical ability" differently.
+C She believes musical giftedness is more common than the student thinks.
+D She is surprised by the student's comment.
+
+
+Listen to part of a lecture in an education class.
+Professor
+Musical ability develops spontaneously in children before they begin school. Research shows that virtually all children are born with some innate skill for musical development.  Yes, Barbara?
+Female Student
+But I always heard that musical ability was a gift that very few people were born with.
+Professor
+You are talking about true musical giftedness in the sense of extraordinary musical talent. What I meed to say is that all young children have the ability to appreciate music. Even newborns are sensitive to music and... Jonathan?
+Male Student
+In my developmental psychology class, we did this project in a day-care center where we observe
+babies' responses to various stimuli. I played music for the baby I observed and whenever I turned the music player on, he looked towards the music and started squirming and cooing in everything. Then when I turned the music off, he quieted down.
+Professor
+How old was the baby?
+Male Student
+Six months.
+Professor
+Okay. Yes. Babies are already actively responding to music at a very young age, as young as three months. When they hear music, they will, as you observed, turn toward the music and vocalize at the same time ,building out the vowel sounds “i” and "u". At one year or even a little sooner they can sometimes mate the pitch of the musical note to hear. You know, if they hear a high note they may be able to reproduce that high note. If they hear a low note, they can sometimes reproduce that low note. And by 18 months children typically begin engaging in spontaneous singing. I say spontaneous because, well, at this stage they're just experimenting with different sequences of musical notes. They are not trying to imitate some that they've heard.
+Studies in western cultures indicate that around age 2.5, spontaneous songs start disappearing as children start mastering the learned song. They begin imitating rhythm and learning simple songs like, like nurse rhymes, single verses that are sung. First children match the rhythms of the song and then they start to match the tune.By the way the songs children learn, both the usual children's songs and the music that are popular in their culture during their childhood, are important in another way. Every culture links certain kinds of music with certain moods or with certain events, like birthdays, weddings, sports events, and so    on. To function well in their given society children need to understand those links and this early exposure to music is what, you know, brings them that familiarity. 
+Okay. And all this, all this music-related growth just happens naturally as a part of a child's natural development. But in western cultures at age 7, unless the child is receiving some kind of musical instruction, musical ability reaches a kind of developmental plateau. Children generally don't advance much musically unless they receive some type of formal training, music classes at school and singing in a choir, or something like piano lessons. Jonathan?
+Male Student
+So formal music instruction needs to begin around age 7 ,or can it wait? I mean could I be professional musician at my age if I never studied or played music before?
+Professor
+Oh,if you never had any musical instruction as a youngster ,it'll be tough, I'd say. Many researches say there's a fairly small window of time when children can be trained to play music at a high level, so     musical education seems critical and not just in developing the ability to play music. For example they suggest that people who had musical training as children and were exposed to music that went beyond the usual children's songs and pop music, these people are more likely to be open to music with complex rhythms, not necessarily regular rhythms or, or usual harmonies,not necessarily pretty harmonies or a lot of great music. But unless children receive some musical training as children, they are unlikely to appreciate it.
+
+{"1": ["C"], "2": ["A"], "4": ["D"], "5": ["B", "D"], "6": ["B"]}

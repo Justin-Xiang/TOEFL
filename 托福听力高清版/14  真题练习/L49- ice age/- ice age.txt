@@ -1,0 +1,61 @@
+﻿ ice age
+
+第1题
+What is the main purpose of the lecture?
+A To explain how geologists determine the dates of ice ages
+B To compare the geologic features of several different ice ages
+C To discuss the possibility of a severe ice age during the Cryogenian period
+D To examine the effects of a Cryogenian ice age on subsequent climate patterns
+
+
+第2题
+Why does the professor discuss the name of the Cryogenian period?
+A To provide backgrounds for the basis of the Snowball Earth hypothesis
+B To suggest that the Snowball Earth hypothesis is inappropriately named
+C To contrast the Cryogenian period with later geologic periods
+D D.To point out that the Cryogenian ice ages started in several different ways
+
+
+第3题
+According to the professor, what factors might have created the conditions for a snowball Earth       event?
+A A change in the proportion of land and wafer covering Earth’s surface
+B The cooling effect of the oceans' low surface albedo
+C A change in the atmosphere that lowered Earth's surface temperature 
+D A continuing cycle of radiation reflection and ice growth
+
+
+第4题
+Why does the professor talk about a research study in Oman?
+A To illustrate why it is necessary to study evidence of glaciers from more than one location
+B To determine how solar radiation affects glaciation
+C To present evidence that Earth’s climate fluctuated during the Cryogenian period
+D D.To explain why ice ages during the Cryogenian period differed from other ice ages
+
+
+第5题
+According to the professor, what is the chemical index of alteration used for?
+A To describe changes in the chemical composition of the atmosphere
+B To measure the degree of chemical weathering of rocks
+C To find out how oceans affect global temperatures
+D D.To trace the movement of rock over time
+
+
+第6题
+What is the professor’s opinion about the Snowball Earth hypothesis?
+A Its basic premise is accurate and further study will validate it.
+B It would be more plausible if the time frame were longer.
+C It has some merit but a closer examination reveals flaws.
+D It will probably never be completely discredited.
+
+
+
+Listen to part of a lecture in a geology class.
+So continuing with ice ages, we've looked at the Pleistocene Ice Age up through the so-called Little Ice Age in Europe, but today I'd like to talk about a controversial hypothesis that Earth went through tremendous ice ages before all these others between approximately 600 and 700 million years ago during a geologic period that's known as the Cryogenian. 
+Cryo is from the Greek and means cold. The name comes from the glacial deposits going back to this period. They’re found all around the world, which indicates that glacier spread across all the continents at that time even near the equator.
+And this is the premise of a hypothesis commonly called Snowball Earth. The name pretty much described the condition, that it is just proposed existed than with not only the continents, but also the oceans entirely covered with thick sheets of ice.
+But how could the Snowball Earth climate have come about? In the other ice ages, we’ve looked at, up to 30% of the Earth's surface was covered in ice. But here we're talking way more than that. 
+Okay. This gives us a chance for review. When radiation from the sun reaches our planet, some of it is absorbed and some of it reflected back into space, right? And different surfaces on Earth reflect solar radiation differently. They don't have the same surface albedo. Surface albedo is a measure that tells us how much solar radiation gets reflected back into space. Ocean water, for example, tends to absorb radiation. Its surface albedo is low. So that has a warming effect on the planet. But ice and snow reflect a lot of solar radiation. They have a higher albedo. It's like how wearing white clothing can help you stay cooler in a hot day than wearing black clothing. Similarly, ice and snow as well as being very cold themselves have an additional cooling effect because they keep solar radiation from being absorbed. 
+Now once this process of reflection and cooling gets started, it can end up being self-perpetuating.The cooling increases the ice cover, which increases the surface albedo, so the climate gets even colder, causing more ice to form and so on. This is called the ice albedo feedback. Normally the process is kept in check by the ocean's absorption of solar radiation, but according to the Snowball Earth hypothesis, the feedback loop didn't stop. And so ice and snow were covering more and more land, cooling Earth's surface more and more quickly, and got to the point where even the oceans were covered in ice. 
+Now the thought of Earth as a giant snowball. I have to admit it has some dramatic appeal. And a number of geologists have come on board with it in fact, because there's certainly evidence of extreme glaciation during the Cryogenian period. For example, in Oman, now Oman's in the Middle East, right? So a hot climate today. Well, sedimentary rocks there provide clear evidence of glaciers in the Cryogenian period. But a new research study looked at the sedimentary rocks more closely. The technique they used. It’s useful to know this, because we will come across it again. What they look at is a measure called a chemical index of alteration. The chemical index of alteration is a gauge of chemical weathering of rock, which means the chemical changes that occurred in rock due to environmental conditions. A high rate of chemical weathering indicates a warm and humid environment. Well, a low rate of chemical weathering is consistent with cool and dry conditions. So in this rock in Oman, the chemical index of alteration suggests that the climate during the Cryogenian wasn't consistent. There's definitely evidence of periods with low rates of chemical weathering and therefore cold conditions. But these alternate with intervals of high chemical weathering, which represent times of warmer weather, which means that there were periods when that deep-freeze broke. But how? If the Earth was completely frozen for a long period of time, 1 doubt warmer periods could have happened. The incoming solar radiation would have been reflected back, right? So the warmer periods indicate that at least some portions of the ocean weren't frozen over.
+
+{"1": ["C"], "2": ["A"], "3": ["D"], "4": ["C"], "5": ["B"], "6": ["C"]}

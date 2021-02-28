@@ -1,0 +1,96 @@
+﻿passage2
+第1题
+What is the main purpose of the lecture?
+A To explain why volcanic eruptions are predictable but earthquakes are not.
+B To describe changes that help scientists predict volcanic eruptions.
+C To compare the recent eruptions of Mount St. Helens and Mount Pinatubo.
+D To discuss four types of instruments designed to predict volcanic activity.
+
+
+第2题
+What does the professor say about the recurrence interval?
+A It is the most reliable predictor of a volcano’s next eruption.
+B It tends to increase over the course of a volcano’s existence.
+C It can be estimated by the depth of a volcano’s magma chamber.
+D It can vary widely from volcano.
+
+
+第3题
+What point does the professor emphasize when he discusses Mount ST Helens?
+A Magma begins entering the magma chamber hours before an eruption.
+B Ice and snow typically melt on only one side of a volcano before it erupts.
+C A bulge on a volcano can grow dramatically in a relatively short period of time.
+D Bulges on volcanoes may develop steam vents.
+
+
+第4题
+What does the professor say about earthquake activity below volcanoes?
+A The earthquakes can be more destructive than volcanic eruptions.
+B The earthquakes occur more frequently before volcanic eruptions begin.
+C The earthquakes may reduce the severity of the next eruption.
+D The earthquake tend to be difficult to detect.
+
+
+第5题
+Why does the professor mention sulfur dioxide when he discusses the 1991 eruption of Mount Pinatub?
+A To illustrate the large increase in gas emissions that can precede a volcanic eruption.
+B To demonstrate an advantage of continuous monitoring of active volcanoes.
+C To point out that hot springs near volcanoes typically release sulfur dioxide.
+D To make a general point about the consequences of volcanic eruptions.
+
+
+第6题
+What does the professor imply when he says this:
+A The woman was referring to information from a previous lecture.
+B It is easy to miss the discussion about hot springs in textbook.
+C Some students may have read the wrong textbook chapter.
+D He almost forgot to mention an important point.
+
+
+
+[al:佳文]
+[ar:佳音]
+[ti:P282]
+[by:Linsena]
+[00:00.00][ppp]Listen to part of a lecture in the geology class.//请听地质课上的一段内容。
+[00:03.81][ppp]Last time when we talked about the different types of volcanoes, active, dormant and extinct, someone asked whether we can predict when an active volcano will erupt. //上节课，当我们谈到不同类型的火山，活火山，休眠火山和死火山时，有人问我们是否可以预测活火山会何时爆发。
+[00:13.73]The answer's a qualified yes. We can sometimes make short-term predictions of volcanic activity. We can't really pinpoint exact date, but we can say with relative confidence that a given volcano will erupt sometime in the next few months, weeks, or days. //答案是肯定的。我们有时可以对火山活动进行短期预测。我们无法准确确定火山喷发的确切日期，但我们可以相对确信地说，某个火山将在接下来的几个月，几周或几天内爆发。
+[00:29.15]But before talking about short-term predictions, let me talk a minute about long-term predictions. //但在谈到短期预测之前，让我先说一下长期预测。
+[00:35.00]Um, even the earth's most active volcanoes don't erupt continuously, right? //嗯，即使是地球上最活跃的火山也不会连续爆发，对吧？
+[00:39.40]They erupt intermittently, periodically.//它们会定期间歇性地爆发。
+[00:42.40]We call this pattern of eruptions the recurrence interval. //我们将这种喷发模式称为重复间隔。
+[00:45.58]The recurrence interval is the period of time between successive eruptions and this period can range from a few years to a few centuries, and in some cases a few millennia depending on the volcano. //复发间隔是连续喷发之间的时间段，这个时期的范围可以从几年到几个世纪，在某些情况下，甚至是几千年，范围长短取决于火山本身。
+[00:56.95]As far short-term predictions, um, you recall that short-term predictions aren抰 feasible for earthquakes. //就目前的短期预测而言，嗯，你还记得短期预测不适用于地震。
+[01:02.80]Earthquakes tend to strike without warning but volcanoes at least some of them send out distinct warning signals announcing that an eruption could occur in the very near future. //地震倾向于在没有警告的情况下爆发，但是至少其中一些火山会发出明显的警告信号，宣布在不久的将来可能会爆发。
+[01:12.57]Um, the warning signs begin when molten rock, magma, migrates upward through cracks and collects in a magma chamber. //嗯，当熔融的岩石、岩浆通过裂缝向上迁移并在岩浆房中聚集时，就会出现警告信号。
+[01:20.15]Quick review someone magma chamber?//快速回顾一下某个岩浆房？ 
+[01:22.47][ppp]It's like an underground pool of magma, a few kilometers below the surface where the lava comes from during a volcanic eruption.//它就像一个地下岩浆池，在火山喷发时，岩浆从地表下几公里处涌出。
+[01:31.56][ppp]Good, Now, as more and more molten rocks squeeze into the magma chamber, a number of changes occur. //好，现在，随着越来越多的熔岩挤进岩浆房，发生了许多变化。
+[01:38.41]These are warning signs that we can measure, at least four signs. //这些是我们可以测量的警告信号，至少有四个标志。
+[01:42.66]First, there is an increase in heat flow. //首先，热流量增加。
+[01:45.10]Heat from the magma radiates up through the bedrock, and eventually to the volcano surface. //来自岩浆的热量通过基岩向上辐射，最终到达火山表面。
+[01:50.71]We can measure that heat and in some cases the increased heat flow melt snow or ice on the volcano triggering floods. //我们可以测量热量，在某些情况下，升高的热流会融化火山上的积雪或冰，引发洪水。
+[01:57.51]Another clue is the volcano's shape. //另一条迹象是火山的形状。
+[01:59.99]The increasing pressure in the magma chamber is pushing the magma outward o the point of creating a ball on the surface of the volcano, kind of like blowing up a balloon. //岩浆房中不断增加的压力正在向外推动岩浆，直到在火山表面形成一个球，有点像吹气球。
+[02:09.96]A classic example of this is Mount Saint Helens in Washington State. //一个典型的例子是华盛顿州的圣海伦山。
+[02:14.05]About two months before Mount Saint Helens erupted in 1980, the north side of the volcano began bulging outward up to one and a half meters a day. //1980年圣海伦火山爆发前大约两个月，火山的北侧开始向外膨胀，每天向外膨胀一米半。
+[02:22.97]This was caused by pressure from the magma that was building up below. //这是由于地下岩浆的压力造成的。
+[02:26.97]Ultimately the size of the bulge grew to over 100 meters which in a period of only two months is an enormous change and this is not uncommon. //最终凸起的尺寸超过了100米，在短短两个月的时间里，这是一个巨大的变化，但是这并不罕见。
+[02:36.41]Okay, so the third sign of impending eruption is that when the magma chamber fills, rocks surrounding the chamber crack and blocks slipped past one another, Such cracking and shifting causes what?//所以，即将喷发的第三个迹象是，当岩浆房被填满时，岩石周围的岩石裂缝和块体相互滑过，这种裂缝和移动会引发什么后果呢？ 
+[02:48.41][ppp]Earthquakes?//地震？
+[02:50.21][ppp]Right. The movements in the rock trigger small to medium-sized earthquakes in the immediate area of the volcano and gas bubble's forming an exploding within the magma. //对。岩石中的运动引发了火山附近地区的中小型地震，气泡在岩浆内形成爆炸。
+[03:00.06]These bursting bubbles also register earthquakes. //这些破裂的气泡也记录了地震的发生。
+[03:03.05]So when we detect seismic activity, small to medium sized earthquake activity, deep below the volcano and the frequency of these earthquakes increases, we can be fairly sure that an eruption will occur within a few days or weeks. //因此，当我们探测到地震活动，中小型地震活动，在火山深处，地震的频率增加时，我们可以相当确定火山爆发会在几天或几周内发生。
+[03:16.07]The last thing that often happens before an eruption is we can see gas and steam escaping to the volcano's vent. //在火山喷发之前经常发生的最后一件事是，我们可以看到气体和蒸汽逃逸到火山的通风口。
+[03:23.07]The gas counts those bursting bubbles in the magma. //岩浆中爆发的气泡可以被计算在内。
+[03:25.77]Gases percolate up through cracks in the earth and eventually find their way to the volcano's vent. //气体通过地球的裂缝渗透，最终找到通往火山口的通道。
+[03:31.31]The steam comes from groundwater heating up due to heat flow from the rising magma. //蒸汽来自地下水，由于上升的岩浆所产生的热流而升温。
+[03:36.22]When this happens, an eruption is usually imminent. An example of this is Mount Pinatubo in the Philippines. //当发生这种情况时，火山就会马上爆发。一个典型例子是菲律宾的皮纳图博火山。
+[03:43.42]In 1991 we detected increasing levels of sulfur dioxide being released from Pinatubo's vent. //1991年，我们发现从皮纳图博的通风口释放的二氧化硫水平不断增加。
+[03:50.27]Within two weeks the sulfur dioxide emissions had increased tenfold to 5,000 tons. //在两周内，二氧化硫排放量增加了十倍，达到5,000吨。
+[03:55.56]And about two weeks after that Mount Pinatubo erupted.//大约两周后，皮纳图博火山爆发了。
+[04:01.00][ppp]I think our textbook says something about hot springs, that monitoring hot springs can help predict an eruption.//我认为我们的教科书上讲到了温泉，监测温泉可以帮助我们预测火山的爆发。
+[04:07.05][ppp]Oh, yes, not to be overlooked. Monitoring hot springs. //哦，是的，不要忽视对温泉的监控。
+[04:10.76]Um, when a new hot spring develops or when the temperature of an existing hot spring rises. //嗯，出现一个新的温泉或现有温泉的温度上升
+[04:16.13]These are other indications that magma has entered the magma chamber and is heating things up.//都是岩浆已经进入岩浆房，并正在加热。
+[04:21.24][end]

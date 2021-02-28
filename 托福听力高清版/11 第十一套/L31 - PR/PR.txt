@@ -1,0 +1,79 @@
+﻿PR
+
+第1题
+What do the speakers mainly discuss?
+A Mistakes that can cause a crisis in a business organization 
+B Methods that companies use to predict when crises may occur 
+C Ways that companies should communicate information during a crisis 
+D Types of crises that are most likely to affect different industries
+
+
+第2题
+What point does the professor make when she discusses a company that is experiencing crisis?
+A A company can prevent the spread of false rumors by sharing information at the beginning
+B A company should give its best estimates when it does not have all the information.
+C A company can often rebuild its reputation only after a crisis is over.
+D A company should always look for ways to reduce its budget without eliminating jobs.
+
+
+第3题
+What two points does the professor make about press releases?
+A  They should be issued as soon as a crisis has been resolved.
+B They should be very long.
+C They should be delivered by the executive in a company.
+D They should contain the information about who will be directly affected by a crisis.
+
+
+第4题
+Why does the professor discuss a computer malfunction at a hotel chain?
+A To suggest that some reporters might not verify facts before reporting them 
+B To explain how negative information can be communicated in a positive way 
+C To point out that companies have to deal with crises they did not cause 
+D To give an example of a crisis that could have been prevented
+
+
+第5题
+According to the professor, how can a spokesperson help protect a company's public image in a press conference?
+A By confidently stating that the company has not made any major mistakes 
+B By accepting help from the community to resolve a crisis 
+C By presenting the problem and the solution at the same time 
+D By answering all questions that reporters ask 
+
+
+第6题
+Why does the professor say this
+A To indicate that the problem she is describing is common 
+B To indicate that the problem she is describing is easy to solve 
+C To indicate that the example she is giving is imaginary 
+D To indicate that the public is not familiar with computer malfunctions at hotels
+
+
+
+Listen to part of a lecture in a communications class.
+professor
+Okay. So in every organization, every business, occasionally there ere problems. I would look from the communications, um，the public relations, from the PR standpoint at what happens when a company has a major urgent problem, a crisis, like a strike, or storm-related delay, a boycott, product recall. A crisis interrupts normal business functions like the ability to manufacture products. It can damage the organization's public image. or in rare cases threaten its very existence. So information that a company releases during a crisis must be handled differently than run-of-the-mill information. 
+One of the responsibilities of the PR professional is to communicate information about a company to the news media, right? Now the priority during a crisis is to maintain an organization's credibility, its reputation. If crisis communications are mishandled, it could damage or destroy the public's trust in the organization. And regaining that trust, well, this can be extremely difficult to do. Okay, so how can a PR professional avoid bad publicity in a crisis situation? Joe?
+Male Student
+Wait. What about that saying, all publicity is good publicity?
+Professor
+Well, actually, what happens is if news reporters don't have the right information, they might publish incorrect information which no one wants, like, say there's a company that employs a lot of people in a particular city, and the company experiences a financial crisis and needs to reduce its budget, so it's not hiring any new employees for a while. Now the company's priority is to deliver this information to their employees and to the community as soon as possible. 
+Why? Well, because people talk, people speculate and if they hear about budget cuts, there's gonna be rumors that people are I gonna lose their jobs, which isn't the case. So to stop rumors before they start and to make sure that reporters don't end up publishing rumors as facts. People need to be informed.
+Male Student
+So what would the public relations strategy be in a situation like that?
+Professor
+Well, one thing this company would do early, is have a press release. It's a short statement that explains the crisis and what the company is doing about it, and it should be sent internally first, sent via email or memo to all employees who obviously are worried about their jobs and then send it externally to news reporters. A press release should contain concise information and only information that's been confirmed, and should answer basic questions like what's happening, why it's happening and who's affected. The PR professional who prepares the press release should be careful not to speculate or overreach. Yes, Allison?
+Female Student
+But  what if it's really bad news, why would anyone want to announce that publicly?
+Professor
+Because you never keep bad news a secret.
+Female Student
+How come?
+Professor
+Remember what I said about the PR person's job being to protect the company's reputation? It involves, as you've already seen, delivering the correct information quickly. But another crucial point to control the message, is to make sure it is presented not only honestly but also in the best possible light. 
+So another situation like, like a computer malfunction at a large hotel chain, you might say, and guest reservations are lost, because this kind of thing never happens, right? This would be considered the hotel crisis because thousands of guests are being inconvenient.
+Female Student
+So how do you turn a computer crash? How does the hotel chain make that sound good?
+Professor
+They're trying to focus on the positive. First of all, there needs to be a designated spokesman, usually the PR person for the hotel company who is comfortable in front of reporters and TV. The spokesperson will of course need to be knowledgeable about the company and the crisis happening. This spokesperson can work with other experts to gain knowledge of the situation. The spokesperson project, you know, confidence when delivering the message to the media press conference. This spokesperson might say, you know, our system went down, we made a mistake, but this is what we're doing to rectify, to correct the problem. During the press conference it's also good to have a team of company experts on hand. People who specialize in various aspects of crisis, who can explain things, maybe technical things that the spokesperson might not know. This way the company can lay out the solution to its problem right away which reassures customers and hopefully maintains their trust in the company.
+
+{"1": ["C"], "2": ["A"], "3": ["A", "D"], "4": ["B"], "5": ["C"], "6": ["C"]}

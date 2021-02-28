@@ -1,0 +1,70 @@
+ feudalism
+第1题
+What is the lecture mainly about?
+A Ways that peasants could become landowners in medieval Europe
+B  Different views about the ownership and control of land in medieval Europe 
+C How feudalism shaped relationships among modern European states 
+D How nobles provided payments and other services to kings in medieval Europe
+
+
+第2题
+What point does the professor make about the unequal social relationship between nobles and peasants?
+A Feudalism was an attempt to increase equality between nobles and peasants
+B Nobles did not have any obligation to the peasants who farmed their land
+C Personal status was hereditary and become part of the social tradition
+D Peasants were sometimes able to win power and become landowners
+
+
+第3题
+Why is the term "feudalism" difficult to define?
+A  The term was invented after the medieval period ended
+B  The standard form of feudalism was changed by various kings
+C Feudalism existed only for a short period of time
+D Peasants and nobles did not know exactly what their obligations were
+
+
+第4题
+What does the professor imply when she talks about the payments that peasants made to noble landlords?
+A Landlords expected peasants to pay for and food the peasants consumed
+B  Food was valuable to nobles as a type of payment
+C Peasants often had to borrow money to fulfill their obligations to their landlords
+D  The payments were one reason that paper money became more common as a means of exchange
+
+
+第5题
+What claim does Susan Reynolds make about landownership in the medieval period?
+A It was the main reason why the feudal system was changed in the sixteenth century
+B Its importance for feudal society has been underestimated by historians
+C It is best explained by a hierarchical system of obligations
+D It had more in common with modern-day landownership than previously thought
+
+
+第6题
+Why does the professor say this:
+A To suggest that peasants had no compelling reasons to use money 
+B To ask the students what they know about peasants ' activities 
+C To indicate that it was often necessary to transport food over long distances 
+D To remind the students that peasants often suffered from food shortages
+
+
+
+Listen to part of a lecture in a European history class.
+Professor
+Economic activity in medieval Europe was overwhelmingly agricultural based on what was produced from land, like crops or livestock, so land was perhaps the most important economic resource. What I wanna talk about today is how this resource was controlled in medieval Europe, which means talking about a system called feudalism. Historians frequently disagree when trying to define what feudalism was. But essentially feudalism describes how landowners, like nobles, knights, how they extracted wealth from land by essentially forcing peasant farmers to work the land. These peasants would then be required to turn over part of what they produced as a kind of tax or rent. 
+More importantly feudalism also describes the obligations that came with controlling land. At the top of the social pyramid there was a king who gave the land to the most important nobles or knights, who in return owed him their service and support. The more important nobles gave land to lesser nobles in return for their services and at the bottom landlords extracted service from peasants, you know, farming the land, maintaining fences and roads while being obligated to give the peasants protection in return. As you can guess a key part of feudalism is that it created unequal social relationships, kings over nobles, greater nobles over lesser nobles and nobles over peasants. 
+Over time these relationships became traditional, in many cases, hereditary, virtually unchangeable. When nations developed ideas of equality it happened in the face of thousands of years of feudal traditions. In fact, in standard historical accounts, we usually point to the development of modern day European nations as a reaction against these feudal traditions. Yes, John?
+Male Student
+You know, I just saw a documentary that said that historians have a hard time agreeing on what feudalism really was. It said people living in medieval Europe, they never even used the word feudalism, that the word wasn't around until after the medieval period.
+Professor	
+That's right. And that's a major reason why it's hard to know exactly what the term means. In the 16th century after the medieval period was over and Europe saw the birth of many modern nations, lawyers needed to dearly spell out what obligations went with what pieces of land, so they made up the word feudalism to contrast laws and regulations in the medieval period with those of their own time. It's related to the word fee, that is, land was granted in return for a fee, or service.
+Female Student
+So land was just given to knights by a king?
+Professor
+Well, it's not completely accurate to say that the land was given. The nobles were given the right to use the land which basically meant the right to collect rents from peasants. Let's talk about these rents for a minute. Most of the time the rents were collected in kind, payments of actual items like how many bushels of wheat, so many eggs a year and so on.
+Male Student
+Why couldn't the peasants simply pay cash? Wouldn't that be easier?
+Professor
+Well, during the medieval period there was no paper money because paper was a very rare and costly item and coins were only used by merchants or traders who needed to move wealth long distances. But think about it. How far did peasants really need to transport some wheat or a dozen of eggs? But most importantly payments in food fed people on whom the nobles' power and wealth depended like soldiers or artisans working for the noble. 
+Now historians have always had this view of feudalism as being this hierarchical system of obligations that I just described. Recently however, a reinterpretation of feudalism led by historian Susan Reynolds has called into question this traditional view. While Reynolds says, sure, kings will sometimes give knights the right to use land in return for service, she argues that we misunderstood the nature of feudal landownership and usage. She claims that it was fairly common for landlords, and even peasants to have outright ownership of land with no obligations attached to it, in a system that was much more like what exists in much of Europe today, free and clear ownership of land. This is significant because it means that today's economies didn't come about as a reaction against the medieval economic system but as a natural expansion of some of its elements.
+
+{"1": ["B"], "2": ["C"], "3": ["A"], "4": ["B"], "5": ["D"], "6": ["A"]}

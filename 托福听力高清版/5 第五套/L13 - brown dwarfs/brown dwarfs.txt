@@ -1,0 +1,65 @@
+﻿ brown dwarfs
+
+第1题
+What is the main purpose of the lecture?
+A To explain methods astronomers use to classify stars 
+B To explain the formation of molecular clouds in the universe
+C To discuss how some stellar embryos fail to become stars  
+D To discuss similarities between brown dwarfs and planets
+
+
+第2题
+According to the professor, why is the study of brown dwarfs particularly challenging?
+A They cannot be detected directly.
+B They combine characteristics of very distinct celestial objects.
+C They appear in colors ranging from brown to red.
+D They are always near very bright stars.
+
+
+第3题
+Why does the professor discuss how stars originate?
+A To explain how brown dwarfs begin to form
+B To suggest that brown dwarfs do not originate in molecular clouds
+C To explain why brown dwarfs emit light billions of years
+D To show that stellar embryos cause turbulence within molecular clouds
+
+
+第4题
+Aaccording to the ejection theory, why do some stellar embryos stop growing before they become stars?
+A The motion of dust and gas inhibits their growth.
+B The cores in which they form are not dense enough.
+C They start forming in the area of a molecular cloud with the least amount of material.
+D They are moved by gravitational forces to areas outside cores.
+
+
+第5题
+Why does the professor mention that newborn stars are surrounded by disks of dust and gas?
+A To describe a method for testing two theories about brown dwarfs
+B To clarify how brown dwarfs are drawn into star systems 
+C To emphasize that brown dwarfs move at low velocities 
+D To introduce planet formation as the topic of the next lecture
+
+
+第6题
+What is the professor’s attitude toward the two theories?
+A He is convinced that neither of them can explain why brown dwarfs have stellar disks.
+B He hopes both theories will be confirmed by computer simulations.
+C He thinks evidence supports the turbulence theory even if he cannot rule out the ejection theory.
+D He finds the ejection theory more attractive than the turbulence theory.
+
+
+
+
+Listen to part of a lecture in an astronomy class
+Over the past decade we've discovered hundreds of celestial objects we call brown dwarfs. Actually are more reddish than brown. Theories about them have been around for decades but it's only recently that we’ve been able to find and observe them. 
+Brown dwarfs are challenging for astronomers because they're tough to classify. They have masses too large for a planet but too small for a star, and they share some characteristics with planets and others with stars. For example, they seem more like planets in that many of them orbit around stars, but they apparently form not like planets but in much the same way stars do at least initially. 
+Remember stars originate in huge clouds of dust and gas thousands of light years across, ur molecular clouds each with enough material to make dozens of stars. Young stars forming in the denser regions of molecular clouds known as cores, which eventually collapse due to their own gravity .
+Now within any given molecular cloud there can be several cores. And when they collapse, the inner portions break up into humps, which are stellar embryos, stars in the process of forming. So a collapsing core can contain several stellar embryos, several of which can become stars. The usual path to star formation is that the gravity of the stellar embryo pulls in material to add to its mass and at some point this embryo becomes so massive and dense that its material begins to fuse, to undergo nuclear fusion. Essentially it ignites and becomes a star that will burn for billions of years.
+Brown dwarfs start out like stars, we think, as stellar embryos collecting dust and gas in the cores of molecular clouds. And as they gather mass, they are heated by all the material rushing in and begin some infrared light. Certain molecules may even undergo a particular kind of low level of fusion. But if a stellar embryo fails to pull in enough molecules of dust and gas, it will never grow massive enough to ignite the powerful, more typical sort of fusion that turns it into a full-fledged star. 
+But what prevents that? Why does it just stop growing? So that after several million years, a fairly short time in astronomical terms, this failed star that we now call a brown dwarf just begins to cool again and fade. Two theories.
+First, one called the ejection theory. Okay, well, according to this ejection theory, the smaller stellar embryos inside a collapsing core, the embryos that haven't competed so successfully for material to feed their growth, they are more likely to get tossed around by or evenly ejected by gravitational forces, thrown right out of the core before they can collect enough material and become stars. So what might've become a star gets ejected and ends up nothing more than a brown dwarf. That's the ejection theory. 
+Then there’s the turbulence theory. The turbulence theory says that dust and gas are swirling around inside a molecular cloud and it’s this turbulence that compresses some area of the cloud into cores, but not every core has enough dust and gas to form into stars, so instead of stars some cores can only form brown dwarfs, because they never had enough material to form stars in the first place. 
+Newborn stars are typically surrounded by disks of leftover dust and gas called disks. Over millions of years the disc material drains into the star and some of it may go into forming planets, asteroids or comets. Now if the turbulence theory is correct, brown dwarfs like many low mass stars should haves stellar disks. But if ejection theory is correct, computer simulations have shown that any surrounding material will get stripped away mostly when the embryo is ejected from the core. 
+So do brown dwarfs have stellar disks? It turns out that many do and the discs actually help us find brown dwarfs. See, like I said, brown dwarfs aren't bright but do give off infrared radiation and the stellar disks reflect this infrared radiation and make it appear brighter. So astronomers look for that infrared access when they are searching for brown dwarfs. And hopefully as they observe the disks more closely, they'll be able to get more clues about the formation of brown dwarfs, I mean we can’t say for sure that the ejection theory is incorrect. Maybe brown dwarfs form in different ways. Only if our space telescopes are able to catch them in the act of forming will we know for sure.
+
+{"1": ["C"], "2": ["B"], "3": ["A"], "4": ["D"], "5": ["A"], "6": ["C"]}

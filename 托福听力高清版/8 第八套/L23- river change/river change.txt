@@ -1,0 +1,76 @@
+﻿river change
+
+第1题
+What does the professor mainly discuss 
+A A hypothesis that rivers formed before the rise of plant life
+B A study of the effects that rivers have on soil formation
+C A debate surrounding two opposing hypotheses
+D New evidence in support of a previously proposed hypothesis
+
+
+第2题
+What limitation of Cotter's research does the professor mention
+A Cotter's research findings could not be replicated.
+B Cotter's research was based on one geographical area.
+C Cotter's research did not take into account lateral accretion.
+D Cotter's research did not account for changes in climate.
+
+
+第3题
+What did researchers try to confirm about rivers in a recent study 
+A That rivers now have the same shape worldwide
+B That rivers were responsible for the spread of plant life
+C That a change in the shape of rivers is linked to the spread of plant life
+D That most rivers emerged during a specific geological time period
+
+
+第4题
+Why does the professor describe the composition of the sediment of the earliest rivers 
+A To identify the evidence used to determine how the rivers flowed
+B To explain why the rivers could easily dry out
+C To suggest that the sediment was once fine sand
+D To suggest that the geological record might be flawed
+
+
+第5题
+According to the professor, what is an effect of lateral accretion on a meandering river 
+A Bends in the river become gradually straighter.
+B Material from one riverbank is deposited on the other.
+C The intensity of the river's flow increases.
+D The growth of plants on the outer riverbank is enhanced.
+
+
+第6题
+Why does the professor say this: 
+A To find out what the students know about Mars
+B To question certain geological studies of other planets
+C To express a reservation he has about the hypothesis
+D To indicate that he is going to change the topic
+
+
+
+
+
+Listen to part of the lecture in a Geology class.
+Professor: About thirty years ago, a geologist named Edward Cotter, that’s COTTER, published a paper that contain a very interesting hypothesis. He was studying ancient rivers in the North American mountain chain. And he noticed that about four hundred fifteen million years ago, rivers started to behave differently. Before then, rivers were wide, shallow and straight. But after that time, they became deeper and have more curves. They became increasingly meandering and that how actually rivers behave to this day. So, why might this change have happened? 
+Student: Maybe there was some kind of climate shift?
+Professor: Well, lots of climate shifts have happened since then. 
+Student: Was that change world-wide or just in that geographic area?
+Professor: Well, Cotter speculated that rivers changed world-wide, but he couldn’t prove it because he only have evidence from the one North America mountain chain. But his studies gave him an idea about why rivers started to change. He hypothesized that it had to do with the spread of plant life on earth. 
+Student: So there was no plant life before four hundred fifteen million years ago?
+Professor: Very little according to fossil records. Anyway, the geologist warn trees by this hypothesis claims that as plants evolved and spread they had an effect on the train and rivers. In the past thirty years, more studies have been done, and now we have a lot data about river systems from around four hundred fifteen million years ago from all over the world. In a recent study, a couple of researchers gathered together the existing data and combine them with their own new field data to get a comprehensive picture of the situation. Their study was specifically to identify changes in the shapes of rivers during the time period when vegetation was evolving. And when the researchers compare the data about river shapes with data they have collected about plant life from the same period the data seemed to prove Cotter’s hypothesis. 
+Student: Okay, but how did plant life affect rivers?
+Professor: Well, in order to answer that question we need to look at the geological evidence. You see as rivers flow, they leaver layers of sediment behind that eventually fossilize. The contained fitness and shape of these fossilized layers and rocks gave us information about how rivers flowed. The earliest records from five hundred million years ago, show that the sediment in river deposit was largely composed of course grands, sands and grabble.And that tells us the rivers weren’t defined, they were very shallow and wide almost like floods. But around the time of the raise of plant life the content of those sediment layers began to change. The course grands became much finer and we see evidence of mud. This ejects that plants promoted the preservation of mud when they sent their roots into the ground. The root helped to reinforce the ground which intern allow for the creation of river banks. And we also see evidence of a process called “lateral accretion”. Lateral accretion happens when water floods around the curve or band in a river bed. Now, the speed of the flow on the outside of the band is fastest and slowest on the inside of the band. This sets up was called a secondary flow across the river bottom. The fast flowing water on the outside of the band digs out material from the river bank and pushes this material laterally across the bottom. And it get sur-posited on the other side of the river on the inner side of the band. So, when we see in the sediment layers. Evidence of lateral accretion erosion on one side and deposits on the other that’s an indicator that an imangering river existed. And according to the study, strong evidence of lateral accretion appears in the geological records. At the same time, there was also evidence of plants with underground root systems. This suggest that plants promoted the development of modern rivers by creating stable banks which resulted in the flow of water in single meandering channels.
+Student: So, it looks like the researchers are able to prove the hypothesis. 
+Professor: Well, there is no denying that the study presents a very strong case. But some questions about this hypothesis remain. For example, it’s well known that other planets like Mars there is clear evidence of meandering rivers. But is there evidence on vegetation on Mars? I think not. 
+
+
+
+
+
+
+
+
+
+
+{"1": ["D"], "2": ["B"], "3": ["C"], "4": ["A"], "5": ["B"], "6": ["C"]}

@@ -1,0 +1,87 @@
+﻿Cryogenian period 
+第1题
+What is the main purpose of the lecture?
+A To explain how geologists determine the dates of ice ages
+B To compare the geologic features of several different ice ages
+C To discuss the possibility of a severe ice age during the Cryogenian period
+D To examine the effects of a Cryogenian ice age on subsequent climate patterns
+
+
+第2题
+Why does the professor discuss the name of the Cryogenian period?
+A To provide backgrounds for the basis of the Snowball Earth hypothesis 
+B To suggest that the Snowball Earth hypothesis is inappropriately named
+C To contrast the Cryogenian period with later geologic periods
+D To point out that the Cryogenian ice ages started in several different ways
+
+
+第3题
+According to the professor, what factors might have created the conditions for a snowball Earth event?
+A A change in the proportion of land and wafer covering Earth’s surface
+B The cooling effect of the oceans' low surface albedo 
+C A change in the atmosphere that lowered Earth's surface temperature 
+D A continuing cycle of radiation reflection and ice growth
+
+
+第4题
+Why does the professor talk about a research study in Oman?
+A To illustrate why it is necessary to study evidence of glaciers from more than one location 
+B To determine how solar radiation affects glaciation
+C To present evidence that Earth’s climate fluctuated during the Cryogenian period 
+D To explain why ice ages during the Cryogenian period differed from other ice ages
+
+
+第5题
+According to the professor, what is the chemical index of alteration used for?
+A To describe changes in the chemical composition of the atmosphere
+B To measure the degree of chemical weathering of rocks 
+C To find out how oceans affect global temperatures 
+D To trace the movement of rock over time
+
+
+第6题
+What is the professor’s opinion about the Snowball Earth hypothesis?
+A Its basic premise is accurate and further study will validate it.
+B It would be more plausible if the time frame were longer.
+C It has some merit but a closer examination reveals flaws.
+D It will probably never be completely discredited.
+
+[al:佳文]
+[ar:佳音]
+[ti:British-accent-Cryogenian-period]
+[by:Linsena]
+[00:04.18][ppp]Listen to part of a lecture in a geology class.//请听地质课上的一段内容。
+[00:07.62]So continuing with ice ages, we've looked at the Pleistocene Ice Age up through the so-called Little Ice Age in Europe, //让我们继续冰河时代，我们通过所谓的欧洲小冰河时代，观察了更新世冰期，
+[00:15.94]but today I'd like to talk about a controversial hypothesis that Earth went through tremendous ice ages before all these others between approximately 600 and 700 million years ago during a geologic period that's known as the Cryogenian. //但今天我想谈谈一个有争议的假说，即地球在大约6亿到7亿年前经历了被称为低温时代的地质时期之前，度过了漫长的冰河时代。
+[00:31.95]Cryo is from the Greek and means cold. The name comes from the glacial deposits going back to this period. //Cryo起源于希腊，意味着寒冷。这个名字可追溯至冰川沉积这个时期。
+[00:39.62]They’re found all around the world, which indicates that glacier spread across all the continents at that time even near the equator.//冰川沉积遍布世界各地，这表明当时即使在赤道附近，冰川也在各大洲蔓延。
+[00:47.65]And this is the premise of a hypothesis commonly called Snowball Earth. //这就是所谓的雪球地球假说的前提。
+[00:52.13]The name pretty much described the condition, that it is just proposed existed than with not only the continents, but also the oceans entirely covered with thick sheets of ice.//这个名字几乎可以描述这个环境条件，而且提出不仅是大陆地区覆满积雪，而且海洋完全为厚厚的冰层所覆盖。 
+[01:03.08]But how could the Snowball Earth climate have come about? In the other ice ages, we’ve looked at, up to 30% of the Earth's surface was covered in ice. But here we're talking way more than that. //但为什么会雪球地球的气候呢？在其他冰河时代，我们已经看到，高达30％的地球表面被冰覆盖。但是在这里，我们谈论的不仅仅是这些。
+[01:15.04]Okay. This gives us a chance for review. When radiation from the sun reaches our planet, some of it is absorbed and some of it reflected back into space, right? //好的。这给了我们一个回顾历史的机会。 当太阳辐射到达我们地球时，太阳光一部分被吸收，一部分反射回太空，对吧？
+[01:25.11]And different surfaces on Earth reflect solar radiation differently. //地球上的不同表面反射太阳辐射的方式也不同。
+[01:28.96]They don't have the same surface albedo. Surface albedo is a measure that tells us how much solar radiation gets reflected back into space. //没有相同的地表反射率。
+地表反射率是一种衡量标准，可以告诉我们有多少太阳辐射被反射回了太空。
+[01:37.69]Ocean water, for example, tends to absorb radiation. Its surface albedo is low. So that has a warming effect on the planet. But ice and snow reflect a lot of solar radiation. //例如，海洋水容易吸收辐射。它的地表反射率很低。有助于地球变暖。但冰和雪反射了太多的太阳辐射。
+[01:48.82]They have a higher albedo. It's like how wearing white clothing can help you stay cooler in a hot day than wearing black clothing. //他们有更高的反射率。就像在炎热的日子里，穿白色服装比穿黑色衣服凉爽。 
+[01:55.91]Similarly, ice and snow as well as being very cold themselves have an additional cooling effect because they keep solar radiation from being absorbed. //同样，冰雪本身也是非常冷的，因为它们可以避免吸收太阳辐射，所以它们有额外的降温效果。 
+[02:04.95]Now once this process of reflection and cooling gets started, it can end up being self-perpetuating.//现在一旦开启发射和冷却过程，它就会自我延续。
+[02:10.83]The cooling increases the ice cover, which increases the surface albedo, so the climate gets even colder, causing more ice to form and so on.//散热增加了冰层，这增加了地表反射率，所以气候变得更冷，导致形成了更多的冰，等等。
+[02:18.94]This is called the ice albedo feedback. Normally the process is kept in check by the ocean's absorption of solar radiation, but according to the Snowball Earth hypothesis, the feedback loop didn't stop. //这被称为冰反照率反馈。 通常来说，通过海洋吸收太阳辐射来控制的，但根据雪球地球假说，反馈环路并没有停止。 
+[02:31.11]And so ice and snow were covering more and more land, cooling Earth's surface more and more quickly, and got to the point where even the oceans were covered in ice. //冰雪覆盖了越来越多的土地，地球表面的冷却速度越来越快，甚至于海洋也为冰所覆盖。
+[02:39.83]Now the thought of Earth as a giant snowball. I have to admit it has some dramatic appeal.//现在认为，地球是一个巨大的雪球。我不得不承认这有一定的戏剧性吸引力。 
+[02:45.92]And a number of geologists have come on board with it in fact, because there's certainly evidence of extreme glaciation during the Cryogenian period. //事实上，许多地质学家也参与其中，因为成冰纪肯定存在着极端冰川作用的证据。
+[02:54.02]For example, in Oman, now Oman's in the Middle East, right? So a hot climate today. Well, sedimentary rocks there provide clear evidence of glaciers in the Cryogenian period. //例如，在阿曼，当今中东阿曼一定有证据，对吧？现在那里气候炎热。那么，那里的沉积岩留下了清晰的证据，证明了成冰纪的冰川。
+[03:05.39]But a new research study looked at the sedimentary rocks more closely. The technique they used. It’s useful to know this, because we will come across it again. //但一项新的研究对沉积岩进行了更深入的研究。他们使用的技术。了解这一点很有用，因为我们会再次遇到这个问题。
+[03:14.72]What they look at is a measure called a chemical index of alteration. //他们了解的是一种称为化学蚀变指数的测量方法。
+[03:18.16]The chemical index of alteration is a gauge of chemical weathering of rock, which means the chemical changes that occurred in rock due to environmental conditions. //蚀变的化学指数是测定岩石化学风化的指标，是指岩石在环境条件下发生的化学变化。
+[03:27.29]A high rate of chemical weathering indicates a warm and humid environment. //化学风化率高表示环境是温暖潮湿的。
+[03:31.76]Well, a low rate of chemical weathering is consistent with cool and dry conditions. So in this rock in Oman, the chemical index of alteration suggests that the climate during the Cryogenian wasn't consistent. //那么，低化学风化速率与凉爽和干燥的条件是一致的。 因此，在阿曼的这块岩石中，化学指数的改变表明，成冰纪的气候并不是始终一致的。
+[03:45.54]There's definitely evidence of periods with low rates of chemical weathering and therefore cold conditions. //有明确的证据表明，化学风化率低的时期就是寒冷的时期。
+[03:51.42]But these alternate with intervals of high chemical weathering, which represent times of warmer weather, which means that there were periods when that deep-freeze broke.//但是，这些时间与高化学风化的间隔交替出现，这代表着温暖的天气，这意味着有一段时间出现了深度冻裂 
+[04:00.93]But how? If the Earth was completely frozen for a long period of time, 1 doubt warmer periods could have happened. //但是是如何出现的呢？如果地球长时间完全冻结，我怀疑可能会出现更温暖的时期。
+[04:07.85]The incoming solar radiation would have been reflected back, right? So the warmer periods indicate that at least some portions of the ocean weren't frozen over.//即将到来的太阳辐射会反射回来，对吧？所以，在较暖的时期，至少有一部分海洋没有被冻结。
+[04:57.85][end]
+
+
+答案 CADCBC

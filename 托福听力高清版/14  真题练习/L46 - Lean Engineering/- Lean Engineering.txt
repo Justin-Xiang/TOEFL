@@ -1,0 +1,79 @@
+﻿Lean Engineering
+
+第1题
+What does the speakers mainly discuss?	
+A Steps involved in improving customer service	
+B Advantages and disadvantages of lean engineering 
+C Reasons that inefficiency is so widespread in the business world  
+D Strategies for increasing efficiency within a company 
+
+
+第2题
+What point does the professor make about the inventory of a company?
+A Storing inventory is less problematic than storing raw materials. 
+B  Inventory should be reduced as much as possible. 
+C  Inventory should be stored in warehouses located close to the manufacturing plant. 
+D Large companies need more inventory than small ones.
+
+
+第3题
+What does the professor say about the accounting department he worked with?
+A The fact that the department’s different groups all worked at the same time was causing inefficiency.  
+B Value Stream Mapping was not as effective for the department as he had hoped. 
+C The department’s procedures had been designed using an earlier version of Value Stream Mapping. 
+D The department was eventually able to complete its work in less time than before.
+
+
+第4题
+Why does the professor mention computer software programs for shipping?
+A To demonstrate how fuel costs can be quickly calculated by accounting departments  B. 
+B To provide an example of products that are easily lost during transport  
+C To point out an innovative way for companies to reduce delivery time  
+D To emphasize how easy it is for companies to track deliveries during transport
+
+
+第5题
+What point does the professor make when he discusses airplane design? 
+A Each piece of an airplane must be designed with precision.
+B The fewer pieces an airplane has, the lighter its weight will be.
+C Using fewer pieces to create a product will result in fewer defects. 
+D  Pieces that have several functions take longer to design.
+
+
+第6题
+Why does the professor say this?
+A To help the student understand a different idea of quality 
+B To indicate that the student's question is difficult to answer 
+C To point out a weakness of lean engineering  
+D To find out the student's definition of quality
+
+
+
+Listen to part of a lecture in an industrial engineering class.
+Professor：So as industrial engineers, it's critical that we look at the big picture. We have to consider how a manufacturing plant and its procedures are designed, how its materials and energy and its employees are managed, quite a task. And one thing I'd like to discuss is the concept of Lean Engineering. Lean Engineering is all about developing the ability to see wastefulness where you did not perceive it before, ur, wasted time, resources etc at any stage of your company's procedures. Let’s consider for instance， excess inventory. Think about it. Inventory typically just sits around. Lean Engineering classifies excess inventory as waste because money has been spent to create the goods but they haven't yet produced any income for the manufacturer. So decreasing inventory, spending less money on it, means you can spend that money on other things the company needs. It also allows the owner to use a smaller facility. Can anyone think of a benefit to this?	
+Female Student：Cost less expense in a cooler smaller building?
+Professor：Right, exactly. And you knew that savings applies not only to warehouses containing the finished products but also the storage facilities for raw materials. 
+
+Now one technique used in Lean Engineering to eliminate wastefulness is value stream mapping or VSM. Value stream mapping is a technique to detect and analyze any inefficiencies in a current system. Basically it identifies and maps out every single step required to produce a product or service, and then it removes all unnecessary and counterproductive steps, or poorly restructure them. I was called in to look at it in the accounting department which took 10 days to finalize its monthly financial statements. Management needed a faster turnaround time. I used to be at VSM and realized there were five groups in the accounting department. The first group took two days to complete their work then everything was handed off to the next group for two days and, and so on. But VSM showed that the first three groups in this process didn't have to wait for each other. They could all work on the same two days but in their independent groups.
+Male Student：So the groups work separately at the same time. So it saves time in the overall process.
+Professor：Yes. Because of VSM, the department was able to complete its financial statements four days earlier than before. 
+
+Okay. Now another wastefulness category we look at in Lean Engineering is unnecessary transportation.
+
+Male Student：Because of fuel costs involved?
+Professor：Ah, go ahead. That's a big one. Yes. Susan.
+Female Student：Also because transportation takes time and that expense.
+Professor：Very true. For both reasons some shipping companies use special computer software programs to plan the most efficient routes for their delivery trucks. These computer programs even maximize the number of right- hand turns as part of the calculations because right turns in traffic take less time than left turns.
+
+Additionally consider this. Every time you transport a product you increase the chance of being delayed or lost or damaged. Now damage or defects is a different category of wastefulness. A damaged or defective product, either can't be sold at all or has to be fixed. Either way makes an additional expense.
+Female Student：You have to prevent defects during production, too.
+Professor：Yes. And one way that's been found to reduce production defects is called part count reduction. Say , I design a product that has 14,000 parts, such as an airplane. Well, each different piece requires an individual work. It has to be designed, then manufactured, then stored, etc. But if you can design pieces that can perform multiple functions
+Female Student
+Then there will be fewer parts to design and fewer parts that can break or be defective.
+Professor：Right. 
+
+Now according to Lean Engineering principles, what's desirable in the product is determined by the customer. You plan to make a high-quality sweater, you know, made of expensive yarn and with a fancy pattern but your customers only looking for a simple sweater with no special features. But if you don't go along with that you're wasting resources.
+Female Student：But what about our responsibility, our commitment to, you know, standards, um, standards of quality? 
+Professor：But whose standard is the question. Remember it's the customer's requirements that determine what's desirable in the product.
+
+{"1": ["D"], "2": ["B"], "3": ["D"], "4": ["C"], "5": ["C"], "6": ["A"]}

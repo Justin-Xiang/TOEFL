@@ -1,0 +1,65 @@
+﻿tectonic plates
+
+第1题
+What is the lecture mainly about?
+A The recent discovery of an unusual tectonic plate 
+B The effects of underwater riffs on plate boundaries located on land 
+C The development of a new technology for studying rifts located on land 
+D The process by which tecatonic plates are separated
+
+
+第2题
+Why does the professor mention Iceland? 
+A To support the claim that rifts occur wherever volcanoes occur 
+B To point out that Iceland is located on a plate boundary 
+C To give an example of a rift area that is located on land 
+D To give an example of an extraordinary active rift system
+
+
+第3题
+What unexpected discovery did scientists make while studying the rift event in East Africa?
+A Rifts can widen more quickly than previously thought.
+B Some magma deposits lie closer to Earth surface than geologists realized.
+C Volcanic activity is not necessary for rift formation.
+D Volcanic activity along land rifts is different from activity along underwater rifts.
+
+
+第4题
+In the lecture the professor discusses an event that occurred along a rift in East Africa. Place the stages of this event in order.
+
+
+第5题
+According to the professor, what may eventually occur at the location of the recent rift event in East Africa?
+A Two tectonic plates will merge. 
+B A deep basin will form.
+C A new fissure will open.
+D Underground earthquakes will become more frequent.
+
+
+第6题
+What does the professor imply when he says this:
+A The East Africa Rift System is much larger than previously thought. 
+B "East Africa Rift System" is an obvious name for the system.
+C The East Africa Rift System is not actually a system.
+D Not all of the East Africa Rift System is located in Africa.
+
+
+
+Listen to port of a lecture in a geology class.
+
+
+Okay. First a quick review of tectonic plates. The term tectonic refers to the structure of the earth's crust, its outer layer. Just below the crust is a layer known as the mantle. Together the crust in the upper part of this mantle comprise with what’s called the lithosphere. Tectonic plates are huge segments of this lithosphere that slowly drift around Earth’s surface. There are currently seven or eight major plates, depending on how we count them, and many minor plates. One major plate, for example, is the Eurasian plate, upon which Europe and Asia sit. Another major plate is the African plate, upon which the continent of Africa sits. Okay. 
+
+
+
+Now, sometimes one of these tectonic plates developed a crack, what’s known as a rift, and breaks up into two smaller plates. Then by some process we can only theorize about until recently after a plate breaks up, the two parts slowly move away from one another. For example, what're now North and South America was once part of a huge continent that also included what're now Europe and Africa. When that supercontinent broke up, North and South America moved away from Europe and Africa. The great rift between them gradually stretched wider and sank deeper until it grew into an enormous basin flooded with water and became the Atlantic Ocean. And there lies one of the fundamental obstacles to studying rifts, because rift formation often evolves into ocean basin formation. Most rifts found on the ocean floor was very difficult to study. And not all riffs are underwater. There are some rifts in Iceland, for example, but they tend to be covered with glaciers, over sediment dumped by glaciers. 
+
+
+
+Anyway, until recently, we can only make educated guesses about the process that causes rifts to grow larger, that causes these plates to separate. We couldn't be sure because we had to base on a series of limited observations. But then, in the eastern part of Africa is a complex system of rifts called, shockingly enough, the East Africa rift system. The first of the rifts in the system began forming many millions of years ago, but in September 2005 an extraordinary event occurred. In the span of just a few days, one of the rifts in this East Africa rift system was suddenly forced apart, opening a fissure in the overlying surface, a fissure of 60 kilometers in length and up to 8 meters in width, compared that to the usual tectonic plate movement of just a few centimeters per year. You can see why we never dreamed movement of this magnitude could occur in such a short time frame. 
+
+
+And for the first time we had clear seismic and satellite data, showing where and when and how much the ground moved before and during such an event. This was actually a pretty complex sequence of steps, but here is essentially what happened. This one cluster of volcanoes at the northern end of the rift and another cluster of volcanoes at the southern end. Okay. And first, there was a period of seismic activity, a series of moderate intensity earthquakes at the northern volcano cluster. This went on for a few days. Then there was a brief hiatus, nine hours or so. And then the seismic activity jumped to an area of 30 kilometers further south. Apparently the seismic activity at the northern volcano cluster had created instability in the magma reservoir there. And around that point as the earthquake activity suddenly started up further south, a massive amount of magma, molten rock, was beginning to force its way into the rift. This magma floating in two directions both north and south, making the underground rift grow wider and wider as it went. This separation along the subterranean rift created tremendous strain on the overlying surface, which then ruptured and separated. Okay. That was the main event. Since then, most violent activity has gradually abated and the magma that intruded into the rift has begun cooling and hardening, forming a narrow strip that may over time grow to become the sort of large deep basin we mentioned before. Other than the time frame, this was very much as we theorized, but we've been unable to confirm it up till now.
+
+
+{"1": ["D"], "2": ["C"], "3": ["A"], "5": ["B"], "6": ["A"]}

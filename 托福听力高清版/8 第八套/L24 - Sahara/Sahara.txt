@@ -1,0 +1,58 @@
+﻿Sahara
+
+第1题
+What is the lecture mainly about?
+A Reasons for the collapse of an ancient society in the Sahara
+B Methods of discovering ancient water sources in the Sahara
+C The impact of climate changes on early settlements in the Sahara
+D Attempts to locate the sites of early settlements in the Sahara
+
+
+第2题
+Why does the professor mention satellite images?
+A To describe how evidence of human settlement can be found in the desert.
+B To point out that satellite images can sometimes be misinterpreted.
+C To emphasize that very few people have ever lived in the Sahara.
+D To disprove the claim that people always settled near water sources.
+
+
+第3题
+According to the professor, what did the earliest people in the Sahara do as the climate first began to dry out?
+A They increased the time they spent on hunting and gathering.
+B They planted crops that would withstand dry conditions.
+C they moved out of the area.
+D They searched for fossil water.
+
+
+第4题
+What does the more recent rock art indicate about the people living in the Sahara about five thousand years ago?
+A They had already begun to domesticate animals.
+B They had developed advanced tools for hunting.
+C They relocated closer to water sources.
+D They traded cattle with the Romans.
+
+
+第5题
+What does the professor imply causes the eventual collapse of the Gara Monte’s society?
+A The region became overpopulated.
+B The water tunnels that the Garamantes built fell apart.
+C The water supply became contaminated.
+D The underground supply of water was exhausted.
+
+
+第6题
+Why does the professor say this?
+A To ask the students to share their opinions about a nomadic lifestyle.
+B To indicate that she disagrees with the description of the Garamantes people.
+C To indicate that the lifestyle of the Gara Montes people might be difficult to investigate.
+D To find out if the students understand the concept of a nomadic lifestyle.
+
+
+
+Listen to part of a lecture in an archaeology class.
+Usually when we talk about large-scale climate change, it's in relation to advancing and retreating ice sheets. But what about regions near the equator? Like in the Sahara desert in Northern Africa. As recently as 5000 years ago, the climate there was significantly wetter than it is now. A lot of what is now desert was Savannah, a grassland. And it's interesting to look at how the people who lived there responded to the climate changes. Did they leave or did they stay and adapt? 
+But how do you even know where to begin looking for evidence when everything is covered in sand? Well the answer is you look from space. You see when an area of water dries up, it leaves behind hardened areas. Even though these areas have been buried in sand, they show up on satellite radar images. So since people generally settled near sources of water, researchers decided to study a specific area in the Sahara, in what is now western Libya, because satellite images  reveal the remains of a river network under the sand there. Examination of stone tools found near the rivers revealed two separate phases of human habitation in the area. The first phase of settlement dates from about 200,000 to about 70,000 years ago. Signs indicate that it was a hunter gatherer society. When the climate began to dry out, people left the area to follow the food. 
+But starting about 12,000 years ago, there was a second phase of settlement. The climate changed again. The rains came back. And the people returned to pretty much the same area. We know this because of the tools they left behind around the water sources. They left not only tools behind, but also rock art, paintings and engravings on the surfaces of huge rocks. The rock art uncovered from that area shows wild water-dependent creatures, like elephants and rhinoceroses, which would indicate a wet phase in the Sahara. 
+Now starting about 5000 years ago, the climate shifted yet again. It began to dry out. Only this time, the people didn't leave. Instead they adapted to the changing climate. Once again the rock art tells the story. You now start to see paintings of domesticated animals. This tells us that the hunter and gatherers had already adapted the lifestyle based on herding cattle. And this definitely gave them an advantage in a dryer climate. But the more significant change was the development of an agricultural civilization with towns and villages. As surface sources of water begin to dry out, people looked underground for their water. Take the Gara Monte's people for example. Around 500 B.C.E, we see mansion of the nomadic group in the area in some ancient Rome, a group described as nomads whom the Romans called the Gara Monte's. However, recent investigations revealed that the Gara  Monte's grew crops, like wheat, barley olives. The key to the Gara Monte's survival was a system of underground passageways which transported water to the fields. They dug these channels underground to direct water to their fields. They were able to survive this way for about 1,000 years. Does that sound like a nomadic lifestyle to you? But this water that they relied on had built up during the wet climate phase. It was what’s called fossil water, groundwater that had been trapped inside underground rock layers, back when the rock was formed. But this was a nonrenewable resource. The water they took was not being replaced. Eventually the funnels became useless. And by about 500 A.D, the Gara Monte's society had dissipated.
+
+{"1": ["C"], "2": ["A"], "3": ["C"], "4": ["A"], "5": ["D"], "6": ["B"]}

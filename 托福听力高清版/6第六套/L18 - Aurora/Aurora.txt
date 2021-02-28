@@ -1,0 +1,107 @@
+﻿Aurora
+
+第1题
+What is the main purpose of the lecture?
+A To compare current theories about an astronomical phenomenon.
+B To describe the growth of knowledge about an astronomical phenomenon.
+C To illustrate how astronomical theories based on incorrect assumptions can lead to discoveries.
+D To demonstrate that astronomers are able to predict events on the Sun based on cone.
+
+
+第2题
+According to the professor, what theories were proposed in the 1700s to account for the appearance of auroras?
+A Auroras are caused by light refracting off ice and snow.
+B Auroras are caused by CMES.
+C Auroras occur when gases from sunspots hit glaciers.
+D  Auroras occur when an electric current between Earth's poles is disrupted.
+
+
+第3题
+Why does the professor mention the duration of solar eclipses?
+A To demonstrate the importance of the coronagraph as a research tool.
+B To describe the effects of solar eclipses on auroras.
+C To support a conclusion about the connection between sunspot cycles and other solar phenomenon.
+D To explain why auroras are infrequent.
+
+
+第4题
+How do sunspots contribute to auroras?
+A Sunspots increase the intensity of Earth's magnetic field at the poles.
+B Sunspots emit charged particles that collide with atoms in Earth's upper atmosphere.
+C Sunspots bombard Earth with oxygen and nitrogen atoms.
+D Sunspots cause temperature changes at Earth's poles.
+
+
+第5题
+What point does the professor make when he talks about disruptions to technology?
+A Disruptions are more prevalent in the northern hemisphere than in the southern hemisphere.
+B Observing aurora activity has proven to be a better way to predict CMES than using other devices.
+C CMES and other magnetic activity on the Sun can have far-reaching effect.
+D Most information about aurora intensity has been obtained through observation with the naked eye.
+
+
+第6题
+Why does the professor say this：
+A He hopes that one of the students will explain the answer to the others.
+B He believes that the answer should be obvious to the students.
+C He thinks the point is not relevant to today's lecture.
+D He does not remember if he covered the point in another lecture.
+
+
+
+
+Listen to part of a lecture in an astronomy class. 
+The professor is discussing auroras.
+Okay, the aurora. 
+The aurora refers to the rays of bright colors in the night sky near
+the North and South Poles. 
+In the northern hemisphere it's called the aurora borealis and in the southern hemisphere it's call the aurora australis. 
+You’ve probably seen pictures of it. 
+It's quite beautiful. 
+It took centuries to figure out what's behind these beautiful colors in the night skies. 
+In the early 1700s scientists proposed that there was an electric current that stretched between the North and South Poles and if this electric current got disturbed and aurora would form. 
+Others postulated that the phenomenon was caused by a light wave refracted off glaciers and snow in the Arctic.
+Then in the 1800s scientific interests in Earth's magnetic field, in strange variations in
+Earth’s magnetic fields led to the observation that the biggest magnetic disturbances
+coincided with dramatic auroras and also with the timing of the most intense sunspot
+activity. 
+Sunspots were first observed centuries before as temporary dark spots on the
+face of the sun. 
+They're gashes highly magnetic regions that move across the sun's surface. 
+Sunspot cycles are at their height every 11 years and so are aurora cycles.
+They matched together.
+By the early 20th century it was found that Earth's magnetic field is constantly being
+bombarded by charged particles streaming from the Sun. 
+We call it solar wind. 
+And do I need to tell you when the solar wind is especially strong? 
+Yep, every 11 years when the magnetic activity of sunspots is peaking. 
+These charged particles interact with Earth's magnetic fields arid they’re pulled toward the North and South poles.
+Some of them make it into our upper atmosphere where they collide with atoms, with
+oxygen and nitrogen atoms. 
+This collision causes these items to light up, to glow.
+Different types of atoms glow in different colors. 
+And this is what’s happening when we are seeing aurora.
+Now let's jump ahead to the early 1970s, and a discovery was made using the device
+called chronograph. 
+A coronagraph attaches to a telescope and acts like a disk that blocks out the sun, creates an artificial solar eclipse you could say when you’re looking through the telescope. 
+This makes the sun's corona or outer atmosphere much easier to observe. 
+Now it's true that whenever there is a total eclipse of the sun, you can see the corona, that atom white circle surrounding the sun, but how long does  total solar eclipse last? 
+Less than 10 minutes? 
+And they occur maybe once a year.
+With a coronagraph you can observe the corona continuously anytime you want, and
+during the early 1970s using coronagraph mounted on an orbiting satellite, we witnessed what were called coronal mass ejections, or CMES for short. 
+So, coronal mass ejections, what are those? 
+Well, they're huge magnetized gas clouds that are thrown from the sun during a big atmospheric storm. 
+They erupt from the sun over the course of seven hours. 
+These huge clouds are made of billions of tons of those charged particles that rush toward the Earth at an incredibly high speed. 
+This mass which is our planet’s magnetic field in anywhere from just several hours to a few days.
+So we found that during CMES, with their enormous ejections of particles from the
+sun, auroras are particularly intense.
+Now as we said we can predict peaks in sunspot activity but so far we can't say the
+same for CMES. 
+We don't know when they'll occur or how large they'll be. 
+But what would be the advantages of knowing that? 
+Well throughout history we've noticed correlations between aurora intensity and technical problems, disruptions, first with compass going awry, then when we developed telegraph systems, they were affected and then telephone systems and shortwave radio systems, today even whole electrical power stations. 
+For example in 1989 there was a really intense magnetic storm initiated by a flare up on the sun and it caused electricity to go out for 12 hours in Quebec Canada.
+
+{"1": ["B"], "2": ["A", "D"], "3": ["A"], "4": ["B"], "5": ["C"], "6": ["B"]}

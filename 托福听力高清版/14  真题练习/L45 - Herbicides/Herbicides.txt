@@ -1,0 +1,96 @@
+﻿ Herbicides
+第1题
+What are the speakers mainly discussing?
+A Damage to crops resulting from chemicals produced superweeds 
+B Challenges associated with developing effective herbicides for superweeds 
+C Advantages and disadvantages of using herbicides in minimum-till farming 
+D  Research Investigating why weeds grow more quickly among certain crops
+
+
+第2题
+According to the professor, what were the benefits of glyphosate when it was first introduced?
+A It was relatively inexpensive to produce. 
+B It was considered harmless to humans and animals.
+C It could be used to control a wide variety of weeds.
+D D.It disintegrated quickly after being applied to plants.
+E It prevented weeds from developing a resistance to herbicides. 
+
+
+第3题
+Why does the professor discuss the minimum-till farming method?
+A To question that this method is most useful in small gardens
+B To question whether this method is environmentally responsible 
+C To indicate an efficient method for removing superweeds from fields 
+D To support her point about the importance of controlling superweeds
+
+
+第4题
+What was the goal of the research study that the professor describes?
+A To develop a way to grow crops that are resistant to 2,4-D
+B To create a new herbicide that is more effective than glyphosate 
+C To identify two of the bacterial enzymes that are present in 2,4-D 
+D To understand why certain plants are particularly vulnerable to herbicides
+
+
+第5题
+What does the professor say about the corn and soybean plants that were used in the experiment?
+A They were treated with 2,4-D in fields, but not in greenhouses.
+B They were less productive than the researchers had expected them to be.
+C They were manipulated to produce protective bacterial enzymes.
+D They were selected for the experiment because they are more easily damaged by 2,4-D than by glyphosate.
+
+
+第6题
+What is the professor's opinion about the future use of 2,4-D?
+A She is convinced that 2,4-D will cause unintentional damage to crops.
+B She is convinced that 2,4-D will be effective only for a limited period of time.
+C She believes that 2,4-D will become too expensive for widespread use.
+D She believes that 2,4-D will be most effective if combined with other herbicides.
+
+
+[al:佳文]
+[ar:佳音]
+[ti:Herbicides]
+[by:Linsena]
+[00:00.99][ppp]Listen to part of a lecture in a plant ecology class.//请听植物生态学课上的一段内容。
+[00:06.97]Last class we began talking about a herbicide, a weed killer that's been important for farmers. //上一节我们讲了除草剂，除草剂对农民来说很重要。
+[00:13.66]It was developed in the 1970s and is the most widely used method by farmers for killing weeds in the United States. //除草剂是在20世纪70年代发展起来的，是美国农民最广泛使用的除杂草的方法。
+[00:20.35]I'm talking of course about glyphosate. //当然了，我说的是草甘膦。
+[00:23.61]Now, remember we said glyphosate works by interfering with the synthesis of certain amino acids in weeds, and when it was first introduced glyphosate was considered a miracle chemical.//现在，请记住，我们说草甘膦通过阻碍杂草中某些氨基酸的合成而发挥作用，并且在它首次引入草甘膦时，人们认为这是一个神奇的化学品。 
+[00:35.57]That's because it was a wide spectrum herbicide, meaning it killed a wide range, a large variety of weeds. //这是因为它是一种广谱除草剂，这意味着它杀死了很多种类的杂草。
+[00:42.46]It was safe for farmers to work with it and it wasn't toxic to cows or other farm animals. //这种除草剂对于农民来说是安全的，而且也不会伤害到牛或其他农场动物。
+[00:48.95]And because it broke down quickly after it was applied, when it decomposed, its environmental cost was pretty low. //而且由于这种除草剂在使用后迅速分解，且分解时环境成本相当低。 
+[00:56.05]Researchers have developed crops, genetically engineered crops that aren't damaged by glyphosate, while the herbicide kills the surrounding weeds. //研究人员开发出了不会被草甘膦破坏的转基因作物，而除草剂能杀死周围的杂草。
+[01:04.97]But what do you think happens with these weeds after a while? Jim?//但是，你认为一段时间后这些杂草会怎么样呢？吉姆？ 
+[01:09.03]Well, I mean weeds evolved so they must eventually become resistant to the weed killer.//我认为杂草不断进化，所以它们最终会对除草剂产生抗药性。
+[01:15.11]Yeah. And that's what's happening with glyphosate. //是啊。这就是草甘膦所面临的事情。
+[01:20.39]In over 20 states in the United States we have unwanted plants, weeds that can now tolerate many herbicides Including glyphosate. //在美国20多个州，我们不需要的植物，杂草现在可以耐受许多除草剂，包括草甘膦。
+[01:29.71]They are known as super weeds and they are real threat to agriculture. //它们被称为超级杂草，是农业面临的真正威胁。
+[01:34.38]For one thing they threaten to make minimum till farming impossible. //一方面他们威胁要尽可能减少农耕。
+[01:38.44]Minimum till farming is a common plowing method that doesn't affect deeper layers of soil. //最小耕作是一种普遍的耕作方法，不会影响更深层的土壤。
+[01:43.71]Just upper layers. It's an environmentally conscious method because it helps conserve organic matter in soil and cuts back on soil erosion. //仅会影响到上层土壤。这是一种环保的方法，因为它有助于保护土壤中的有机物质并减少土壤侵蚀。
+[01:52.83]But one disadvantage of this method is that it tends to allow grass, weeds, to germinate more easily. //但这种方法的一个缺点是它容易让草，杂草更容易发芽。
+[01:59.52]So without an effective herbicide, minimum till farmers end up spending a lot of time trying to get rid of super weeds, sometimes even by going in and manually pulling the weeds out of their fields.//因此，如果没有有效的除草剂，最小耕作农民需要花费大量时间清除超级杂草，有时甚至通过进入耕地，并手动将杂草从田地中拔出。
+[02:12.71]Huh, weeding like that might work in a small garden, but we must be talking about millions of acres of land here.//这种除草方式可能在小花园里行得通，但我们在这里讨论的是数百万英亩的土地。
+[02:22.04]Exactly. It's highly inefficient. So finding an alternative to glyphosate is really an urgent issue. And a recent research study shows a promising potential way to do this. //完全正确。这种方法效率很低。因此，目前迫切的问题找到一种可以替代草甘膦的方法。最近的一项研究展示了一种很有前景的方法。
+[02:35.01]The researcher's goal, rather than developing new herbicides, was to find new ways to engineer crops that are resistant to existing herbicides, so the crops grow unharmed while herbicides get rid of super weeds. //研究人员的目标不是开发新的除草剂，而是找到新的方法来改造对现有除草剂具有耐药性的作物，这样作物就不会受到伤害，而除草剂则可以清除超级杂草。
+[02:47.79]The researcher's breakthrough came when they identified two bacterial' enzymes that can help protect some plants from some herbicides. //研究人员的突破来自于他们确定了两种可以帮助保护某些植物免受某些除草剂污染的细菌酶。
+[02:56.31]Well, more specifically they figured out how to use these two bacterial enzymes to engineer corn and soybean plants so that they are resistant to a herbicide called 2,4-D.//嗯，更具体地说，他们想出了如何利用这两种细菌酶来改造玉米和大豆植株，使它们对一种叫做2,4-D的除草剂产生抵抗力。
+[03:09.69]2,4-D, is the name of the herbicide?//2,4-D，这是除草剂的名称吗？
+[03:13.55]Yes. An unusual name, right? 2.4-D is a very commonly used weed killer worldwide. //是。一个不寻常的名字， 2.4-D是世界最常用的除草剂。
+[03:21.25]It's used frequently to control dandelions. //经常用它来控制蒲公英。
+[03:23.68]Now I mentioned earlier that glyphosate targets amino acid synthesis. //我之前提到过草甘膦的目标是合成氨基酸。 
+[03:28.76]We don't need to get into this specific of these processes, but 2,4-D is a hormone regulator so it works differently. //我们不需要深入了解这些具体的过程，但2,4-D是一种激素调节因子，因此它的作用是不同的。
+[03:37.68]And because 2,4-D works in a different way from glyphosate, it'd be an ideal herbicide to use on super weeds that are now resistant to glyphosate.//而且由于2,4-D与草甘膦的作用方式不同，它将成为一种理想的除草剂，用于清除目前对草甘膦具有耐药性的超级杂草。
+[03:48.84]So when researchers pinpointed the bacterial enzymes that resist 2,4-D, they went ahead and engineered the corn plant to produce one of those enzymes and the soybean plant to produce the other.//因此，当研究人员确定了抵抗2,4-D的细菌酶时，他们继续进行基因工程，使玉米植株产生其中一种酶，而大豆植株产生另一种酶。
+[04:02.42]How?//怎么样？
+[04:04.04]Well, they use pretty sophisticated techniques involving plant seeds. //那么，他们使用了涉及植物种子的复杂技术。
+[04:09.32]They manipulate the seeds with the enzymes, so the plants will eventually grow to be resistant to 2,4-D. //他们用酶操作种子，所以植物最终对2,4-D产生抵抗力。
+[04:16.98]So after growing these corn and soybean plants the researchers tested them by treating them with 2,4-D both in greenhouses and in fields. //因此，在种植这些玉米和大豆植物后，研究人员在温室和田间用2,4-D来测试它们。
+[04:26.30]They're done that no matter what the condition the plants were highly resistant to the herbicide. //不管在什么条件下，作物都对除草剂都有很强的抵抗力。
+[04:31.58]None of the usual effects of treatment were exhibited, malformation or lower yield, meaning lower production of corn or soybeans. //没有表现出任何通常的处理效果，畸形或低产量，这意味着玉米或大豆的产量降低。
+[04:39.49]This is promising because if we can get the right crop plants to be sort of immune to 2,4-D, that means that 2,4-D could be used as a weed killer to get rid of the super weeds that would otherwise try to grow around them, which would solve the super weed problem, for now anyway. //这是有希望的，因为如果我们能够让正确的作物植物对2,4-D产生免疫力，那就意味着2,4-D可以用作除草剂来除掉那些在作物周边生长的杂草，现在无论如何，都将解决超级杂草问题。
+[04:57.73]But let's not forget what Jim painted out before.//但我们不要忘记吉姆之前所指出的问题。
+[05:00.94]Weeds evolve?//杂草的进化问题吗？
+[05:02.76][ppp]ProfessorExactly.//是的，教授。
+[05:04.59][end]

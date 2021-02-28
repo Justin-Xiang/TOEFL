@@ -1,0 +1,95 @@
+﻿ About a piano concert
+第1题
+Why does the student go to see the professor?
+A To request a different venue for her next performance.
+B To ask for more information about an assignment.
+C To discuss a composition written by a classmate.
+D To request extra time to complete an assignment.
+
+
+第2题
+Why was the student nervous during her recent piano performance?
+A She was not used to the way her playing sounded in the new venue.
+B She was not expecting such a large audience for a student performance.
+C She was not able to use the piano that she had been practicing on.
+D She had not spent enough time learning the piano piece she performed.
+
+
+第3题
+Why does the professor mention great composers?
+A To indicate a process that the student could use to compose some music
+B To help explain the purpose of an assignment
+C To suggest a topic for a class presentation.
+D To suggest how to find inspiration while composing music.
+
+
+第4题
+What will the student write about in her essay?
+A Reasons that giving a performance can be difficult.
+B A piano composition by a famous composer.
+C The history of musical notation for piano.
+D Her process of creating a piano composition.
+
+
+第5题
+What does the professor imply when he says this?
+A He feels that the student should be allowed to have an extension on her assignment.
+B He is annoyed that the student frequently asks for extensions on her assignments.
+C He is concerned that the student will not have enough time to finish her assignment.
+D He thinks that the student’s classwork will interfere with her performance schedule.
+
+
+
+
+Listentoaconversationbetweenastudentandhermusiccompositionprofessor.
+Professor
+Oh,hello,Maria.HowwasyourperformanceonSaturday?I’msorryihadtomissit.
+Student
+Reallygood.Thanks.IwasnervousthewholetimeIwasplayingthough.
+Professor
+That’stobeexpected.Ihearditwasalargeaudience.
+Yeah.Studentperformanceshavebeendrawingbigcrowdslately.Lotsofstudentsandprofessorsarecomingto
+listen.ButI’mprettycomfortableevenwithabigaudience.
+Professor
+Luckyyou.Butyouwerenervousthistime?Wastheresomeproblemwiththepianoorsomething?
+Actually the day before the concert, the facilities managers announced that we were going to be in the new
+concerthallinstead.
+Professor
+Wow.Well,soyoudidn’tlikethenewvenue?
+No. I mean, it’s a really nice building. But I only got one practice session in the new hall. And even though it
+wasthe samepiano, thesound in theroom is verydifferent formthe oldhall. You know, it’s a biggerroom, so
+theeffectisquite different.When i wasplaying, I wasafraidI would losemyconcentrationbecauseoftheway
+themusicsoundedinthere.I’mnotusedtoityet.
+Professor
+I’msureyourperformancesoundedgoodregardless.
+Thanks.Ireallycametoask.Youknowtheassignment,we’vebeentalkingaboutinclass.Weweresupposedto
+createapianocompositionourselves.
+Professor
+That’sright.
+But there are three parts to the assignment, right? Compose a piano piece, write an essay and present it all in
+class.
+Professor
+Yes.
+Whatisitthatyouarelookingforintheessay?
+Professor
+128
+Well,whenyoucomposeapieceofmusicyourself,ithelpsyougainabetterunderstandingofmusicalnotation.
+Notes,therests,therhythmandtiming. Italsogivesa newappreciationforthegreatcomposers.SoI wantyou
+torecordtheprocessofhowyoumakeitallcometogether.
+Writeabouttheexperience?
+Professor
+Yes.Thingslikehowthemusiccametoyou,whatkindofchangesyoumadeovertime. Imean,veryfewofus
+just sit down at the piano and can immediately create a complete composition. We all have our own process.
+AndIwantyoutounderstandyoursandtobeabletocommunicateit.
+Okay.Andthenwehavetoplayourcompositiontotheclass?
+Professor
+Ofcourse.We’reallgonnaheartheresultsofeachother’sefforts.Haveyougotstartedonyet?
+Justbarely.IwantedtogetSaturday’sperformanceoutoftheway,soIcouldconcentrateonit.
+Professor
+Well, the first draft is due in two weeks. I know students have demanding schedules, but I need to keep fairly
+rigidduedates.
+Oh,I’mnotconcernedaboutthat.Saturday’sperformanceinspiredme.
+Professor
+That’swhyperformingisoneofthecourserequirements.Itoftenhasthateffectonpeople.
+
+{"1": ["B"], "2": ["A"], "3": ["B"], "4": ["D"], "5": ["C"]}

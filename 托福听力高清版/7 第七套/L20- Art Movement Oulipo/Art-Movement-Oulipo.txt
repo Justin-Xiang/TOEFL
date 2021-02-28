@@ -1,0 +1,100 @@
+﻿ Art Movement Oulipo
+
+第1题
+What is the main purpose of the lecture?
+A  To analyze the rules used in twentieth-century novels
+B To introduce students to a little-known literary movement
+C To compare the stylistic differences of two writers
+D To explain why a writing technique is no longer practiced
+
+
+第2题
+What is true of Georges Perec's approach to writing that is not true of Harry Mathews'?
+A Perec wrote his novels in rhyme.
+B  Perec used only English words that have French roots. 
+C Perec limited the number of lines in his novels. 
+D  Perec revealed what restrictions he used in his writing.
+
+
+第3题
+How did applying strict rules affect Mathews' writing?
+A It helped him shorten the length of a long novel. 
+B It enabled him to write about a personal topic.
+C It slowed down his writing process. 
+D It prevented his work from gaining popularity among readers.
+
+
+第4题
+According to the professor, what is a common criticism of the OuLiPo approach O
+A It does not encourage creativity. 
+B It is intended to mislead readers. 
+C It makes the writing process overly difficult
+D Most of the literature it produced is poorly written. 
+
+
+第5题
+Why does the professor mention poetry?
+A To show that the approach used by OuLiPo writers was not new
+B To emphasize that poetry can be more difficult to write than novels
+C To help explain how the OuLiPo movement got started
+D To argue that the best poetry generates a strong emotional response among readers
+
+
+第6题
+What opinion does the professor express about Perec and Mathews at the end of the lecture?
+A Their work demonstrates skill but it is not real literature.
+B They should have relaxed some of the rules that they used in their writing.
+C Some of their novels are of high quality. 
+D Their novels are difficult to understand.
+
+
+
+[al:佳文]
+[ar:佳音]
+[ti:Art-Movement-Oulipo]
+[by:Linsena]
+[00:00.15][ppp]Listen to part of a lecture in a literature class.//请听文学课上的一段内容。
+[00:04.93]So today I'd like to discuss a group of experimental writers who started an important but relatively unobservable literary movement known as Oulipo. //所以今天我想讨论一群实验作家，他们创办了一个重要但相对不可预测的文学运动，称为乌力波。
+[00:14.66]The term OuLiPo comes from a combination of several French words, which are roughly translated as the workshop of potential literature. //乌力波这个术语来自几个法语单词的组合，大致翻译成潜在文学工场。
+[00:23.38]Um, the word 'potential' is used because the writers are trying to expand the boundaries of traditional literature to create new literary forms. //嗯，使用“潜在”这个词是因为作家们试图扩大传统文学的界限，以创造新的文学形式。
+[00:31.70]Now it seems strange, but the main way OuLiPo writers expand those boundaries is by placing limits or strict rules sometimes incredibly strict rules, on their own writings. //现在看起来很奇怪，但乌力波作家扩展这些界限的主要方式是在自己的着作中设置限制或严格的规则，有时甚至是非常严格的规则。
+[00:43.46]They think that following self-imposed restrictions actually leads to a kind of freedom and discovery. Suzanne?//他们认为，自我实施的限制实际上会带来一种自由和发现。苏珊?
+[00:50.55]What kind of limitations?//什么样的限制？
+[00:53.64]Generally they involve avoiding things that a writer normally would have to do when creating literature. like avoiding certain words or letters, or having a certain number of characters in the novel.//一般来说，它们涉及避免了作家在创作文学时通常不得不做的事情。如避免某些文字或字母，或者在小说中有一定数量的人物。 
+[01:05.39]There is a famous example from an OuLiPo workshop experiment. //乌力波工场实验中有一个著名的例子。
+[01:09.45]It's a novel about 300 pages long by a fellow named George Perec. //这是一本长约300页的长篇小说，名叫乔治·佩雷克。
+[01:14.11]Perec's novel doesn't contain a single letter E. E is the most common vowel in probably any romance life, so this was quite a challenge. //佩雷克的小说中没有一个字母E。E是任何浪漫生活中最常见的元音，所以这是一个相当大的挑战。
+[01:23.85]And in his next book E was the only vowel that Perec did use, no A,I, O, or U. //在他的下一本书中，E是佩雷克唯一使用的元音，没有A，I，O或U.
+[01:30.76]OuLiPo was founded in 1960. //乌力波成立于1960年。
+[01:33.40]Most OuLiPo writers are French, but there's one well-known American Harry Mathews. //大部分乌力波作家都是法国人，但是有一位着名的美国人哈利•马修斯。
+[01:39.28]Now while Perec likes to let everyone know what restrictions he used, Mathews does the opposite. //虽然佩雷克喜欢让每个人都知道他使用了什么样的限制，但马修斯却反其道而行之。
+[01:45.16]He does not reveal to his readers the restrictions behind his major works.//他没有向他的读者透露他主要作品背后的限制。
+[01:49.83]But even if the rules wasn't disclosed, wouldn't it still be obvious if, like, what if Mathews had followed Perec's rule and didn't use any Es.//但即使没有公开规则，如果马修斯遵循佩里的规则并且没有使用任何Es，那么它是否仍然是显而易见的。
+[01:59.76]Yeah, but not all rules are so obvious. //是的，但并非所有规则都如此明显。
+[02:02.91]In fact I couldn't even tell you the formal limitation involved in any of Mathews' novels.//事实上，我甚至无法告诉你任何马修斯小说中的正式限制。
+[02:07.78]But if Mathews is following a rule, like, how realistic could his novels be?//但是如果马修斯遵循一条规则，比如他的小说能有多真实呢？
+[02:12.84]They are very realistic actually. //实际上他们非常现实。
+[02:15.52]You really get involved with the characters and their lives. //你真的参与了角色之中，并深入他们的生活。
+[02:18.68]They are so real that it probably never crosses your mind that he used some elaborate rule, like every chapter has to have 2 characters in it or something like that. //他们如此真实，以至于他可能永远不会想到他会使用一些复杂的规则，就像每个章节必须有2个字符或类似的东西。
+[02:28.00]Mathews says that before he created his rule, he wasn't able to write The subject matter was too personal, too emotional, but once he came up with a rule, he was able to write his novel. //马修斯说，在他制定规则之前，他无法写出这个主题太过个人化，太情绪化，但是一旦他提出了一个规则，他就能写出他的小说。
+[02:38.96]So what do you think of OuLiPo? Would you read a novel inspired by this movement?//那你觉得乌力波怎么样？你会读一本受这个运动启发的小说吗？
+[02:43.83]I might get distracted trying to figure out the rule and lose track of the story.	//我可能会因为试图弄清楚这个规则而分心，而忘记了故事的轨迹。
+[02:48.49]Um. , unless the story is really engaging. Anyone else? Lewis?//嗯。除非这个故事真的很吸引人。其他人呢? 刘易斯?
+[02:53.52]I've always imagined that writing fiction is a really creative process, but like following some arbitrary rule? That doesn't judge.//我一直认为写小说是一个非常有创意的过程，但是喜欢遵循一些武断的规则？这并不可以判断。
+[03:02.52]Using a limitation or restriction probably bothers a lot of readers and writers. //使用限制或约束可能会困扰许多读者和作家。
+[03:07.19]Some writers are very critical. They think OuLiPo is just a bunch of tricks, that nothing real comes out of it. //一些作家非常关键。他们认为乌力波只是一堆把戏，没有什么真正的东西。
+[03:13.48]And this criticism makes sense because, as you point out, there's this romantic notion that creativity, anything creative, just comes out of nowhere. //这种批评是有道理的，因为正如你所指出的那样，这种浪漫的观念认为，创造力，任何创造性，都是无处不在的。
+[03:22.20]You know, you're walking in the woods. //你知道，你在树林里散步。
+[03:24.64]This great idea pops up. //这个伟大的想法突然出现了。
+[03:26.61]You create something, and next thing you know it's in some museum or in a book. //你创造了一些东西，接下来你会知道它在某个博物馆或书中。
+[03:31.37]We don't like to imagine that, for example, a writer wakes up and says okay, I'm gonna roll the dice and if it comes up six then I'm gonna have six characters, if it comes up two I'm gonna have two characters. //例如，我们不喜欢想象，一个作家醒来说好，我要掷骰子，如果它是6，那么我就有6个字符，如果它出现2个字符，我就会有两个字符。
+[03:44.96]It just doesn't seem creative, but this is not uncommon in other genres of literature. //这似乎不太有创意，但这在其他类型的文学作品中并不少见。
+[03:49.82]For example, poetry written in the 17th and 18th century, the rules and restrictions are very strict, you know, how many rhymes there have to be, how many lines in a poem. //例如，17世纪和18世纪的诗歌，规则和限制是非常严格的，你知道，必须有多少个韵，一首诗中有多少行。
+[03:59.97]And that's not so different from OuLiPo, except that these writers kind of make a game out of it. //这与乌力波并没有太大区别，只是这些作家有一种创造游戏的能力。
+[04:05.77]I mean, I should point out that Perec and Mathews were trying to create masterpieces. //我的意思是，我应该指出佩里和马修斯正试图创造杰作。
+[04:10.95]They just wanted to explore what could potentially be literature. //他们只想探索可能是文学的东西。
+[04:14.80]They saw themselves more as acrobats, people who are valued for specific skills, like writing a novel without the letter E. //他们把自己看成是杂技演员，对于特定技能很是重视，比如写一部没有字母e的小说。
+[04:22.92][ppp]They didn't necessarily want to be recognized as a genius. //他们并不一定想被认为是天才。
+[04:29.11]Nevertheless, I believe they ended up with some fantastic works of literature.//尽管如此，我相信他们最终得到了一些精彩的文学作品。
+[04:33.57][end]//结束
+

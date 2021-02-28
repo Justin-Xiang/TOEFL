@@ -79,3 +79,18 @@ So,切题句
 tpo 40 41 42 43
 
  
+
+Orally present the research
+
+discover the rewards and challenges
+
+Enables sb to do sth
+
+神奇的转场句
+
+Peck the soil
+
+Prepare a piece of weed
+
+natural behavior peck the soil. 
+

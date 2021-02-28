@@ -1,0 +1,81 @@
+﻿ scandinivian towns 
+第1题
+What is the leciure mainly about?
+A Recently discovered archaeological sites from Viking Age Scandinavia 
+B A new theory about the production of goods in Viking Age Scandinavia 
+C A new way of thinking about the development of towns in Viking Age Scandinavia 
+D The rise and fall of trade networks in Viking Age Scandinavia
+
+
+第2题
+Why does the professor mention airports?
+A To illustrate the concept of a nodal point 
+B To explain the original application of network 
+C To contrast modern commerce with medieval trading 
+D To emphasize the role of technology in trading networks
+
+
+第3题
+According to the professor, what artifacts were found at only seven Viking trading sites?
+A A large quantity of copper coins from Germany
+B Several pieces of jewelry made from silver
+C A large quantity of imported ceramics
+D Evidence of the production of bronze castings
+
+
+第4题
+According to the professor, in what way were early Scandinavian towns different from later settlement?
+A Early Scandinavian towns were less likely to be fortified.	
+B Early Scandinavian towns had more contact with The surrounding countryside.
+C 0 Early Scandinavian towns were farther apart from one another.	
+D Early Scandinavian towns were less likely to be involved in international trade.
+
+
+第5题
+What does the professor imply is a problem with the central-place theory?
+A It assumes that all early Viking towns were long-distance trading centers.	
+B 0 It assumes that all early Viking towns had military power.	
+C It assumes that all of the early Viking towns were about the same size.
+D It assumes that all centra places grew into large towns.
+
+
+第6题
+Listen again to part of the lecture. Then answer the question. What does the professor imply when she says this:
+A The theory is often misunderstood.
+B 0 The theory applies mainly to Scandinavia. 
+C The theory has evolved over time.
+D he theory is known by another name.
+
+
+[al:佳文]
+[ar:佳音]
+[ti:British-accent-scandinivian-towns]
+[by:Linsena]
+[00:03.69][ppp]Listen to part of a lecture in an archaeology class.//请听考古课上的一段内容。
+[00:07.55]We were talking last time about the Viking age of Scandinavia which lasted from about 700 CE to roughly 1100 CE.//我们上次谈到斯堪的纳维亚的维京时代，从公元前700年至公元1100年左右。
+[00:15.86]And in the early part of the Viking age, it certainly wasn't what you call an urban society, but there is evidence that quite a few towns emerged around that time. //而在维京时代的早期，并不是你所说的城市社会，但有证据表明在那个时期出现了不少城镇。
+[00:25.60]And scholars have been trying to figure out why. //学者们一直在试图弄清楚这是为什么。
+[00:28.64]What were the dynamics that led to their existence? One theory, for simplicity's sake, we call it the Central Place Theory, says that these fawns began as central piaces within different regions across the Scandinavian landscape. //导致它们存在的动力是什么？有一种理论，为了简单起见，我们称之为中心地理论，该理论认为这些小动物起源于斯堪的纳维亚风景中不同地区的中心地带。
+[00:41.40]In this view, the first towns were regional centers each one time economically to the local surrounding countryside. //在这个观点中，第一个城镇是区域中心，每次都是经济的当地周边农村。
+[00:48.81]As a local market really, it is exercising political control over the area. //作为一个本地市场，它正在对该地区进行政治控制。
+[00:54.29]Weli, recently an archaeologist named S S decided that there was another way to look at the process of urbanization, how these towns developed in the Viking age. //最近一位名叫S S的考古学家坚称，还有另一种方式来看待城市化进程，以及这些城镇在维京时代是如何发展起来的。
+[01:04.83]He says that we shouldn't look at ail these early towns in the same way, that not all of them had their primary relation with the surrounding countryside.//他说，我们不应该以同样的方式看待这些早期城镇，并不是所有的城镇都与周围的乡村有着主要的关系。
+[01:12.95]He says fhatsome of these early towns. What caused them to grow was their economic connections with other towns, some of which were quite far away, in other words;long-distance trade.//他说很多这样的早期城镇。换句话说，造成这些城市增长的原因是它们与其他城镇的经济联系，其中一些城市地处偏远，需要进行长途贸易。
+[01:23.50]He thinks we should look at some early Scandinavian towns as a network. Now, his notion of network comes from network theory.//他认为，我们应该将一些早期的斯堪的纳维亚城镇视为一个网络现在，他对网络的概念来自于网络理论。
+[01:32.01]Network theory is a mathematical concept that's been used to explain a lot of different processes in many different fields. //网络理论是一个数学概念，用于解释许多不同领域的许多不同过程。
+[01:39.11]Um, basically it's the study of the structure of the relationships between the elements of a system. Now a key aspect of network theory is the concept of nodal points or notes.//基本上来说，它是用于研究系统元素之间关系的结构。现在网络理论的一个关键方面是节点或笔记的概念。
+[01:50.26]NodGl points are those viewpoints in a network that get the most traffic. They are the most highly connected, like, like, like the largest airports that have the most connection flights.//NodGl点是获得最多流量的网络中的那些视点。它们之间高度关联，就像是连接航班最多的最大机场一样。
+[02:00.81]So S decided to figure out which towns in medieval Scandinavia could be classified as nodal points for long-distance traffic in the network of early Viking towns.//因此，S决定找出中世纪斯堪的纳维亚的哪些城镇可以划分为早期维京城镇网络中的长距离交通节点城市。
+[02:10.74]He did this by analyzing artifacts that had been gathered from archaeological-sites from the eady Viking era. //他通过分析从海地维京时代的考古遗址收集的文物来做到这一点。
+[02:17.03]So what he did was to look not just at the quantify of artifacts that were found in different sites, but also to classify them according to the types of artifacts that were found. //所以他所做的不仅仅是观察在不同地点发现文物的数量，还要根据所发现的文物类型来对它们进行分类。
+[02:26.16]To determine whether a town had long-distance connections, he looked at the quantity of imported goods found af the site, as opposed to look, at available goods. //为了确定一个城镇是否有长距离关系，他查看现场，发现了进口商品的数量，而不是查看现有商品的数量。
+[02:35.08]One example of an important goods he found Is a type of ceramics that wasn't produced in Scandinavia, but in Deutschland, um, in what is now Germany. //一个例子就是，他发现的一件重要商品的不是斯堪的纳维亚半岛生产的一种陶瓷，而是在德意志，也就是现在的德国生产的。
+[02:43.41]These German ceramics are found in abundance in only seven sites in early Viking age Scandinavia. Those same seven sites are also the only sites that contain evidence of the production of / bronzes. //在早期维京时代的斯堪的纳维亚，仅在七处发现了这些德国陶瓷。同样的七个地点也是唯一包含青铜器制作证据的地点。
+[02:54.76]New making bronze required raw materials, like copper alloy, which wasn't available locally. It would have had to have come from d long distance away and passed to the hands of traders. //新制造的青铜需要的一些原材料，如铜合金，这在当地是不可用的。不得不从远处将这些原材料传递给交易者。
+[03:06.52]Because of this, S called these sites trading sites. It's that long-distance connection that distinguishes a trading site from other kinds of towns and makes it a nodal point in the network. //因此，S将这些网站称为交易地。正是这种长距离连接将一个交易地和其他类型的城镇相区分，并使其成为网络中的一个节点。
+[03:17.27]Why is network theory a more useful approach to fhe study of Scandinavian urbanization than the Central Place Theory? //为什么网络理论比中心地理论更适合研究斯堪的纳维亚的城市化问题？
+[03:23.97]Well, unlike the Central Place Theory, Network Theory doesn’t make uniform assumptions about the towns, assumptions that may not be true. //那么，与中心地理论不同，网络理论并没有对城镇做出统一的假设，假设可能并非如此。
+[03:31.67]According to the Central Place Theory, towns exerted political control over the surrounding region and that would have required military force. //根据中央地方理论，城镇对周边地区施加了政治控制，这将需要军事力量。
+[03:39.37]But in fact, until 900s, few Scandinavian towns were fortified. Network theory makes no assumptions about political control. //但事实上，直到上世纪九十年代，斯堪的纳维亚的几个城镇都加强了防御力。
+[03:47.69]The only characteristic that a town needs in order to qualify as a node in the network is that it would be a suitable starting off point in fhe long-distance trade and shipment of goods.//网络理论没有对政治控制进行任何假设。一个城市为了成为网络中的一个节点而需要的唯一特征是使其成为长距离交易和货物运输的一个合适起点。
+[04:47.69][end]
